@@ -29,7 +29,7 @@ async function orderBook(searchParam) {
     console.log(err);
   }
 }
-// orderBook("bikes");
+// orderBook("flowers");
 
 async function postNewBook(e) {
   const booksUrl = "http://localhost:8001/books";
