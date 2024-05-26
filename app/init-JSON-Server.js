@@ -1,6 +1,5 @@
 //* RUN JSON-SERVER: "npx json-server --watch ../data/data.json --port 8001"
 
-const API_KEY = "AIzaSyAP7XtWvApoZN9XefzBfMtuHo9Qb9dOPWo";
 async function orderBook(searchParam) {
   try {
     const res = await axios.get(
