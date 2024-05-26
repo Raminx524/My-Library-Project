@@ -1,43 +1,74 @@
-//* RUN JSON-SERVER: "npx json-server --watch ../data/data.json --port 8001"
+const booksUrl = "http://localhost:8001/books";
+let numPage = 1;
+const prevBtn = document.querySelector("#previousHanler");
+const nextBtn = document.querySelector("#nextHanler");
+const prevNextDIvElem = document.querySelector("#pagination");
 
-const API_KEY = "AIzaSyAP7XtWvApoZN9XefzBfMtuHo9Qb9dOPWo";
-async function orderBook(searchParam) {
+const getAllBtn = document.querySelector("#getAllBooks");
+getAllBtn.onclick = async () => {
   try {
-    const res = await axios.get(
-      `https://www.googleapis.com/books/v1/volumes?q=${searchParam}&key=AIzaSyAP7XtWvApoZN9XefzBfMtuHo9Qb9dOPWo&maxResults=40`
-    );
-    const booksArr = res.data.items;
-    booksArr.forEach((bookInfo) => {
-      const book = bookInfo.volumeInfo;
-      console.log(book);
-      const newBook = {
-        title: book.title,
-        authors: book.authors,
-        numPages: book.pageCount,
-        description: book.description,
-        image: book.imageLinks.smallThumbnail
-          ? book.imageLinks.smallThumbnail
-          : undefined,
-        copies: 1,
-        categories: book.categories,
-        ISBN: book.industryIdentifiers
-          ? book.industryIdentifiers[0]
-          : undefined,
-      };
-      postNewBook(newBook);
-    });
-  } catch (err) {
-    console.log(err);
-  }
-}
-orderBook("bikes");
-
-async function postNewBook(e) {
-  const booksUrl = "http://localhost:8001/books";
-  try {
-    console.log(e);
-    const res = await axios.post(booksUrl, e);
+    const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
+    console.log(res.data);
+    const books = res.data.data;
+    const tableElem = document.querySelector("table");
+    tableElem.innerHTML = `<thead>
+    <th>ID</th>
+    <th>TITLE</th>
+    </thead><tbody></tbody>`;
+    const tbodyElem = tableElem.querySelector("tbody");
+    for (let i = 0; i < books.length; i++) {
+      tbodyElem.innerHTML += `<tr>
+        <td>${books[i].id}</td>
+        <td>${books[i].title}</td>
+        </tr>`;
+    }
+    prevNextDIvElem.style.display = "flex";
+    paginationHandler(res.data);
   } catch (error) {
     console.log(error);
   }
+};
+
+prevBtn.onclick = () => {
+  numPage--;
+  getAllBtn.click();
+};
+
+nextBtn.onclick = () => {
+  numPage++;
+  getAllBtn.click();
+};
+
+function paginationHandler(pagesInfo) {
+  if (pagesInfo.pages == numPage) {
+    nextBtn.disabled = true;
+  } else {
+    nextBtn.disabled = false;
+  }
+  if (numPage === 1) {
+    prevBtn.disabled = true;
+  } else {
+    prevBtn.disabled = false;
+  }
 }
+
+const createFormElem = document.querySelector("#createBookForm");
+createFormElem.addEventListener("submit", async (e) => {
+  const msgBox = createFormElem.querySelector("#addFormMsgBox");
+  e.preventDefault();
+  msgBox.innerText = "";
+  const bodyFromData = new FormData(createFormElem);
+  try {
+    const res = await axios.post(booksUrl, bodyFromData, {
+      headers: { "Content-Type": "application/json" },
+    });
+    console.log(res);
+
+    msgBox.innerText = "Book added successfully!";
+    msgBox.style.color = "green";
+  } catch (error) {
+    console.log(error);
+    msgBox.innerText = "Failure!";
+    msgBox.style.color = "red";
+  }
+});
