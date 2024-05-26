@@ -1,0 +1,2779 @@
+{
+  "books": [
+    {
+      "id": "a624",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "numPages": 311,
+      "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781781100486"
+      }
+    },
+    {
+      "id": "930e",
+      "title": "Harry Potter and International Relations",
+      "authors": [
+        "Daniel H. Nexon",
+        "Iver B. Neumann"
+      ],
+      "numPages": 262,
+      "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+      "image": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0742539598"
+      }
+    },
+    {
+      "id": "f46a",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 734,
+      "description": "Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths.",
+      "image": "http://books.google.com/books/content?id=4mtauAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Escaped prisoners"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1536443743"
+      }
+    },
+    {
+      "id": "a1a8",
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 870,
+      "description": "\"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series\"--Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Bildungsromans"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UOM:39076002651854"
+      }
+    },
+    {
+      "id": "075f",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 260,
+      "description": "Witchcraft, wizardry - fiction.",
+      "image": "http://books.google.com/books/content?id=nmXTy4FPfcwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Boarding schools"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1551922444"
+      }
+    },
+    {
+      "id": "d825",
+      "title": "JK Rowling's Harry Potter Novels",
+      "authors": [
+        "Philip Nel"
+      ],
+      "numPages": 100,
+      "description": "Explores the themes found in the novels, provides information about reviews of the novels, and includes information about the life of J.K. Rowling.",
+      "image": "http://books.google.com/books/content?id=qQYfoV62d30C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0826452329"
+      }
+    },
+    {
+      "id": "b9a5",
+      "title": "Friends and Foes of Harry Potter",
+      "authors": [
+        "Nikita Agarwal",
+        "Chitra Agarwal"
+      ],
+      "numPages": 162,
+      "description": "There is no doubt that Harry Potter reigns over the children's literature market. J.K.Rowling's inimitable cast of Harry Potter adventures has ignited the imaginations of children and grown-ups alike all over the world. But how much do you really know about J.K. Rowling's inimitable characters? Did you know that the Harry Potter characters hold secrets behind their names? Hermione, Snape, Crabbe, even Hogwarts School - all have histories waiting to be discovered.Now, two young fans of the Harry Potter series present a companion book for other readers who can't get enough of Harry and his friends and foes. This book, Friends and Foes of Harry Potter: Names Decoded, reveals the secrets behind the names of the mysterious characters, houses, and pets. Written by young fans, for all fans, this book also offers journaling space, trivia quizzes, and exquisite illustrations.This book is a perfect gift for children and adults whose inquisitive natures match those of their favorite heroes, Harry, Hermione, and Ron. Fans can quiz each other and use the glossary to look up unfamiliar terms that are unique to the Harry Potter series. What is the meaning behind Harry Potter's name? Or the uncanny resemblance of Voldemort to the Roman god of Time? You'll have to read Friends and Foes of Harry Potter to find out!",
+      "image": "http://books.google.com/books/content?id=JGQBcu5O_ZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Children's stories, English"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781598002218"
+      }
+    },
+    {
+      "id": "9547",
+      "title": "‏هيرى پوٹر اور رازوں کا کمره :‏",
+      "authors": [
+        "J. K. Rowling",
+        "Darakhshanda Asghar Khokhar"
+      ],
+      "numPages": 314,
+      "description": "An Urdu language edition of the second Harry Potter tale.",
+      "image": "http://books.google.com/books/content?id=gal9MtXKC68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0195798767"
+      }
+    },
+    {
+      "id": "d0ab",
+      "title": "The Subversive Harry Potter",
+      "authors": [
+        "Vandana Saxena"
+      ],
+      "numPages": 218,
+      "description": "The seven books in J.K. Rowling’s Harry Potter series bring together a variety of aspects of young adult fiction and portray youthful rebellion as well as cultural containment and an adolescent’s negotiations through these conflicting forces. This detailed study of Harry Potter explores the limits of the formulaic structure of adolescent fantasy fiction and also examines the impulse of exploration, subversion, and resistance contained within the formula. Within both subversion and containment in the narrative, young adult fantasy becomes an embodiment of the experience of adolescence—its angst, rebellion and also its journey of personal maturation.",
+      "image": "http://books.google.com/books/content?id=QVoGRrtIkwsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780786489916"
+      }
+    },
+    {
+      "id": "dfe1",
+      "title": "The Psychology of Harry Potter",
+      "authors": [
+        "Neil Mulholland"
+      ],
+      "numPages": 338,
+      "description": "Harry Potter has provided a portal to the wizarding world for millions of readers, but an examination of Harry, his friends and his enemies will take us on yet another journey: through the psyche of the Muggle (and wizard!) mind. The twists and turns of the series, as well as the psychological depth and complexity of J. K. Rowling’s characters, have kept fans enthralled with and puzzling over the many mysteries that permeate Hogwarts and beyond: • Do the Harry Potter books encourage disobedience? • Why is everyone so fascinated by Professor Lupin? • What exactly will Harry and his friends do when they finally pass those N.E.W.T.s? • Do even wizards live by the ticking of the clock? • Is Harry destined to end up alone? And why did it take Ron and Hermione so long to get together? Now, in The Psychology of Harry Potter, leading psychologists delve into the ultimate Chamber of Secrets, analyzing human mind and motivation by examining the themes and characters that make the Harry Potter books the bestselling fantasy series of all time. Grab a spot on the nearest couch, and settle in for some fresh revelations about our favorite young wizard!",
+      "image": "http://books.google.com/books/content?id=BoX-6R21MgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781935251378"
+      }
+    },
+    {
+      "id": "16a2",
+      "title": "The Amazing Secrets of Nature",
+      "authors": [
+        "Reader's Digest Association"
+      ],
+      "numPages": 358,
+      "description": "With 900 full-color photographs and illustrations, this book takes the reader on a tour of the natural world, from appreciating the mechanics of a bird's flight to mass migrations of land mammals to explanations of tsunamis and volcanoes.",
+      "image": "http://books.google.com/books/content?id=ykUQUu1mvhYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Natural history"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "9622583067"
+      }
+    },
+    {
+      "id": "f3f4",
+      "title": "Nature",
+      "authors": [
+        "Sir Norman Lockyer"
+      ],
+      "numPages": 682,
+      "image": "http://books.google.com/books/content?id=vz_V5qQXAGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Electronic journals"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "WISC:89009520057"
+      }
+    },
+    {
+      "id": "406d",
+      "title": "Nature's Second Chance",
+      "authors": [
+        "Steven Apfelbaum"
+      ],
+      "numPages": 258,
+      "description": "Renowned conservationist Aldo Leopold once wrote, \"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it does otherwise.\" Few have taken Leopold's vision more to heart than Steven I. Apfelbaum, who has, over the last thirty years, transformed his eighty-acre Stone Prairie Farm in Wisconsin into a biologically diverse ecosystem of prairie, wetland, spring-fed brook, and savanna. In healing his land, Apfelbaum demonstrates how humans might play a starring role in healing the planet.",
+      "image": "http://books.google.com/books/content?id=SXISEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780807085967"
+      }
+    },
+    {
+      "id": "71ab",
+      "title": "The Periodic Table: Nature's Building Blocks",
+      "authors": [
+        "J. Theo Kloprogge",
+        "Concepcion P. Ponce",
+        "Tom Loomis"
+      ],
+      "numPages": 931,
+      "description": "The Periodic Table: Nature’s Building Blocks: An Introduction to the Naturally Occurring Elements, Their Origins and Their Uses addresses how minerals and their elements are used, where the elements come from in nature, and their applications in modern society. The book is structured in a logical way using the periodic table as its outline. It begins with an introduction of the history of the periodic table and a short introduction to mineralogy. Element sections contain their history, how they were discovered, and a description of the minerals that contain the element. Sections conclude with our current use of each element. Abundant color photos of some of the most characteristic minerals containing the element accompany the discussion. Ideal for students and researchers working in inorganic chemistry, minerology and geology, this book provides the foundational knowledge needed for successful study and work in this exciting area. Describes the link between geology, minerals and chemistry to show how chemistry relies on elements from nature Emphasizes the connection between geology, mineralogy and daily life, showing how minerals contribute to the things we use and in our modern economy Contains abundant color photos of each mineral that bring the periodic table to life",
+      "image": "http://books.google.com/books/content?id=hGa8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Science"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780128215388"
+      }
+    },
+    {
+      "id": "da68",
+      "title": "Nature's Call",
+      "authors": [
+        "Glenda Spears"
+      ],
+      "numPages": 159,
+      "description": "The natural world is a place of solace and peace. When it is reflected in poetry, it brings the reader into that healing place. Nature's Call: Day-to-Day Poetry is just that kind of poetry collection. It will uplift readers with its clear language, its optimism, and its emphasis on the beauty of the world around us. The poems were written one a day, in the morning, about real situations and places in the poet’s life. Readers may choose to read the poems at the same pace, savouring each morsel, or dive in and watch the quick unfurling of a life of moments. If you want a reminder to look to brighter side of life and enjoy the small things, look no further than this honest, heartfelt, and inspirational collection.",
+      "image": "http://books.google.com/books/content?id=aivFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Poetry"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781039172838"
+      }
+    },
+    {
+      "id": "aa06",
+      "title": "Nature's Friend",
+      "authors": [
+        "Lindsey McDivitt"
+      ],
+      "numPages": 32,
+      "description": "2019 Green Earth Book Awards - Long List The art and writing of Gwen Frostic are well known in her home state of Michigan and around the world, but this picture book biography tells the story behind Gwen's famous work. After a debilitating illness as a child, Gwen sought solace in art and nature. She learned to be persistent and independent--never taking no for an answer or letting her disabilities define her. After creating artwork for famous Detroiters and for display at the World's Fair and helping to build WWII bombers, Gwen moved her printmaking business to northern Michigan. She dedicated her work and her life to reminding people of the wonder and beauty in nature.",
+      "image": "http://books.google.com/books/content?id=D75NDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781534126459"
+      }
+    },
+    {
+      "id": "304e",
+      "title": "Dalynia - Nature's Slaughter",
+      "authors": [
+        "Adrian L Juhl"
+      ],
+      "numPages": 50,
+      "description": "Can Magistrate Marcus save his people from the mysterious abominations that are slaughtering them? The abomination army has attacked the people of Aazronia, seemingly without cause. Casualties, and the threat of extinction, drive Magistrate Marcus and his people to seek help from the druid homeworld. Besieged by the rabid infestation on the druid world, their only hope lies with Garos and Namorn - two rangers who have been sent to escort them to safety. Together with Darius, a young Elemental prodigy, they battle their way to the safety of the druid village and prepare to retake their homeworld.",
+      "image": "http://books.google.com/books/content?id=eujnBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780473297947"
+      }
+    },
+    {
+      "id": "26d9",
+      "title": "Handbook of Nature Study",
+      "authors": [
+        "Dietrich Lange"
+      ],
+      "numPages": 362,
+      "image": "http://books.google.com/books/content?id=6KdJAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature study"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UCAL:$B263506"
+      }
+    },
+    {
+      "id": "39d8",
+      "title": "Nature Conservation",
+      "authors": [
+        "Dan Gafta",
+        "John R. Akeroyd"
+      ],
+      "numPages": 460,
+      "description": "This book provides a multi-disciplinary coverage of the broad fields of species, community and landscape conservation. The panel of contributors consider a range of topics in vegetation and biodiversity assessment, planning and management of conservation zones and protected areas, together with historical and social/legal issues of the environment and nature conservation. The book celebrates the life’s work of Professor Franco Pedrotti.",
+      "image": "http://books.google.com/books/content?id=G_1lzsxAS1AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9783540472292"
+      }
+    },
+    {
+      "id": "eb57",
+      "title": "Infinite Nature",
+      "authors": [
+        "R. Bruce Hull"
+      ],
+      "numPages": 273,
+      "description": "Review: \"In this work, R. Bruce Hull argues that environmentalism will never achieve its goals unless it sheds its fundamentalist logic. The movement is too bound up in polarizing ideologies that pit humans against nature, conservation against development, and government regulation against economic growth. Only when we acknowledge the infinite perspectives on how people should relate to nature will we forge solutions that are respectful to both humanity and the environment.\" \"Infinite Nature opens doors so that nature can be seen from the scientific understandings proffered by anthropology, evolution, and ecology, to the promise of environmental responsibility offered by technology and economics, to the designs of nature envisioned in philosophy, art, law, and religion. Along the way, Hull helps us find the common ground created out of many natures - the place where sustainable and thriving communities are possible.\"--BOOK JACKET",
+      "image": "http://books.google.com/books/content?id=1gOZ1K3CyQAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780226359441"
+      }
+    },
+    {
+      "id": "2f93",
+      "title": "Iosuae imperatoris historia illustrata atque explicata ab Andrea Masio. Quae hoc opere contineantur, proxima pagina ostendet",
+      "numPages": 544,
+      "image": "http://books.google.com/books/content?id=2MXB2tzL6sgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "IBNR:CR000148445"
+      }
+    },
+    {
+      "id": "1efa",
+      "title": "Liber psalmorum hebraicus atque latinus ab Hieronymo ex hebraeo conversus. Consociata opera ediderunt Constantinus de Tischendorf, S. Baer, Fr. Delitzsch",
+      "numPages": 352,
+      "image": "http://books.google.com/books/content?id=uWdHAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UCAL:$B286969"
+      }
+    },
+    {
+      "id": "e617",
+      "title": "De mensuris et ponderibus liber syr",
+      "authors": [
+        "Paul de Lagarde"
+      ],
+      "numPages": 372,
+      "image": "http://books.google.com/books/content?id=in9JAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Bible"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UOM:39015067302060"
+      }
+    },
+    {
+      "id": "5fe0",
+      "title": "Memoirs of the Verney Family ... by Frances Parthenope Verney [ab Bd. 3] Margaret M. Verney",
+      "authors": [
+        "Frances Parthenope Verney"
+      ],
+      "numPages": 580,
+      "image": "http://books.google.com/books/content?id=Dg6Ec5IBr7EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "BSB:BSB11573806"
+      }
+    },
+    {
+      "id": "9140",
+      "title": "Ab-sa-ra-ka, Land of Massacre: Being the Experience of an Officer's Wife on the Plains",
+      "authors": [
+        "Margaret Irvin Carrington",
+        "Henry B. Carrington"
+      ],
+      "numPages": 420,
+      "image": "http://books.google.com/books/content?id=_8w0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Crow Indians"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "PSU:000007948657"
+      }
+    },
+    {
+      "id": "f561",
+      "title": "Annual Catalogue of the University of Kansas",
+      "authors": [
+        "University of Kansas"
+      ],
+      "numPages": 720,
+      "image": "http://books.google.com/books/content?id=HptGAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Universities and colleges"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UIUC:30112111993959"
+      }
+    },
+    {
+      "id": "47e8",
+      "title": "Archaeologia Cambrensis",
+      "numPages": 394,
+      "image": "http://books.google.com/books/content?id=SyUt6gZihNsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "BSB:BSB11386071"
+      }
+    },
+    {
+      "id": "01ed",
+      "title": "The Evangelical Union Hymnal",
+      "authors": [
+        "Evangelical Union"
+      ],
+      "numPages": 458,
+      "image": "http://books.google.com/books/content?id=myUJPdfhZH4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "NLS:B000326859"
+      }
+    },
+    {
+      "id": "4b08",
+      "title": "Journals of the Legislature of the State of California",
+      "authors": [
+        "California. Legislature"
+      ],
+      "numPages": 1326,
+      "image": "http://books.google.com/books/content?id=s7FCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "California"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "SRLF:A0003126695"
+      }
+    },
+    {
+      "id": "ab54",
+      "title": "A Dictionary of the English Language",
+      "authors": [
+        "Noah Webster"
+      ],
+      "numPages": 444,
+      "image": "http://books.google.com/books/content?id=9PMAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "HARVARD:32044081498974"
+      }
+    },
+    {
+      "id": "eefe",
+      "title": "Historical Dictionary of Soccer",
+      "authors": [
+        "Tom Dunmore"
+      ],
+      "numPages": 339,
+      "description": "The Historical Dictionary of Soccer presents a comprehensive history of the game through a chronology, an introductory essay, a bibliography, numerous appendixes that list everything from the FIFA World Player of the Year to FIFA World Cup Winners and Runners-Up to the UEFA Ch...",
+      "image": "http://books.google.com/books/content?id=9j1wbp2t1usC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Reference"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780810871885"
+      }
+    },
+    {
+      "id": "76ec",
+      "title": "Soccer",
+      "authors": [
+        "Heather Williams"
+      ],
+      "numPages": 33,
+      "description": "In Soccer: A Guide for Players and Fans, young readers can dive into one of the world's most popular sports. Readers will find easy-to-read explanations of soccer's beginnings, basic rules and strategies, and how they can suit up and get on the pitch. This book features colorful photos, fun facts, and informative sidebars, and aspiring soccer players will take what they learn from it and head straight to the goal!",
+      "image": "http://books.google.com/books/content?id=dfSaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781543583113"
+      }
+    },
+    {
+      "id": "382d",
+      "title": "Soccer For Dummies",
+      "authors": [
+        "Thomas Dunmore",
+        "Scott Murray"
+      ],
+      "numPages": 434,
+      "description": "Flick, fake, and dribble your way to soccer mastery Prepare for the World Cup or learn the rules for your own indoor or outdoor league, with Soccer For Dummies. We cover the world’s most popular sport from one end of the field to the other, starting with the history of soccer and the basics of the game. Discover the positions on the field, the best tactics for winning, and the skills the players (including you!) need in order to dominate. This update to the comprehensive guide introduces you to all the soccer greats and up-and-comers whose moves you’ll want to know. You'll find extensive coverage of women's soccer, including women’s world cup, the NWSL, Women’s Super League, and the UEFA Women’s Championship, and get descriptions of various leagues around the globe, and the lowdown on where you can find soccer games and resources, online and elsewhere. Learn how soccer got to be the #1 most popular sport in the world Get up to speed on the world’s best leagues, teams, and players, so you can follow and enjoy the World Cup Discover tips on playing and coaching, plus fun soccer facts and resources for learning more Become the ultimate soccer fan with your newfound knowledge of the game Soccer For Dummies is for anyone who wants to learn more about soccer, the rules, how the game is played, how professional leagues operate around the world, and how to follow them.",
+      "image": "http://books.google.com/books/content?id=9W56EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781119893653"
+      }
+    },
+    {
+      "id": "e10a",
+      "title": "G.O.A.T. Soccer Teams",
+      "authors": [
+        "Matt Doeden"
+      ],
+      "numPages": 32,
+      "description": "Soccer's best teams had superstar players, incredible goals, and epic victories. From Brazil's national team that featured the legendary Pelé to the 2019 US Women's National Team, meet the greatest soccer teams of all time.",
+      "image": "http://books.google.com/books/content?id=p_cLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781728425900"
+      }
+    },
+    {
+      "id": "a894",
+      "title": "Fútbol!",
+      "authors": [
+        "Joshua H. Nadel"
+      ],
+      "numPages": 274,
+      "description": "Zócalo Public Square’s 10 Best Books We Read This Year, 2014 How the game of soccer became a part of everyday life and national identity in Latin America Get ready for the 2014 FIFA World Cup and the 2016 Summer Olympics—both held in Brazil—with the story of Latin America’s most popular sport. Fútbol! explains why competitors and fans alike are so fiercely dedicated to soccer throughout the region. From its origins in British boarding schools in the late 1800s, soccer spread across the globe to become a part of everyday life in Latin America—and part of the region’s most compelling national narratives. This book illustrates that soccer has the powerful ability to forge national unity by appealing to people across traditional social boundaries. In fact, author Joshua Nadel reveals that what started as a simple game played a seriously important role in the development of Latin American countries in the twentieth century. Examining the impact of the sport in Argentina, Honduras, Brazil, Uruguay, Paraguay, Chile, and Mexico, Nadel addresses how soccer affects politics, the media, race relations, and gender stereotypes. With inspiring personal stories and a sweeping historical backdrop, Fútbol! shows that soccer continues to be tied to regional identity throughout Central and South America today. People live for it—and sometimes kill for it. It is a source of hope and a reason for suicide. It is a way out of poverty for a select few and an intangible escape for millions more.",
+      "image": "http://books.google.com/books/content?id=933SEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780813047546"
+      }
+    },
+    {
+      "id": "4d81",
+      "title": "Soccer!",
+      "authors": [
+        "Dev Ross"
+      ],
+      "numPages": 52,
+      "description": "Basic information about one of the most popular sports in the world.",
+      "image": "http://books.google.com/books/content?id=5MwUp2vfmuMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "160115240X"
+      }
+    },
+    {
+      "id": "f216",
+      "title": "Soccer",
+      "authors": [
+        "John Riley"
+      ],
+      "numPages": 70,
+      "description": "Examines the history, equipment, tactics, remarkable feats and players, tournaments, and recent developments of the popular sport.",
+      "image": "http://books.google.com/books/content?id=tSZ2ugAqf34C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0382094905"
+      }
+    },
+    {
+      "id": "55eb",
+      "title": "The Complete Quick-Look Guide to the Game of SOCCER",
+      "authors": [
+        "Show Me How"
+      ],
+      "numPages": 114,
+      "description": "A comprehensive and illustrated guide to soccer, including the rules, fan culture, and the history of the game.",
+      "image": "http://books.google.com/books/content?id=mPVEDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781681881119"
+      }
+    },
+    {
+      "id": "6e3c",
+      "title": "Fringe Nations in World Soccer",
+      "authors": [
+        "Kausik Bandyopadhyay",
+        "Sabyasachi Mallick"
+      ],
+      "numPages": 325,
+      "description": "Soccer is the most popular mass spectator sport in the world, gaining huge media coverage and reaching all levels of society in countries all around the world. More than just entertainment, soccer has proved to be a reflection of national, cultural, community and ethnic identity as well as an indication of the development and international status of post-colonial nation states. For those nations still at the fringes of the modern global game, soccer represents a vision of potential commercialisation, capable of generating foreign reserves and bringing in considerable economic power. This book explores aspects of the development of soccer in countries which have recently been marginalised in world soccer or have only erratic success on the international stage. These fringe nations include a greater part of Africa, the USA, Australia, Israel, India, Nepal, Bhutan, Burma, Indonesia, Thailand, Maldives and Sri Lanka, and while these countries are rarely noticed by the global football media, they nonetheless have great potential to excel, and many have a rich soccer heritage that still holds a place of central importance in the every day life of the people. This book was previously published as a special issue of Soccer and Society.",
+      "image": "http://books.google.com/books/content?id=NTPeAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781317998099"
+      }
+    },
+    {
+      "id": "5871",
+      "title": "Soccer and Philosophy",
+      "authors": [
+        "Ted Richards"
+      ],
+      "numPages": 497,
+      "description": "\"Soccer and Philosophy captures the essence of our wonderful sport, its transcendental qualities, and explains why we care so deeply and maddeningly about twenty-two players and a ball.\"---STEVEN GOFF, Washington Post --",
+      "image": "http://books.google.com/books/content?id=poNdpagYQbAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Philosophy"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780812696769"
+      }
+    },
+    {
+      "id": "a5d7",
+      "title": "Basketball Fundamentals",
+      "authors": [
+        "Jon A. Oliver"
+      ],
+      "numPages": 156,
+      "description": "Table of contents",
+      "image": "http://books.google.com/books/content?id=5R9dGBuuG0MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "073604910X"
+      }
+    },
+    {
+      "id": "972b",
+      "title": "Basketball",
+      "authors": [
+        "Jonatha A. Brown"
+      ],
+      "numPages": 28,
+      "description": "Provides a brief description of basketball, including its history and objectives.",
+      "image": "http://books.google.com/books/content?id=WI6Zr6x0cVkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "083684338X"
+      }
+    },
+    {
+      "id": "878f",
+      "title": "The Britannica Guide to Basketball",
+      "authors": [
+        "Britannica Educational Publishing"
+      ],
+      "numPages": 241,
+      "description": "Despite its American origins, the fast-paced and often acrobatic game of basketball commands the attention of audiences around the world. The sports seeming simplicityput the ball in the basketis delightfully offset by the complexity of the athleticism and strategy required to be successful at the game. Recounting the evolution of basketball and profiling greats from George Mikan to Larry Bird, Michael Jordan, and beyond, this gripping volume examines the story of a game that continues to dazzle American and global audiences alike.",
+      "image": "http://books.google.com/books/content?id=deScAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781615305773"
+      }
+    },
+    {
+      "id": "07bb",
+      "title": "Basketball Skills and Drills",
+      "authors": [
+        "Jerry Krause",
+        "Don Meyer",
+        "Jerry Meyer"
+      ],
+      "numPages": 276,
+      "description": "Provides photo-illustrated instructions and drills for basketball players, covering ball handling, shooting, offense, and defense; and including a DVD.",
+      "image": "http://books.google.com/books/content?id=xDWx6uxC7DkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "BASKETBALL--COACHING."
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0736067078"
+      }
+    },
+    {
+      "id": "1ab8",
+      "title": "Basketball",
+      "authors": [
+        "James Naismith"
+      ],
+      "numPages": 236,
+      "description": "James Naismith was teaching physical education at the Young Men's Christian Association Training College in Springfield, Massachusetts, and felt discouraged because calisthenics and gymnastics didn't engage his students. What was needed was an indoor wintertime game that combined recreation and competition. One evening he worked out the fundamentals of a game that would quickly catch on. Two peach half-bushel baskets gave the name to the brand new sport in late 1891. Basketball: Its Origin and Development was written by the inventor himself, who was inspired purely by the joy of play. Naismith, born in northern Ontario in 1861, gave up the ministry to preach clean living through sport. He describes Duck on the Rock, a game from his Canadian childhood, the creative reasoning behind his basket game, the eventual refinement of rules and development of equipment, the spread of amateur and professional teams throughout the world, and the growth of women's basketball (at first banned to male spectators because the players wore bloomers). Naismith lived long enough to see basketball included in the Olympics in 1936. Three years later he died, after nearly forty years as head of the physical education department at the University of Kansas. This book, originally published in 1941, carries a new introduction by William J. Baker, a professor of history at the University of Maine, Orono. He is the author of Jesse Owens: An American Life and Sports in the Western World.",
+      "image": "http://books.google.com/books/content?id=yDKtaGdhZncC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0803283709"
+      }
+    },
+    {
+      "id": "fe0d",
+      "title": "Historical Dictionary of Basketball",
+      "authors": [
+        "John Grasso"
+      ],
+      "numPages": 532,
+      "description": "The Historical Dictionary of Basketball is a comprehensive account of all forms of basketball_amateur, professional, men's, women's, Olympic, domestic, and international_from its invention in 1891 by Dr. James Naismith through the present day. This is done through a chronology, an introductory essay, an extensive bibliography, and over 600 cross-referenced dictionary entries on the people, places, teams, and terminology of the game.",
+      "image": "http://books.google.com/books/content?id=nZUarsZyzokC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0810875063"
+      }
+    },
+    {
+      "id": "e721",
+      "title": "Basketball",
+      "authors": [
+        "Piper Welsh"
+      ],
+      "numPages": 24,
+      "description": "Do You Like To Run And Jump? Check Out Basketball To See If This Is The Perfect Sport For You! High Interest Informational Text To Support Rigor And Text Complexity.",
+      "image": "http://books.google.com/books/content?id=oMaNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781731619808"
+      }
+    },
+    {
+      "id": "2ec8",
+      "title": "Basketball",
+      "authors": [
+        "Jackie MacMullan",
+        "Rafe Bartholomew",
+        "Dan Klores"
+      ],
+      "numPages": 448,
+      "description": "NEW YORK TIMES BESTSELLER • Inspired by a major ESPN film series, this is an extraordinary oral history of basketball—its eye-opening untold history, its profound deeper meaning, its transformative influence on the world—as told through an unprecedented series of candid conversations with the game’s ultimate icons. This is the greatest love story never told. It has passion and heartbreak, triumph and betrayal. It is deeply intimate yet crosses oceans, upends lives and changes nations. This is the true story of basketball. It is the story of a Canadian invention that took over America, and the world. Of a supposed “white man’s sport” that became a way for people of color, women, and immigrants to claim a new place in society. Of a game that demands everything of those who love it, yet gives so much back in return. To tell this story, acclaimed journalists Jackie MacMullan, Rafe Bartholomew and Dan Klores embarked on a groundbreaking mission to interview a staggering lineup of basketball trailblazers. For the first time hundreds of legends, from Kobe, Lebron and Steph Curry to Magic Johnson, Dr. J and Jerry West, spoke movingly about their greatest passion. Former NBA commissioner David Stern and iconic coaches like Phil Jackson and Coach K opened up like never before. Those who shattered glass ceilings, from Bill Russell and Yao Ming to Cheryl Miller and Lisa Leslie, explained what it really took to lay claim to their place in the game. At once a definitive oral history and something far more revelatory and life affirming, Basketball: A Love Story is the defining untold oral history of how basketball came to be, and what it means to those who love it.",
+      "image": "http://books.google.com/books/content?id=DMNFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781524761806"
+      }
+    },
+    {
+      "id": "7efb",
+      "title": "Basketball in America",
+      "authors": [
+        "Frank Hoffmann",
+        "Robert P Batchelor",
+        "Martin J Manning"
+      ],
+      "numPages": 326,
+      "description": "Examine the social and cultural impact of basketball on America at the amateur and professional levels! Basketball in America: From the Playgrounds to Jordan’s Game and Beyond is a pioneering analysis of the history of basketball and its effect on popular culture from the 1970s to today. The popularity of basketball is undeniable, and the subject allows for such a broad range of interpretations in popular culture. It cuts across economic, racial, and social boundaries, and its major stars cross over into other forms of popular entertainment more than any other professional sport. This book examines the entire scope of modern basketball history, from the playgrounds, where people first learn the fundamentals, to the college and professional levels. Basketball in America is a collection of essays that explores the intersection of basketball and popular culture in America. The contributors are an eclectic mix of writers, scholars, journalists, former players, coaches, and sports enthusiasts who all share an undying love for the game of basketball. The authors analyze the sport from a cross-cultural and historical perspective—digging deep into the profound popular cultural influences of basketball and exploring the scope and depth of its influence. This is the first book that examines the social and cultural impact of basketball on American society to reveal how tightly it is woven into America’s cultural fabric. Also included are photographs and tables to enhance your understanding of the material. Topics covered in Basketball in America include: Elgin Baylor—the first “modern” basketball player Chocolate Thunder and Short Shorts: The NBA in the 1970s Dr. J, Bird, Magic, Jordan, and the Bad Boys: The NBA in the 1980s The Jordan Era: The NBA in the 1990s LeBron James and the future of the NBA the Nike brand and popular culture lessons learned from legendary UNC coach Dean Smith professional women’s basketball and much more! Basketball in America is a comprehensive analysis that will appeal to anyone interested in understanding how the sport has become an integral part of our national culture. It is an insightful read for sports fans as well as for sports historians. In addition, this book can be used as a textbook in sports history or sociology of sports classes. It will entertain and inform those who treasure basketball and the role it plays in the American consciousness. Make it part of your collection today!",
+      "image": "http://books.google.com/books/content?id=e_82DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Social Science"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781135419936"
+      }
+    },
+    {
+      "id": "e56d",
+      "title": "The National Basketball Association",
+      "authors": [
+        "Frank P. Jozsa"
+      ],
+      "numPages": 280,
+      "description": "The National Basketball Association (NBA) is widely recognized as an entertaining and innovative league whose teams play regular season and postseason games in packed arenas at home and away sites in the United States and Canada. This book discusses the development, growth, and success of the 61-year-old NBA from a business perspective. Covering the late 1940s to 2009, it focuses on the league's expansions and mergers, team territories and relocations, franchise organizations and operations, basketball arenas and markets, and NBA domestic and international affairs. Readers will gain an insight into when, how, and why the NBA emerged, reformed, and gradually matured to become one of the world's most dominant, prosperous, and popular professional sports organizations today.",
+      "image": "http://books.google.com/books/content?id=vvySt6hPeLwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9789814313902"
+      }
+    },
+    {
+      "id": "9cb9",
+      "title": "The Computer: A Very Short Introduction",
+      "authors": [
+        "Darrel Ince"
+      ],
+      "numPages": 152,
+      "description": "There is a companion web site asssociated with the book (http://vsicomputer.wordpress.com/). It contains chapter summaries, links to relevant material and posts about items of news relevant to the book's contents. Computers have changed so much since the room-filling, bulky magnetic tape running monsters of the mid 20th century. They now form a vital part of most people's lives. And they are more ubiquitous than might be thought - you may have more than 30 computers in your home: not just the desktop and laptop but think of the television, the fridge, the microwave. But what is the basic nature of the modern computer? How does it work? How has it been possible to squeeze so much power into increasingly small machines? And what will the next generations of computers look like? In this Very Short Introduction, Darrel Ince looks at the basic concepts behind all computers; the changes in hardware and software that allowed computers to become so small and commonplace; the challenges produced by the computer revolution - especially whole new modes of cybercrime and security issues; the Internet and the advent of 'cloud computing'; and the promise of whole new horizons opening up with quantum computing, and even computing using DNA. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
+      "image": "http://books.google.com/books/content?id=OBFUo5LQrssC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780191620331"
+      }
+    },
+    {
+      "id": "c952",
+      "title": "Konrad Zuse's Early Computers",
+      "authors": [
+        "Raúl Rojas"
+      ],
+      "numPages": 240,
+      "description": "This book describes the historical development of the architectures of the first computers built by the German inventor Konrad Zuse in Berlin between 1936 and 1945. Zuse's machines are historically important because they anticipated many features of modern computers. Specifically, these include the separation of processor and memory, the ability to compute with floating-point numbers, a hardware architecture based on microprogramming of the instruction set, and a layered design with a high-level programming language on top. In fact, Zuse's early computers are closer to modern computers than the Harvard Mark I or ENIAC, two other contenders for the title of \"world's first computer.\" The theoretical program first conceived by Zuse in 1936/37 was fulfilled with a series of machines built before and during World War II: the Z1, Z2, Z3, and Z4. Separate chapters deal with the architecture of each computer, culminating in the description of Plankalkül, the first proposal for a high-level programming language. Students of the sciences and practitioners of computer science should have no trouble following the material. The concise introductory summary sets the reader on the historical path to retrace this remarkable intellectual adventure.",
+      "image": "http://books.google.com/books/content?id=ZuTcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9783031398766"
+      }
+    },
+    {
+      "id": "0edb",
+      "title": "The Computer Engineering Handbook",
+      "authors": [
+        "Vojin G. Oklobdzija"
+      ],
+      "numPages": 1422,
+      "description": "There is arguably no field in greater need of a comprehensive handbook than computer engineering. The unparalleled rate of technological advancement, the explosion of computer applications, and the now-in-progress migration to a wireless world have made it difficult for engineers to keep up with all the developments in specialties outside their own. References published only a few years ago are now sorely out of date. The Computer Engineering Handbook changes all of that. Under the leadership of Vojin Oklobdzija and a stellar editorial board, some of the industry's foremost experts have joined forces to create what promises to be the definitive resource for computer design and engineering. Instead of focusing on basic, introductory material, it forms a comprehensive, state-of-the-art review of the field's most recent achievements, outstanding issues, and future directions. The world of computer engineering is vast and evolving so rapidly that what is cutting-edge today may be obsolete in a few months. While exploring the new developments, trends, and future directions of the field, The Computer Engineering Handbook captures what is fundamental and of lasting value.",
+      "image": "http://books.google.com/books/content?id=38Aj3CjHgc8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0849308852"
+      }
+    },
+    {
+      "id": "2c66",
+      "title": "The Evolution of Computer Technology",
+      "authors": [
+        "HAQ. KAMAR"
+      ],
+      "numPages": 64,
+      "description": "Today it seems that computers occupy every single space in life. This book traces the evolution of computers from the humble beginnings as simple calculators up to the modern day jack-of-all trades devices like the iPhone. Readers will learn about how computers evolved from humongous military-issue refrigerators to the spiffy, delicate, and intriguing devices that many modern people feel they can't live without anymore. Readers will also discover the historical significance of computers, and their pivotal roles in World War II, the Space Race, and the emergence of modern Western powers.",
+      "image": "http://books.google.com/books/content?id=5ctXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781538302842"
+      }
+    },
+    {
+      "id": "a589",
+      "title": "Introduction to Computer Theory",
+      "authors": [
+        "Daniel I. A. Cohen"
+      ],
+      "numPages": 661,
+      "description": "This text strikes a good balance between rigor and an intuitive approach to computer theory. Covers all the topics needed by computer scientists with a sometimes humorous approach that reviewers found \"refreshing\". It is easy to read and the coverage of mathematics is fairly simple so readers do not have to worry about proving theorems.",
+      "image": "http://books.google.com/books/content?id=YqScEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780471137726"
+      }
+    },
+    {
+      "id": "c0a2",
+      "title": "Fumbling the Future",
+      "authors": [
+        "Douglas K. Smith",
+        "Robert C. Alexander"
+      ],
+      "numPages": 278,
+      "description": "Ask consumers and users what names they associate with the multibillion dollar personal computer market, and they will answer IBM, Apple, Tandy, or Lotus. The more knowledgable of them will add the likes of Microsoft, Ashton-Tate, Compaq, and Borland. But no one will say Xerox. Fifteen years after it invented personal computing, Xerox still means \"copy.\" Fumbling the Future tells how one of America's leading corporations invented the technology for one of the fastest-growing products of recent times, then miscalculated and mishandled the opportunity to fully exploit it. It is a classic story of how innovation can fare within large corporate structures, the real-life odyssey of what can happen to an idea as it travels from inspiration to implementation. More than anything, Fumbling the Future is a tale of human beings whose talents, hopes, fears, habits, and prejudices determine the fate of our largest organizations and of our best ideas. In an era in which technological creativity and economic change are so critical to the competitiveness of the American economy, Fumbling the Future is a parable for our times.",
+      "image": "http://books.google.com/books/content?id=24KW-5GBvgIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computer industry"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781583482667"
+      }
+    },
+    {
+      "id": "6cbf",
+      "title": "From Mainframes to Smartphones",
+      "authors": [
+        "Martin Campbell-Kelly"
+      ],
+      "numPages": 236,
+      "description": "This compact history traces the computer industry from 1950s mainframes, through establishment of standards beginning in 1965, to personal computing in the 1980s and the Internet’s explosive growth since 1995. Martin Campbell-Kelly and Daniel Garcia-Swartz describe a steady trend toward miniaturization and explain its consequences.",
+      "image": "http://books.google.com/books/content?id=K7_FCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Business & Economics"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780674286559"
+      }
+    },
+    {
+      "id": "5ad2",
+      "title": "Computer Culture",
+      "authors": [
+        "Heinz R. Pagels"
+      ],
+      "numPages": 306,
+      "image": "http://books.google.com/books/content?id=Sp0_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Artificial intelligence"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UCSD:31822001470996"
+      }
+    },
+    {
+      "id": "15f4",
+      "title": "Computer Wizard",
+      "numPages": 152,
+      "image": "http://books.google.com/books/content?id=Wzz68ShA6PcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "8184243820"
+      }
+    },
+    {
+      "id": "7271",
+      "title": "The Universal Computer",
+      "authors": [
+        "Martin Davis"
+      ],
+      "numPages": 232,
+      "description": "The breathtakingly rapid pace of change in computing makes it easy to overlook the pioneers who began it all. Written by Martin Davis, respected logician and researcher in the theory of computation, The Universal Computer: The Road from Leibniz to Turing explores the fascinating lives, ideas, and discoveries of seven remarkable mathematicians. It tells the stories of the unsung heroes of the computer age – the logicians. The story begins with Leibniz in the 17th century and then focuses on Boole, Frege, Cantor, Hilbert, and Gödel, before turning to Turing. Turing’s analysis of algorithmic processes led to a single, all-purpose machine that could be programmed to carry out such processes—the computer. Davis describes how this incredible group, with lives as extraordinary as their accomplishments, grappled with logical reasoning and its mechanization. By investigating their achievements and failures, he shows how these pioneers paved the way for modern computing. Bringing the material up to date, in this revised edition Davis discusses the success of the IBM Watson on Jeopardy, reorganizes the information on incompleteness, and adds information on Konrad Zuse. A distinguished prize-winning logician, Martin Davis has had a career of more than six decades devoted to the important interface between logic and computer science. His expertise, combined with his genuine love of the subject and excellent storytelling, make him the perfect person to tell this story.",
+      "image": "http://books.google.com/books/content?id=azXSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781466505209"
+      }
+    },
+    {
+      "id": "a99b",
+      "title": "Building Web Apps for Google TV",
+      "authors": [
+        "Andres Ferrate",
+        "Amanda Surya",
+        "Daniels Lee",
+        "Maile Ohye"
+      ],
+      "numPages": 117,
+      "description": "By integrating the Web with traditional TV, Google TV offers developers an important new channel for content. But creating apps for Google TV requires learning some new skills—in fact, what you may already know about mobile or desktop web apps isn't entirely applicable. Building Web Apps for Google TV will help you make the transition to Google TV as you learn the tools and techniques necessary to build sophisticated web apps for this platform. This book shows you how Google TV works, how it fits into the web ecosystem, and what the opportunities are for delivering rich content to millions of households. Discover the elements of a compelling TV web app, and what comprises TV-friendly navigation Learn the fundamentals for designing the 10-foot user experience Work with the Google Chrome browser on a TV display, and migrate an existing site Use examples for developing a TV web app, including the UI, controls, and scrolling Understand how to optimize, deliver, and protect video content for Google TV Help users discover your content by optimizing your site for Search—especially videos",
+      "image": "http://books.google.com/books/content?id=etFX6ZHHsTcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781449304577"
+      }
+    },
+    {
+      "id": "8ce6",
+      "title": "The Search",
+      "authors": [
+        "John Battelle"
+      ],
+      "numPages": 336,
+      "description": "What does the world want? According to John Battelle, a company that answers that question—in all its shades of meaning—can unlock the most intractable riddles of business and arguably of human culture itself. And for the past few years, that’s exactly what Google has been doing. But The Search offers much more than the inside story of Google’s triumph. It’s a big-picture book about the past, present, and future of search technology and the enormous impact it’s starting to have on marketing, media, pop culture, dating, job hunting, international law, civil liberties, and just about every other sphere of human interest.",
+      "image": "http://books.google.com/books/content?id=G4KfbOt7OYcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781101218419"
+      }
+    },
+    {
+      "id": "986d",
+      "title": "Google Apps: The Missing Manual",
+      "authors": [
+        "Nancy Conner"
+      ],
+      "numPages": 744,
+      "description": "Among its many amazing applications, Google now has web-based alternatives to many of the applications in Microsoft Office. This comprehensive and easy-to-follow new book enables you to explore Google's new office applications in detail. Once you do, you'll be in good company -- more than 100,000 small businesses and some corporations are already looking to take advantage of these free Google offerings. Google Apps: The Missing Manual teaches you how to use three relatively new applications from Google: \"Docs and Spreadsheets\", which provide many of the same core tools that you find in Word and Excel; and Google Calendar and Gmail, the applications that offer an alternative to Outlook. This book demonstrates how these applications together can ease your ability to collaborate with others, and allow you access to your documents, mail and appointments from any computer at any location. Of course, as remarkable as these applications are, Google's office suite is definitely a work-in-progress. Navigating what you can and can't do and -- more importantly -- understanding how to do it isn't always easy. And good luck finding enough help online. Google Apps: The Missing Manual is the one book you need to get the most out of this increasingly useful part of the Google empire. This book: Explains how to create, save and share each of Google's web-based office applications Offers separate sections for Docs and Spreadsheets, Google Calendar, and Gmail Demonstrates how to use these applications in conjunction with one another Gives you crystal-clear and jargon-free explanations that will satisfy users of all technical levels Many of you already use Gmail, but do you know its full potential? Do you know how you can increase its power by using Gmail with Doc and Spreadsheets and Google Calendar? You'll find out with Google Apps: The Missing Manual. You'll also come to understand why large corporations such as General Electric and Proctor & Gamble are taking a long, hard look at these applications.",
+      "image": "http://books.google.com/books/content?id=SZtsFe66zucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780596551766"
+      }
+    },
+    {
+      "id": "5f99",
+      "title": "Google Analytics 2.0",
+      "authors": [
+        "Jerri L. Ledford",
+        "Mary E. Tyler"
+      ],
+      "numPages": 338,
+      "description": "Site statistics give you raw numbers, but Web analytics crunch those numbers into meaningful metrics you can actually use. Here’s what's new in Google Analytics 2.0, such as cross-segment reporting and drilldown content that enhance analysis. Learn to set up Analytics and choose filters, explore goals and goal-setting, use customizable dashboards and date ranges, and master basic analytics and Web statistics concepts. Examine every aspect of available reports, learn to use those best suited for e-commerce sites, and more. BONUS: Each copy of Google Analytics 2.0 includes a $25 Google AdWords gift card compliments of Google. With this $25 gift card , you can attract new customers to your website on Google's dime.",
+      "image": "http://books.google.com/books/content?id=oF5PPfe-DEEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780470549421"
+      }
+    },
+    {
+      "id": "8983",
+      "title": "Next Series",
+      "authors": [
+        "Michael Miller"
+      ],
+      "numPages": 398,
+      "description": "This is the eBook of the printed book and may not include any media, website access codes, or print supplements that may come packaged with the bound book. Revolutionary new software applications are constantly emerging onto the market. As part of an academic series written on alternative technology, this text presents key information on Google Applications and encourages hands-on learning throughout the material.",
+      "image": "http://books.google.com/books/content?id=GZEuAAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780133001020"
+      }
+    },
+    {
+      "id": "31b3",
+      "title": "Google Sites and Chrome For Dummies",
+      "authors": [
+        "Ryan Teeter",
+        "Karl Barksdale"
+      ],
+      "numPages": 460,
+      "description": "Curious about Google Sites and how team collaboration Web sites can help you share documents online from various locations? Curious about Google’s new Chrome browser? Google Sites & Chrome For Dummies has what you want to know! Today, Google is so much more than another word for “search.” Google Sites & Chrome For Dummies shows you how to create great collaborative Web sites with Google Sites and surf the Web with the super-fast Google Chrome browser. Find out how they work with other Google Apps, too. You’ll learn to: Take advantage of free hosting, free tools, and a simple, straightforward interface with Google Sites Set up a Google account or Google Apps account Create wiki sites that let coworkers collaborate on projects or keep family members up to date Use Google gadgets to keep track of projects, manage calendars and documents, or display photos Integrate documents, spreadsheets, presentations, and other Google Apps into your site Work with Contact List, Google Talk, and Google Chat, and handle e-mail with Gmail Download and install the speedy Google Chrome browser Install browser plug-ins, enable offline access to Google Docs, and manage misbehaving tabs You’ll even find instructions and examples to help you plan sites for personal and business use, plus a sample college course site. With advice from Google Sites & Chrome For Dummies, you can make collaboration easy and have the high-speed Web at your fingertips.",
+      "image": "http://books.google.com/books/content?id=AMKf7RPUcuoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780470469996"
+      }
+    },
+    {
+      "id": "8c61",
+      "title": "The Google Gamble",
+      "authors": [
+        "Tim Levy"
+      ],
+      "numPages": 136,
+      "description": "The CEO's Guide to Traffic, Conversion and the Mysteries of SEO.Does S.E.O. Scare you? Are you even sure what traffic is, or why it's so important?In a decade and a half, Google has become the apex of the connection between your potential customers and your business. By virtue of this computing tool's absorption into every day life, it has become a major source of success, advancement, concern and frustration for businesses.Fortunately, you don't need Computer Science degree to grow your business online and offline. What you need is smoking hot traffic. The Google Gamble shows you how.• Discover how Google works and what you need to do to constantly adapt• Find out multi-level strategies that bring new leads to your business• Learn how to find and hire legitimate SEO support while avoiding the charlatansThe Google Gamble explains SEO with the CEO and entrepreneur in mind. With The Google Gamble you're no longer gambling but making informed decisions.• What is traffic and how do I make it cold, warm, or smoking hot?• Does my website have awesome Google-ready content?• What are meta-tags and how can they help me?• What are backlinks and article marketing and how can they help or even hurt me?• Why is video is becoming more powerful than web copy?• What is Google Analytics, why is it important and how does it work?“I've seen CEOs hire so-called SEO experts who use bad technique then boom! Google finds out and you get slapped. Your traffic vanishes. Oops!”The Google Gamble shows business leaders how to pick and manage the right people to do their SEO. Avoid being scammed by so called experts who view Google as something to manipulate, rather than as a tool for communication.",
+      "image": "http://books.google.com/books/content?id=1YLMoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Business & Economics"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1499175450"
+      }
+    },
+    {
+      "id": "f35c",
+      "title": "Google It",
+      "authors": [
+        "Newton Lee"
+      ],
+      "numPages": 564,
+      "description": "From Google search to self-driving cars to human longevity, is Alphabet creating a neoteric Garden of Eden or Bentham’s Panopticon? Will King Solomon’s challenge supersede the Turing test for artificial intelligence? Can transhumanism mitigate existential threats to humankind? These are some of the overarching questions in this book, which explores the impact of information awareness on humanity starting from the Book of Genesis to the Royal Library of Alexandria in the 3rd century BC to the modern day of Google Search, IBM Watson, and Wolfram|Alpha. The book also covers Search Engine Optimization, Google AdWords, Google Maps, Google Local Search, and what every business leader must know about digital transformation. “Search is curiosity, and that will never be done,” said Google’s first female engineer and Yahoo’s sixth CEO Marissa Mayer. The truth is out there; we just need to know how to Google it!",
+      "image": "http://books.google.com/books/content?id=4fpRDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Computers"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781493964154"
+      }
+    },
+    {
+      "id": "8d43",
+      "title": "What Would Google Do?",
+      "authors": [
+        "Jeff Jarvis"
+      ],
+      "numPages": 0,
+      "description": "A bold and vital book that asks and answers the most urgent question of today: What Would Google Do? In a book that's one part prophecy, one part thought experiment, one part manifesto, and one part survival manual, internet impresario and blogging pioneer Jeff Jarvis reverse-engineers Google—the fastest-growing company in history—to discover forty clear and straightforward rules to manage and live by. At the same time, he illuminates the new worldview of the internet generation: how it challenges and destroys, but also opens up vast new opportunities. His findings are counterintuitive, imaginative, practical, and above all visionary, giving readers a glimpse of how everyone and everything—from corporations to governments, nations to individuals—must evolve in the Google era. Along the way, he looks under the hood of a car designed by its drivers, ponders a worldwide university where the students design their curriculum, envisions an airline fueled by a social network, imagines the open-source restaurant, and examines a series of industries and institutions that will soon benefit from this book's central question. The result is an astonishing, mind-opening book that, in the end, is not about Google. It's about you.",
+      "image": "http://books.google.com/books/content?id=eKJHzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Business & Economics"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0061709719"
+      }
+    },
+    {
+      "id": "9950",
+      "title": "Getting Productive With Google Apps: Increase productivity while cutting costs",
+      "authors": [
+        "James Beswick"
+      ],
+      "numPages": 198,
+      "description": "Google Apps is a next-generation software suite that can help make your organization more productive while cutting traditional I.T. costs. Collaborate with colleagues and go beyond the desktop with this no-to-low-cost solution that can help practically any size of organization.",
+      "image": "http://books.google.com/books/content?id=a20OYx_XnloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Application software"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781440486760"
+      }
+    },
+    {
+      "id": "82bc",
+      "title": "The Encyclopedia of Animals",
+      "numPages": 619,
+      "description": "This lavishly illustrated trade reference to mammals, birds, reptiles, amphibians, fishes, and invertebrates features hundreds of glorious photos, masterful illustrations, and informative maps.",
+      "image": "http://books.google.com/books/content?id=2V1tHqi4hLEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Reference"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780520244061"
+      }
+    },
+    {
+      "id": "6a31",
+      "title": "My World Animals",
+      "authors": [
+        "Christiane Gunzi"
+      ],
+      "numPages": 32,
+      "image": "http://books.google.com/books/content?id=EnMyGQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Animals"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1904618227"
+      }
+    },
+    {
+      "id": "5348",
+      "title": "Wild Animals I Have Known",
+      "authors": [
+        "Ernest Thompson Seton"
+      ],
+      "numPages": 255,
+      "description": "'The most precious book of my childhood’ – Sir David Attenborough Meet Old Lobo, a gigantic grey wolf whose death-defying predations on sheep and cattle herds are the scourge of farmers and ranchers in the Currumpaw region of northern New Mexico. This great wolf is just one of the animals whose true stories come to life in this engrossing collection of tales by the celebrated naturalist Ernest Thompson Seton (1860-1946). Combining scientific observations of animals in their natural habitats with a romantic vision of nature and the narrative skills of a born storyteller, Seton created an extraordinary collection of tales that gave the animal story new force and believability as a literary genre. Critically and popularly acclaimed upon its initial appearance in 1898, Wild Animals I Have Known remains, more than a century later, the best-known and best-loved of his works. Each tale focuses on an individual creature: the clever crow, Silverspot; Raggylug, a young cottontail rabbit; the author's errant hound, Bingo; Redruff, a Don Valley partridge; a wild horse known as The Mustang; Vixen, The Springfield Fox; and Wully, faithful sheep dog by day and treacherous killer by night. Seton offers affectionate but realistic portraits of each animal, stressing the commonality between his subjects and their human neighbours. In addition to his popular wildlife stories, the author is well known for his work as an illustrator and painter. This edition faithfully reproduces the layout of the original volume, as well as all 200 of the author's distinctive illustrations. Animal lovers, environmentalists, naturalists, and any reader who appreciates a lively yarn will cherish this memorable wildlife classic.",
+      "image": "http://books.google.com/books/content?id=wie3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781786068453"
+      }
+    },
+    {
+      "id": "186c",
+      "title": "Animals that Climb",
+      "authors": [
+        "Angela Royston"
+      ],
+      "numPages": 34,
+      "description": "Each book in this series looks at a selection of high-interest animals that share a common skill, examining how each animal has adapted to survive in its own particular environment.",
+      "image": "http://books.google.com/books/content?id=AitWAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Animal climbing"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781406270853"
+      }
+    },
+    {
+      "id": "18fb",
+      "title": "Other Animals in Twenty-First Century Fiction",
+      "authors": [
+        "Catherine Parry"
+      ],
+      "numPages": 245,
+      "description": "This book is about ordinary animals and how they are imagined in twenty-first century fiction. Examining contemporary animal representations and the fraught and potent distinctions humans fashion between themselves and all other animals, it asks how a range of novels make, re-make or un-make traditional conceptions of the creatures we love, admire, eat, vilify and abuse. Other Animals’ detailed readings of horses, an animalised human, a donkey, ants, chickens and chimpanzees develop new critical practices in Literary Animal Studies. They explore the connections between fictional animal representation, narrative form, ethics, and the lives and warm bodies of the real-world creatures that precede and exceed our imagination. Human-animal relationships are conditioned by our imaginative shapings of other animals, and by our sense of distinction from them, and Other Animals opens out how fictional animal forms and tropes respond to, participate in, or challenge the ways animals’ lives are lived out in consequence of human imaginings of them.",
+      "image": "http://books.google.com/books/content?id=p4otDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9783319559322"
+      }
+    },
+    {
+      "id": "f296",
+      "title": "Animal Groups",
+      "authors": [
+        "Etta Kaner"
+      ],
+      "numPages": 48,
+      "description": "In this book in the Animal Behavior series, discover how animals live together.",
+      "image": "http://books.google.com/books/content?id=yChaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Animal societies"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "PSU:000054556003"
+      }
+    },
+    {
+      "id": "f84a",
+      "title": "Being Animal",
+      "authors": [
+        "Anna Peterson"
+      ],
+      "numPages": 235,
+      "description": "For most people, animals are the most significant aspects of the nonhuman world. They symbolize nature in our imaginations, in popular media and culture, and in campaigns to preserve wilderness, yet scholars habitually treat animals and the environment as mutually exclusive objects of concern. Conducting the first examination of animals' place in popular and scholarly thinking about nature, Anna L. Peterson builds a nature ethic that conceives of nonhuman animals as active subjects who are simultaneously parts of both nature and human society. Peterson explores the tensions between humans and animals, nature and culture, animals and nature, and domesticity and wildness. She uses our intimate connections with companion animals to examine nature more broadly. Companion animals are liminal creatures straddling the boundary between human society and wilderness, revealing much about the mutually constitutive relationships binding humans and nature together. Through her paradigm-shifting reflections, Peterson disrupts the artificial boundaries between two seemingly distinct categories, underscoring their fluid and continuous character.",
+      "image": "http://books.google.com/books/content?id=1cVDPsnTZ5UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780231534260"
+      }
+    },
+    {
+      "id": "eaba",
+      "title": "Wild Animals Every Child Should Know",
+      "authors": [
+        "Julia Ellen Rogers"
+      ],
+      "numPages": 442,
+      "description": "Excerpt from Wild Animals Every Child Should Know: Life Stories and Other True Stories of the Wild Cousins of Domestic Animals and Other Warm-Blooded Quadrupeds The first chapters in this book explain what quadrupeds are closely related. They give a summary of the chief families in each order. In the chapters that follow are grouped to gether by families the big, fierce, beautiful relatives of our domestic animals. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+      "image": "http://books.google.com/books/content?id=O_FcswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Pets"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0484652923"
+      }
+    },
+    {
+      "id": "b527",
+      "title": "Valuing Animals",
+      "authors": [
+        "Susan D. Jones"
+      ],
+      "numPages": 227,
+      "description": "Both controversial and compelling, Valuing Animals uncovers the extent to which veterinary medicine has shaped--and been shaped by--this contradictory attitude.",
+      "image": "http://books.google.com/books/content?id=38H8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "History"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780801871290"
+      }
+    },
+    {
+      "id": "a229",
+      "title": "Animals and Women",
+      "authors": [
+        "Carol J. Adams",
+        "Josephine Donovan"
+      ],
+      "numPages": 396,
+      "description": "Animals and Women is a collection of pioneering essays that explores the theoretical connections between feminism and animal defense. Offering a feminist perspective on the status of animals, this unique volume argues persuasively that both the social construction and oppressions of women are inextricably connected to the ways in which we comprehend and abuse other species. Furthermore, it demonstrates that such a focus does not distract from the struggle for women’s rights, but rather contributes to it. This wide-ranging multidisciplinary anthology presents original material from scholars in a variety of fields, as well as a rare, early article by Virginia Woolf. Exploring the leading edge of the species/gender boundary, it addresses such issues as the relationship between abortion rights and animal rights, the connection between woman-battering and animal abuse, and the speciesist basis for much sexist language. Also considered are the ways in which animals have been regarded by science, literature, and the environmentalist movement. A striking meditation on women and wolves is presented, as is an examination of sexual harassment and the taxonomy of hunters and hunting. Finally, this compelling collection suggests that the subordination and degradation of women is a prototype for other forms of abuse, and that to deny this connection is to participate in the continued mistreatment of animals and women.",
+      "image": "http://books.google.com/books/content?id=iJSuTkFlpyIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0822316676"
+      }
+    },
+    {
+      "id": "e576",
+      "title": "A Fairytale for Everyone",
+      "authors": [
+        "Boldizsár M. Nagy"
+      ],
+      "numPages": 0,
+      "description": "The all-inclusive LGBTQ+ fairytale collection that has grabbed headlines across the world! Powerful princesses that slay giants, and beautiful princes that find true love. Heroes come in all shapes and sizes in these tales of old and new. Celebrating all ethnicities, genders and sexualities, this sparkling collection of 17 short stories takes new and familiar fairy tales and reimagines them in contemporary and inclusive light. The collection was originally published in Hungary,where the inclusion of LGBTQ+ characters sparked political controversy. It quickly became an important symbol in the fight for equality and against discrimination in Hungary and enjoyed a vast wave of support both within and outside the country. \"I wish I could have read this book when I was a child.\" - Sir Ian McKellen A Fairytale For Everyone is the winner of an English PEN Translates Award.",
+      "image": "http://books.google.com/books/content?id=0US6zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0008508208"
+      }
+    },
+    {
+      "id": "5ae9",
+      "title": "Eleanor the Snow White Fairy",
+      "authors": [
+        "Daisy Meadows"
+      ],
+      "numPages": 80,
+      "description": "Get ready for an exciting fairy adventure with the no. 1 bestselling series for girls aged 5 and up. Kirsty and Rachel are having a wonderful time at the Fairytale Festival. But Jack Frost has stolen Fairytale Fairies' magical objects, and now Fairytale characters are lost in the human world! Can Rachel and Kirsty help find them and keep fairytales everywhere magical? 'These stories are magic; they turn children into readers!' ReadingZone.com Read all four fairy adventures in the Fairytale Fairies set! Julia the Sleeping Beauty Fairy; Eleanor the Snow White Fairy; Faith the Cinderella Fairy; Lacey the Little Mermaid Fairy. If you like Rainbow Magic, check out Daisy Meadows' other series: Magic Animal Friends and Unicorn Magic!",
+      "image": "http://books.google.com/books/content?id=8DcSBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781408336755"
+      }
+    },
+    {
+      "id": "4162",
+      "title": "Children's Classic Stories",
+      "authors": [
+        "Miles Kelly Publishing"
+      ],
+      "numPages": 438,
+      "description": "Children's Classic Stories is a timeless collection of fairytales, fables and folktales. Many you will know by heart, others you will be familiar with and some will be new to you. Charming illustrations by renowned children's artists bring to life much-loved characters such as Dick Whittington and Snow White--and introduce many new ones-- to keep you entertained time and time again. This book contains favorites such as Hansel and Gretal, Snow White and the seven dwarfs, Sleeping Beauty and Aladdin and the Lamp to name just a few. There are tales of fairytale magic, Animals big and small, stories about boys and girls, wizards and witches, giants and genies--a wealth of entertainment for all ages.",
+      "image": "http://books.google.com/books/content?id=G1Is4lNnUsUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781842363843"
+      }
+    },
+    {
+      "id": "d40e",
+      "title": "Cars of Legend",
+      "authors": [
+        "Jorge Lucendo"
+      ],
+      "numPages": 254,
+      "description": "The origins of the automobile date back to the seventeenth century, specifically to the year 1678, in that year the French Jesuit Ferdinand Verbiest created the first rolling machine, as it was called in his time. Later in 1769 a French engineer named Cugnot created what for many is the beginning of the history of the automobile, although previously in the fifteenth century, and according to some historians there was a German watchmaker, who invented a wooden car that moved like a device of watchmaking of the time. Also some historians afrirman that the inventor and man of the Renaissance, Leonardo da Vinci, had created the first car-mobile of history. In this book Autos de Leyenda, we will review the history of the automobile, from its beginning until the mid-nineteenth century, (1769-1897), we will see the progression of the car through the ages, locomotives land, locomobiles, steam cars, electric vehicles , with wheels of wood, iron, rubber and all the technical advances that were emerging in each era. This book talks about the top 120 brands in history, with stories, events and anecdotes from its manufacturers and creators.",
+      "image": "http://books.google.com/books/content?id=C8mlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "d691",
+      "title": "The Classic Car Book",
+      "authors": [
+        "DK"
+      ],
+      "numPages": 322,
+      "description": "From the Chevrolet Bel Air to the Ferrari Testarossa, The Classic Car Book showcases the most important and iconic classic cars from every decade since the 1940s. Fully illustrated and packed with stunning photography, The Classic Car Book uses specially commissioned photographic tours to put you in the driver's seat of the world's most famous vintage cars, including stylish roadsters and luxury limousines from manufacturers such as Mercedez-Benz, Ferrari, Rover, Jaguar, and Bentley. The Classic Car Book takes you on a scenic drive through the history of classic cars, profiling iconic models and key details of the world's most famous vehicles, and charting their legacy as objects of luxury and desire. Ideal for any car collectors and enthusiasts, The Classic Car Book is an essential addition to every fans' bookshelf.",
+      "image": "http://books.google.com/books/content?id=L6jKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ]
+    },
+    {
+      "id": "f9cc",
+      "title": "The Illustrated Book of Classic & Dream Cars",
+      "authors": [
+        "Martin Buckley",
+        "Chris Rees"
+      ],
+      "numPages": 516,
+      "image": "http://books.google.com/books/content?id=OG_461HFbxgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antique and classic cars"
+      ]
+    },
+    {
+      "id": "8fba",
+      "title": "Million Dollar Classics",
+      "authors": [
+        "Martin Derrick",
+        "Simon Clay"
+      ],
+      "numPages": 195,
+      "description": "Million Dollar Classics: The World's Most Expensive Cars is a photographic collection of the most sought after models.",
+      "image": "http://books.google.com/books/content?id=YKREDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antiques & Collectibles"
+      ]
+    },
+    {
+      "id": "6312",
+      "title": "365 Sports Cars You Must Drive",
+      "authors": [
+        "John Lamm",
+        "Steve Sutcliffe",
+        "Larry Edsall",
+        "James Mann",
+        "Kris Palmer"
+      ],
+      "numPages": 322,
+      "description": "365 Sports Cars You Must Drive puts you in the driver's seat of a century's worth of sports car legends (and a few rather less legendary), each presented with a fun and informative profile and fact-and-spec box. It's the ultimate gearhead's bucket list and poses the challenge: How many have you driven? Whoever coined the phrase \"getting there is half the fun\" must have owned a sports car. And the wag who suggested that \"it's the journey not the destination\"? Probably driving a Lotus or MG at the time. From towering icons like Ferrari, Lamborghini, Porsche, and Corvette to everyman sportsters from Triumph, MG, Sunbeam, and Miata to oddballs like Crosley, Sabra, and DB, sports cars inspire passion and strong opinions as few other vehicles on the road can. In one beautiful book, long-time Road & Truck​ magazine chief photographer John Lamm, along with other top motoring contributors, gives the reader illustrated profiles of every sports car you've ever dreamed of driving! Now, imagine if you could drive a different sports car—any sports car—every single day for a year. Which would you choose?",
+      "image": "http://books.google.com/books/content?id=brITEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ]
+    },
+    {
+      "id": "443a",
+      "title": "Art of the Classic Car",
+      "authors": [
+        "Peter Bodensteiner"
+      ],
+      "numPages": 227,
+      "description": "\"Art of the Classic Car showcases the most beautiful and in some cases rare vehicles of the early 20th century. Each car is showcased with breathtaking photography and coupled with explicit, informative prose detailing the particular history of each model\"-Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=b3NmAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ]
+    },
+    {
+      "id": "1603",
+      "title": "Dream Cars",
+      "authors": [
+        "Jack C. Harris"
+      ],
+      "numPages": 52,
+      "description": "Discusses the history of automobile invention, possible alternative power sources such as electricity and steam, and future possibilities for car design.",
+      "image": "http://books.google.com/books/content?id=et7Nr2aeao4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "f9ce",
+      "title": "Race Cars",
+      "authors": [
+        "Steve Rendle"
+      ],
+      "numPages": 34,
+      "description": "These cars are in it to win it! Readers will be fascinated to learn more about the fastest cars on Earth in this detailed and fascinating volume, which presents an in-depth look at such speed machines as the Ultima RS and the McLaren Senna. Color photos show off multiple views of each car, while a guide to each offers such details as maximum speed, engine type and capacity, wheels and tires, and more.",
+      "image": "http://books.google.com/books/content?id=hndeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "607f",
+      "title": "Cars",
+      "authors": [
+        "Cari Meister"
+      ],
+      "numPages": 33,
+      "description": "Red car, blue car, racing car, police car! This book Introduces early readers to the variety of cars they can see in their community and in the world. Learn about the basics of how cars work, along with a brief history. A short photo timeline reinforces how technology has changed over time.",
+      "image": "http://books.google.com/books/content?id=SfaaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1
+    },
+    {
+      "id": "466c",
+      "title": "50 Greatest James Bond Cars",
+      "authors": [
+        "Ben Robinson"
+      ],
+      "numPages": 105,
+      "description": "50 legendary cars from 25 movies! Includes the cars from the newest No Time to Die movie starring Daniel Craig and Rami Malek. The perfect holiday gift for the James Bond fan in your life! The vehicles featured in this book were driven by - or pursued - the world's most celebrated spy. Stylish, fast, and specially equipped with state-of-the art gadgets, each is rendered in full color showing the key features that set them among the world's greatest cars. With facts and figures plus their key scenes and stunts, these are the cars that made Bond movie history. The James Bond film series is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. In that time Eon Productions has produced 24 films, with the 25th - \"No Time to Die\" releasing November 2020. With a combined gross of over $7 billion to date, the films produced by Eon constitute the fifth-highest-grossing film series. Six actors have portrayed 007 in the series, the latest being Daniel Craig.",
+      "image": "http://books.google.com/books/content?id=qlRFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Performing Arts"
+      ]
+    },
+    {
+      "id": "9323",
+      "title": "Hot Cars of the '70s",
+      "authors": [
+        "Craig Cheetham"
+      ],
+      "numPages": 0,
+      "description": "The 1970s were a decade of changing tastes and new directions in automobile design, with the advent of the economy-driven, compact family car and the development of the muscle car. The era is famous for great-value cars such as the Datsun 240Z as well as the powerful and extravagant Ford Mustang and Pontiac Firebird. Hot Cars of the '70s celebrates the best cars of the decade, providing a detailed look at more than sixty of the greatest and most stylish automobiles from around the world. All the great names are covered, including Aston Martin, BMW, Chevrolet, Citroen, Datsun, Dodge, Ford, Jaguar, Lotus, Pontiac, Porsche, and Triumph. Illustrated with specially commissioned photography, each car is examined from all angles in close-up detail. Specifications are provided for each machine, including performance statistics, engine type, transmission, special features, running gear, and dimensions. The book also takes a close look under the hood, examining the chassis and suspension as well as the design of the engine. Finally, the book tracks the production milestones of each car and marks refinements and developments in styling and performance. Packed with information and great photos, this volume is a must for all lovers of the classic and stylish machines of the 1970s. Book jacket.",
+      "image": "http://books.google.com/books/content?id=Xp8DAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Automobiles"
+      ]
+    },
+    {
+      "id": "4152",
+      "title": "I Can Draw Cars and Trucks",
+      "numPages": 34,
+      "description": "So many people have a passion for cars and trucks. Young car enthusiasts have likely seen all sorts of incredible vehicles on the streets, but with the help of this stimulating book, they now have the chance to draw them. Helpful instructions and colorful illustrations provide the necessary information readers need to follow along and draw their own automobile masterpieces, from small and speedy cars to big trucks. These hands-on, high-interest activities are an excellent way to engage young readers.",
+      "image": "http://books.google.com/books/content?id=Nu6CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "c650",
+      "title": "Cars On the Move",
+      "authors": [
+        "Willow Clark"
+      ],
+      "numPages": 26,
+      "description": "Cars are not just boring vehicles that get us safely to school and work. Some cars are tricked out in funky designs and colors. Others race down tracks at super fast speeds. Readers will learn about these amazing cars, and return to this fun book again and again.",
+      "image": "http://books.google.com/books/content?id=6chgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "da1e",
+      "title": "Smokin' Sports Cars",
+      "authors": [
+        "Bob Woods"
+      ],
+      "numPages": 50,
+      "description": "Readers who love fast cars will love this book, featuring many of the fastest, most powerful cars on the planet. They will meet the international \"superstars\" adored by car lovers the world over, sports cars from Ferrari, Lamborghini, BMW, Porsche, Jaguar, and more.",
+      "image": "http://books.google.com/books/content?id=Vv5eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "b905",
+      "title": "How Do Race Cars Work? Car Book for Kids | Children's Transportation Books",
+      "authors": [
+        "Baby Professor"
+      ],
+      "numPages": 64,
+      "description": "If you have a child who likes race cars, then this book should go in his collection. Aside from beautiful pictures, the book also contains information explaining how cars work. By combining design with facts, we create a book that will feed the brain with facts and pictures. So what are you waiting for? Secure a copy of this car book for kids!",
+      "image": "http://books.google.com/books/content?id=ZBBCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ]
+    },
+    {
+      "id": "a613",
+      "title": "Cars of Legend",
+      "authors": [
+        "Jorge Lucendo"
+      ],
+      "numPages": 254,
+      "description": "The origins of the automobile date back to the seventeenth century, specifically to the year 1678, in that year the French Jesuit Ferdinand Verbiest created the first rolling machine, as it was called in his time. Later in 1769 a French engineer named Cugnot created what for many is the beginning of the history of the automobile, although previously in the fifteenth century, and according to some historians there was a German watchmaker, who invented a wooden car that moved like a device of watchmaking of the time. Also some historians afrirman that the inventor and man of the Renaissance, Leonardo da Vinci, had created the first car-mobile of history. In this book Autos de Leyenda, we will review the history of the automobile, from its beginning until the mid-nineteenth century, (1769-1897), we will see the progression of the car through the ages, locomotives land, locomobiles, steam cars, electric vehicles , with wheels of wood, iron, rubber and all the technical advances that were emerging in each era. This book talks about the top 120 brands in history, with stories, events and anecdotes from its manufacturers and creators.",
+      "image": "http://books.google.com/books/content?id=C8mlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "70a0",
+      "title": "The Classic Car Book",
+      "authors": [
+        "DK"
+      ],
+      "numPages": 322,
+      "description": "From the Chevrolet Bel Air to the Ferrari Testarossa, The Classic Car Book showcases the most important and iconic classic cars from every decade since the 1940s. Fully illustrated and packed with stunning photography, The Classic Car Book uses specially commissioned photographic tours to put you in the driver's seat of the world's most famous vintage cars, including stylish roadsters and luxury limousines from manufacturers such as Mercedez-Benz, Ferrari, Rover, Jaguar, and Bentley. The Classic Car Book takes you on a scenic drive through the history of classic cars, profiling iconic models and key details of the world's most famous vehicles, and charting their legacy as objects of luxury and desire. Ideal for any car collectors and enthusiasts, The Classic Car Book is an essential addition to every fans' bookshelf.",
+      "image": "http://books.google.com/books/content?id=L6jKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780241287477"
+      }
+    },
+    {
+      "id": "7ecc",
+      "title": "The Illustrated Book of Classic & Dream Cars",
+      "authors": [
+        "Martin Buckley",
+        "Chris Rees"
+      ],
+      "numPages": 516,
+      "image": "http://books.google.com/books/content?id=OG_461HFbxgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antique and classic cars"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1843092654"
+      }
+    },
+    {
+      "id": "1374",
+      "title": "Million Dollar Classics",
+      "authors": [
+        "Martin Derrick",
+        "Simon Clay"
+      ],
+      "numPages": 195,
+      "description": "Million Dollar Classics: The World's Most Expensive Cars is a photographic collection of the most sought after models.",
+      "image": "http://books.google.com/books/content?id=YKREDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antiques & Collectibles"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780785835455"
+      }
+    },
+    {
+      "id": "e925",
+      "title": "365 Sports Cars You Must Drive",
+      "authors": [
+        "John Lamm",
+        "Steve Sutcliffe",
+        "Larry Edsall",
+        "James Mann",
+        "Kris Palmer"
+      ],
+      "numPages": 322,
+      "description": "365 Sports Cars You Must Drive puts you in the driver's seat of a century's worth of sports car legends (and a few rather less legendary), each presented with a fun and informative profile and fact-and-spec box. It's the ultimate gearhead's bucket list and poses the challenge: How many have you driven? Whoever coined the phrase \"getting there is half the fun\" must have owned a sports car. And the wag who suggested that \"it's the journey not the destination\"? Probably driving a Lotus or MG at the time. From towering icons like Ferrari, Lamborghini, Porsche, and Corvette to everyman sportsters from Triumph, MG, Sunbeam, and Miata to oddballs like Crosley, Sabra, and DB, sports cars inspire passion and strong opinions as few other vehicles on the road can. In one beautiful book, long-time Road & Truck​ magazine chief photographer John Lamm, along with other top motoring contributors, gives the reader illustrated profiles of every sports car you've ever dreamed of driving! Now, imagine if you could drive a different sports car—any sports car—every single day for a year. Which would you choose?",
+      "image": "http://books.google.com/books/content?id=brITEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760369777"
+      }
+    },
+    {
+      "id": "e264",
+      "title": "Art of the Classic Car",
+      "authors": [
+        "Peter Bodensteiner"
+      ],
+      "numPages": 227,
+      "description": "\"Art of the Classic Car showcases the most beautiful and in some cases rare vehicles of the early 20th century. Each car is showcased with breathtaking photography and coupled with explicit, informative prose detailing the particular history of each model\"-Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=b3NmAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760344156"
+      }
+    },
+    {
+      "id": "80a3",
+      "title": "Dream Cars",
+      "authors": [
+        "Jack C. Harris"
+      ],
+      "numPages": 52,
+      "description": "Discusses the history of automobile invention, possible alternative power sources such as electricity and steam, and future possibilities for car design.",
+      "image": "http://books.google.com/books/content?id=et7Nr2aeao4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "089686376X"
+      }
+    },
+    {
+      "id": "243a",
+      "title": "Race Cars",
+      "authors": [
+        "Steve Rendle"
+      ],
+      "numPages": 34,
+      "description": "These cars are in it to win it! Readers will be fascinated to learn more about the fastest cars on Earth in this detailed and fascinating volume, which presents an in-depth look at such speed machines as the Ultima RS and the McLaren Senna. Color photos show off multiple views of each car, while a guide to each offers such details as maximum speed, engine type and capacity, wheels and tires, and more.",
+      "image": "http://books.google.com/books/content?id=hndeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781725332430"
+      }
+    },
+    {
+      "id": "5e00",
+      "title": "Cars",
+      "authors": [
+        "Cari Meister"
+      ],
+      "numPages": 33,
+      "description": "Red car, blue car, racing car, police car! This book Introduces early readers to the variety of cars they can see in their community and in the world. Learn about the basics of how cars work, along with a brief history. A short photo timeline reinforces how technology has changed over time.",
+      "image": "http://books.google.com/books/content?id=SfaaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781474768986"
+      }
+    },
+    {
+      "id": "261b",
+      "title": "50 Greatest James Bond Cars",
+      "authors": [
+        "Ben Robinson"
+      ],
+      "numPages": 105,
+      "description": "50 legendary cars from 25 movies! Includes the cars from the newest No Time to Die movie starring Daniel Craig and Rami Malek. The perfect holiday gift for the James Bond fan in your life! The vehicles featured in this book were driven by - or pursued - the world's most celebrated spy. Stylish, fast, and specially equipped with state-of-the art gadgets, each is rendered in full color showing the key features that set them among the world's greatest cars. With facts and figures plus their key scenes and stunts, these are the cars that made Bond movie history. The James Bond film series is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. In that time Eon Productions has produced 24 films, with the 25th - \"No Time to Die\" releasing November 2020. With a combined gross of over $7 billion to date, the films produced by Eon constitute the fifth-highest-grossing film series. Six actors have portrayed 007 in the series, the latest being Daniel Craig.",
+      "image": "http://books.google.com/books/content?id=qlRFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Performing Arts"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781858756097"
+      }
+    },
+    {
+      "id": "1368",
+      "title": "Hot Cars of the '70s",
+      "authors": [
+        "Craig Cheetham"
+      ],
+      "numPages": 0,
+      "description": "The 1970s were a decade of changing tastes and new directions in automobile design, with the advent of the economy-driven, compact family car and the development of the muscle car. The era is famous for great-value cars such as the Datsun 240Z as well as the powerful and extravagant Ford Mustang and Pontiac Firebird. Hot Cars of the '70s celebrates the best cars of the decade, providing a detailed look at more than sixty of the greatest and most stylish automobiles from around the world. All the great names are covered, including Aston Martin, BMW, Chevrolet, Citroen, Datsun, Dodge, Ford, Jaguar, Lotus, Pontiac, Porsche, and Triumph. Illustrated with specially commissioned photography, each car is examined from all angles in close-up detail. Specifications are provided for each machine, including performance statistics, engine type, transmission, special features, running gear, and dimensions. The book also takes a close look under the hood, examining the chassis and suspension as well as the design of the engine. Finally, the book tracks the production milestones of each car and marks refinements and developments in styling and performance. Packed with information and great photos, this volume is a must for all lovers of the classic and stylish machines of the 1970s. Book jacket.",
+      "image": "http://books.google.com/books/content?id=Xp8DAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Automobiles"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "159223142X"
+      }
+    },
+    {
+      "id": "5c27",
+      "title": "I Can Draw Cars and Trucks",
+      "numPages": 34,
+      "description": "So many people have a passion for cars and trucks. Young car enthusiasts have likely seen all sorts of incredible vehicles on the streets, but with the help of this stimulating book, they now have the chance to draw them. Helpful instructions and colorful illustrations provide the necessary information readers need to follow along and draw their own automobile masterpieces, from small and speedy cars to big trucks. These hands-on, high-interest activities are an excellent way to engage young readers.",
+      "image": "http://books.google.com/books/content?id=Nu6CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781508197287"
+      }
+    },
+    {
+      "id": "a383",
+      "title": "Cars On the Move",
+      "authors": [
+        "Willow Clark"
+      ],
+      "numPages": 26,
+      "description": "Cars are not just boring vehicles that get us safely to school and work. Some cars are tricked out in funky designs and colors. Others race down tracks at super fast speeds. Readers will learn about these amazing cars, and return to this fun book again and again.",
+      "image": "http://books.google.com/books/content?id=6chgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781448802128"
+      }
+    },
+    {
+      "id": "8658",
+      "title": "Smokin' Sports Cars",
+      "authors": [
+        "Bob Woods"
+      ],
+      "numPages": 50,
+      "description": "Readers who love fast cars will love this book, featuring many of the fastest, most powerful cars on the planet. They will meet the international \"superstars\" adored by car lovers the world over, sports cars from Ferrari, Lamborghini, BMW, Porsche, Jaguar, and more.",
+      "image": "http://books.google.com/books/content?id=Vv5eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781622851096"
+      }
+    },
+    {
+      "id": "f7ab",
+      "title": "How Do Race Cars Work? Car Book for Kids | Children's Transportation Books",
+      "authors": [
+        "Baby Professor"
+      ],
+      "numPages": 64,
+      "description": "If you have a child who likes race cars, then this book should go in his collection. Aside from beautiful pictures, the book also contains information explaining how cars work. By combining design with facts, we create a book that will feed the brain with facts and pictures. So what are you waiting for? Secure a copy of this car book for kids!",
+      "image": "http://books.google.com/books/content?id=ZBBCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781541922693"
+      }
+    },
+    {
+      "id": "ad7b",
+      "title": "Cars of Legend",
+      "authors": [
+        "Jorge Lucendo"
+      ],
+      "numPages": 254,
+      "description": "The origins of the automobile date back to the seventeenth century, specifically to the year 1678, in that year the French Jesuit Ferdinand Verbiest created the first rolling machine, as it was called in his time. Later in 1769 a French engineer named Cugnot created what for many is the beginning of the history of the automobile, although previously in the fifteenth century, and according to some historians there was a German watchmaker, who invented a wooden car that moved like a device of watchmaking of the time. Also some historians afrirman that the inventor and man of the Renaissance, Leonardo da Vinci, had created the first car-mobile of history. In this book Autos de Leyenda, we will review the history of the automobile, from its beginning until the mid-nineteenth century, (1769-1897), we will see the progression of the car through the ages, locomotives land, locomobiles, steam cars, electric vehicles , with wheels of wood, iron, rubber and all the technical advances that were emerging in each era. This book talks about the top 120 brands in history, with stories, events and anecdotes from its manufacturers and creators.",
+      "image": "http://books.google.com/books/content?id=C8mlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "ae3a",
+      "title": "The Classic Car Book",
+      "authors": [
+        "DK"
+      ],
+      "numPages": 322,
+      "description": "From the Chevrolet Bel Air to the Ferrari Testarossa, The Classic Car Book showcases the most important and iconic classic cars from every decade since the 1940s. Fully illustrated and packed with stunning photography, The Classic Car Book uses specially commissioned photographic tours to put you in the driver's seat of the world's most famous vintage cars, including stylish roadsters and luxury limousines from manufacturers such as Mercedez-Benz, Ferrari, Rover, Jaguar, and Bentley. The Classic Car Book takes you on a scenic drive through the history of classic cars, profiling iconic models and key details of the world's most famous vehicles, and charting their legacy as objects of luxury and desire. Ideal for any car collectors and enthusiasts, The Classic Car Book is an essential addition to every fans' bookshelf.",
+      "image": "http://books.google.com/books/content?id=L6jKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780241287477"
+      }
+    },
+    {
+      "id": "b43e",
+      "title": "365 Sports Cars You Must Drive",
+      "authors": [
+        "John Lamm",
+        "Steve Sutcliffe",
+        "Larry Edsall",
+        "James Mann",
+        "Kris Palmer"
+      ],
+      "numPages": 322,
+      "description": "365 Sports Cars You Must Drive puts you in the driver's seat of a century's worth of sports car legends (and a few rather less legendary), each presented with a fun and informative profile and fact-and-spec box. It's the ultimate gearhead's bucket list and poses the challenge: How many have you driven? Whoever coined the phrase \"getting there is half the fun\" must have owned a sports car. And the wag who suggested that \"it's the journey not the destination\"? Probably driving a Lotus or MG at the time. From towering icons like Ferrari, Lamborghini, Porsche, and Corvette to everyman sportsters from Triumph, MG, Sunbeam, and Miata to oddballs like Crosley, Sabra, and DB, sports cars inspire passion and strong opinions as few other vehicles on the road can. In one beautiful book, long-time Road & Truck​ magazine chief photographer John Lamm, along with other top motoring contributors, gives the reader illustrated profiles of every sports car you've ever dreamed of driving! Now, imagine if you could drive a different sports car—any sports car—every single day for a year. Which would you choose?",
+      "image": "http://books.google.com/books/content?id=brITEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760369777"
+      }
+    },
+    {
+      "id": "aa5b",
+      "title": "Million Dollar Classics",
+      "authors": [
+        "Martin Derrick",
+        "Simon Clay"
+      ],
+      "numPages": 195,
+      "description": "Million Dollar Classics: The World's Most Expensive Cars is a photographic collection of the most sought after models.",
+      "image": "http://books.google.com/books/content?id=YKREDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antiques & Collectibles"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780785835455"
+      }
+    },
+    {
+      "id": "aedf",
+      "title": "The Illustrated Book of Classic & Dream Cars",
+      "authors": [
+        "Martin Buckley",
+        "Chris Rees"
+      ],
+      "numPages": 516,
+      "image": "http://books.google.com/books/content?id=OG_461HFbxgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antique and classic cars"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1843092654"
+      }
+    },
+    {
+      "id": "2829",
+      "title": "Art of the Classic Car",
+      "authors": [
+        "Peter Bodensteiner"
+      ],
+      "numPages": 227,
+      "description": "\"Art of the Classic Car showcases the most beautiful and in some cases rare vehicles of the early 20th century. Each car is showcased with breathtaking photography and coupled with explicit, informative prose detailing the particular history of each model\"-Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=b3NmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760344156"
+      }
+    },
+    {
+      "id": "6479",
+      "title": "Dream Cars",
+      "authors": [
+        "Jack C. Harris"
+      ],
+      "numPages": 52,
+      "description": "Discusses the history of automobile invention, possible alternative power sources such as electricity and steam, and future possibilities for car design.",
+      "image": "http://books.google.com/books/content?id=et7Nr2aeao4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "089686376X"
+      }
+    },
+    {
+      "id": "2a57",
+      "title": "Race Cars",
+      "authors": [
+        "Steve Rendle"
+      ],
+      "numPages": 34,
+      "description": "These cars are in it to win it! Readers will be fascinated to learn more about the fastest cars on Earth in this detailed and fascinating volume, which presents an in-depth look at such speed machines as the Ultima RS and the McLaren Senna. Color photos show off multiple views of each car, while a guide to each offers such details as maximum speed, engine type and capacity, wheels and tires, and more.",
+      "image": "http://books.google.com/books/content?id=hndeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781725332430"
+      }
+    },
+    {
+      "id": "5bb4",
+      "title": "Cars",
+      "authors": [
+        "Cari Meister"
+      ],
+      "numPages": 33,
+      "description": "Red car, blue car, racing car, police car! This book Introduces early readers to the variety of cars they can see in their community and in the world. Learn about the basics of how cars work, along with a brief history. A short photo timeline reinforces how technology has changed over time.",
+      "image": "http://books.google.com/books/content?id=SfaaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781474768986"
+      }
+    },
+    {
+      "id": "54dd",
+      "title": "50 Greatest James Bond Cars",
+      "authors": [
+        "Ben Robinson"
+      ],
+      "numPages": 105,
+      "description": "50 legendary cars from 25 movies! Includes the cars from the newest No Time to Die movie starring Daniel Craig and Rami Malek. The perfect holiday gift for the James Bond fan in your life! The vehicles featured in this book were driven by - or pursued - the world's most celebrated spy. Stylish, fast, and specially equipped with state-of-the art gadgets, each is rendered in full color showing the key features that set them among the world's greatest cars. With facts and figures plus their key scenes and stunts, these are the cars that made Bond movie history. The James Bond film series is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. In that time Eon Productions has produced 24 films, with the 25th - \"No Time to Die\" releasing November 2020. With a combined gross of over $7 billion to date, the films produced by Eon constitute the fifth-highest-grossing film series. Six actors have portrayed 007 in the series, the latest being Daniel Craig.",
+      "image": "http://books.google.com/books/content?id=qlRFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Performing Arts"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781858756097"
+      }
+    },
+    {
+      "id": "886d",
+      "title": "Hot Cars of the '70s",
+      "authors": [
+        "Craig Cheetham"
+      ],
+      "numPages": 0,
+      "description": "The 1970s were a decade of changing tastes and new directions in automobile design, with the advent of the economy-driven, compact family car and the development of the muscle car. The era is famous for great-value cars such as the Datsun 240Z as well as the powerful and extravagant Ford Mustang and Pontiac Firebird. Hot Cars of the '70s celebrates the best cars of the decade, providing a detailed look at more than sixty of the greatest and most stylish automobiles from around the world. All the great names are covered, including Aston Martin, BMW, Chevrolet, Citroen, Datsun, Dodge, Ford, Jaguar, Lotus, Pontiac, Porsche, and Triumph. Illustrated with specially commissioned photography, each car is examined from all angles in close-up detail. Specifications are provided for each machine, including performance statistics, engine type, transmission, special features, running gear, and dimensions. The book also takes a close look under the hood, examining the chassis and suspension as well as the design of the engine. Finally, the book tracks the production milestones of each car and marks refinements and developments in styling and performance. Packed with information and great photos, this volume is a must for all lovers of the classic and stylish machines of the 1970s. Book jacket.",
+      "image": "http://books.google.com/books/content?id=Xp8DAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Automobiles"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "159223142X"
+      }
+    },
+    {
+      "id": "90b9",
+      "title": "I Can Draw Cars and Trucks",
+      "numPages": 34,
+      "description": "So many people have a passion for cars and trucks. Young car enthusiasts have likely seen all sorts of incredible vehicles on the streets, but with the help of this stimulating book, they now have the chance to draw them. Helpful instructions and colorful illustrations provide the necessary information readers need to follow along and draw their own automobile masterpieces, from small and speedy cars to big trucks. These hands-on, high-interest activities are an excellent way to engage young readers.",
+      "image": "http://books.google.com/books/content?id=Nu6CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781508197287"
+      }
+    },
+    {
+      "id": "6e78",
+      "title": "Cars On the Move",
+      "authors": [
+        "Willow Clark"
+      ],
+      "numPages": 26,
+      "description": "Cars are not just boring vehicles that get us safely to school and work. Some cars are tricked out in funky designs and colors. Others race down tracks at super fast speeds. Readers will learn about these amazing cars, and return to this fun book again and again.",
+      "image": "http://books.google.com/books/content?id=6chgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781448802128"
+      }
+    },
+    {
+      "id": "5c32",
+      "title": "Smokin' Sports Cars",
+      "authors": [
+        "Bob Woods"
+      ],
+      "numPages": 50,
+      "description": "Readers who love fast cars will love this book, featuring many of the fastest, most powerful cars on the planet. They will meet the international \"superstars\" adored by car lovers the world over, sports cars from Ferrari, Lamborghini, BMW, Porsche, Jaguar, and more.",
+      "image": "http://books.google.com/books/content?id=Vv5eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781622851096"
+      }
+    },
+    {
+      "id": "9816",
+      "title": "How Do Race Cars Work? Car Book for Kids | Children's Transportation Books",
+      "authors": [
+        "Baby Professor"
+      ],
+      "numPages": 64,
+      "description": "If you have a child who likes race cars, then this book should go in his collection. Aside from beautiful pictures, the book also contains information explaining how cars work. By combining design with facts, we create a book that will feed the brain with facts and pictures. So what are you waiting for? Secure a copy of this car book for kids!",
+      "image": "http://books.google.com/books/content?id=ZBBCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781541922693"
+      }
+    },
+    {
+      "id": "944e",
+      "title": "Cars of Legend",
+      "authors": [
+        "Jorge Lucendo"
+      ],
+      "numPages": 254,
+      "description": "The origins of the automobile date back to the seventeenth century, specifically to the year 1678, in that year the French Jesuit Ferdinand Verbiest created the first rolling machine, as it was called in his time. Later in 1769 a French engineer named Cugnot created what for many is the beginning of the history of the automobile, although previously in the fifteenth century, and according to some historians there was a German watchmaker, who invented a wooden car that moved like a device of watchmaking of the time. Also some historians afrirman that the inventor and man of the Renaissance, Leonardo da Vinci, had created the first car-mobile of history. In this book Autos de Leyenda, we will review the history of the automobile, from its beginning until the mid-nineteenth century, (1769-1897), we will see the progression of the car through the ages, locomotives land, locomobiles, steam cars, electric vehicles , with wheels of wood, iron, rubber and all the technical advances that were emerging in each era. This book talks about the top 120 brands in history, with stories, events and anecdotes from its manufacturers and creators.",
+      "image": "http://books.google.com/books/content?id=C8mlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ]
+    },
+    {
+      "id": "0046",
+      "title": "365 Sports Cars You Must Drive",
+      "authors": [
+        "John Lamm",
+        "Steve Sutcliffe",
+        "Larry Edsall",
+        "James Mann",
+        "Kris Palmer"
+      ],
+      "numPages": 322,
+      "description": "365 Sports Cars You Must Drive puts you in the driver's seat of a century's worth of sports car legends (and a few rather less legendary), each presented with a fun and informative profile and fact-and-spec box. It's the ultimate gearhead's bucket list and poses the challenge: How many have you driven? Whoever coined the phrase \"getting there is half the fun\" must have owned a sports car. And the wag who suggested that \"it's the journey not the destination\"? Probably driving a Lotus or MG at the time. From towering icons like Ferrari, Lamborghini, Porsche, and Corvette to everyman sportsters from Triumph, MG, Sunbeam, and Miata to oddballs like Crosley, Sabra, and DB, sports cars inspire passion and strong opinions as few other vehicles on the road can. In one beautiful book, long-time Road & Truck​ magazine chief photographer John Lamm, along with other top motoring contributors, gives the reader illustrated profiles of every sports car you've ever dreamed of driving! Now, imagine if you could drive a different sports car—any sports car—every single day for a year. Which would you choose?",
+      "image": "http://books.google.com/books/content?id=brITEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760369777"
+      }
+    },
+    {
+      "id": "12cd",
+      "title": "The Classic Car Book",
+      "authors": [
+        "DK"
+      ],
+      "numPages": 322,
+      "description": "From the Chevrolet Bel Air to the Ferrari Testarossa, The Classic Car Book showcases the most important and iconic classic cars from every decade since the 1940s. Fully illustrated and packed with stunning photography, The Classic Car Book uses specially commissioned photographic tours to put you in the driver's seat of the world's most famous vintage cars, including stylish roadsters and luxury limousines from manufacturers such as Mercedez-Benz, Ferrari, Rover, Jaguar, and Bentley. The Classic Car Book takes you on a scenic drive through the history of classic cars, profiling iconic models and key details of the world's most famous vehicles, and charting their legacy as objects of luxury and desire. Ideal for any car collectors and enthusiasts, The Classic Car Book is an essential addition to every fans' bookshelf.",
+      "image": "http://books.google.com/books/content?id=L6jKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780241287477"
+      }
+    },
+    {
+      "id": "9715",
+      "title": "Million Dollar Classics",
+      "authors": [
+        "Martin Derrick",
+        "Simon Clay"
+      ],
+      "numPages": 195,
+      "description": "Million Dollar Classics: The World's Most Expensive Cars is a photographic collection of the most sought after models.",
+      "image": "http://books.google.com/books/content?id=YKREDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antiques & Collectibles"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780785835455"
+      }
+    },
+    {
+      "id": "7698",
+      "title": "The Illustrated Book of Classic & Dream Cars",
+      "authors": [
+        "Martin Buckley",
+        "Chris Rees"
+      ],
+      "numPages": 516,
+      "image": "http://books.google.com/books/content?id=OG_461HFbxgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Antique and classic cars"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "1843092654"
+      }
+    },
+    {
+      "id": "52a5",
+      "title": "Art of the Classic Car",
+      "authors": [
+        "Peter Bodensteiner"
+      ],
+      "numPages": 227,
+      "description": "\"Art of the Classic Car showcases the most beautiful and in some cases rare vehicles of the early 20th century. Each car is showcased with breathtaking photography and coupled with explicit, informative prose detailing the particular history of each model\"-Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=b3NmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780760344156"
+      }
+    },
+    {
+      "id": "0e27",
+      "title": "Dream Cars",
+      "authors": [
+        "Jack C. Harris"
+      ],
+      "numPages": 52,
+      "description": "Discusses the history of automobile invention, possible alternative power sources such as electricity and steam, and future possibilities for car design.",
+      "image": "http://books.google.com/books/content?id=et7Nr2aeao4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "089686376X"
+      }
+    },
+    {
+      "id": "9238",
+      "title": "Race Cars",
+      "authors": [
+        "Steve Rendle"
+      ],
+      "numPages": 34,
+      "description": "These cars are in it to win it! Readers will be fascinated to learn more about the fastest cars on Earth in this detailed and fascinating volume, which presents an in-depth look at such speed machines as the Ultima RS and the McLaren Senna. Color photos show off multiple views of each car, while a guide to each offers such details as maximum speed, engine type and capacity, wheels and tires, and more.",
+      "image": "http://books.google.com/books/content?id=hndeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781725332430"
+      }
+    },
+    {
+      "id": "f11c",
+      "title": "Cars",
+      "authors": [
+        "Cari Meister"
+      ],
+      "numPages": 33,
+      "description": "Red car, blue car, racing car, police car! This book Introduces early readers to the variety of cars they can see in their community and in the world. Learn about the basics of how cars work, along with a brief history. A short photo timeline reinforces how technology has changed over time.",
+      "image": "http://books.google.com/books/content?id=SfaaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781474768986"
+      }
+    },
+    {
+      "id": "a434",
+      "title": "50 Greatest James Bond Cars",
+      "authors": [
+        "Ben Robinson"
+      ],
+      "numPages": 105,
+      "description": "50 legendary cars from 25 movies! Includes the cars from the newest No Time to Die movie starring Daniel Craig and Rami Malek. The perfect holiday gift for the James Bond fan in your life! The vehicles featured in this book were driven by - or pursued - the world's most celebrated spy. Stylish, fast, and specially equipped with state-of-the art gadgets, each is rendered in full color showing the key features that set them among the world's greatest cars. With facts and figures plus their key scenes and stunts, these are the cars that made Bond movie history. The James Bond film series is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. In that time Eon Productions has produced 24 films, with the 25th - \"No Time to Die\" releasing November 2020. With a combined gross of over $7 billion to date, the films produced by Eon constitute the fifth-highest-grossing film series. Six actors have portrayed 007 in the series, the latest being Daniel Craig.",
+      "image": "http://books.google.com/books/content?id=qlRFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Performing Arts"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781858756097"
+      }
+    },
+    {
+      "id": "4871",
+      "title": "Hot Cars of the '70s",
+      "authors": [
+        "Craig Cheetham"
+      ],
+      "numPages": 0,
+      "description": "The 1970s were a decade of changing tastes and new directions in automobile design, with the advent of the economy-driven, compact family car and the development of the muscle car. The era is famous for great-value cars such as the Datsun 240Z as well as the powerful and extravagant Ford Mustang and Pontiac Firebird. Hot Cars of the '70s celebrates the best cars of the decade, providing a detailed look at more than sixty of the greatest and most stylish automobiles from around the world. All the great names are covered, including Aston Martin, BMW, Chevrolet, Citroen, Datsun, Dodge, Ford, Jaguar, Lotus, Pontiac, Porsche, and Triumph. Illustrated with specially commissioned photography, each car is examined from all angles in close-up detail. Specifications are provided for each machine, including performance statistics, engine type, transmission, special features, running gear, and dimensions. The book also takes a close look under the hood, examining the chassis and suspension as well as the design of the engine. Finally, the book tracks the production milestones of each car and marks refinements and developments in styling and performance. Packed with information and great photos, this volume is a must for all lovers of the classic and stylish machines of the 1970s. Book jacket.",
+      "image": "http://books.google.com/books/content?id=Xp8DAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Automobiles"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "159223142X"
+      }
+    },
+    {
+      "id": "0664",
+      "title": "I Can Draw Cars and Trucks",
+      "numPages": 34,
+      "description": "So many people have a passion for cars and trucks. Young car enthusiasts have likely seen all sorts of incredible vehicles on the streets, but with the help of this stimulating book, they now have the chance to draw them. Helpful instructions and colorful illustrations provide the necessary information readers need to follow along and draw their own automobile masterpieces, from small and speedy cars to big trucks. These hands-on, high-interest activities are an excellent way to engage young readers.",
+      "image": "http://books.google.com/books/content?id=Nu6CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781508197287"
+      }
+    },
+    {
+      "id": "100b",
+      "title": "Cars On the Move",
+      "authors": [
+        "Willow Clark"
+      ],
+      "numPages": 26,
+      "description": "Cars are not just boring vehicles that get us safely to school and work. Some cars are tricked out in funky designs and colors. Others race down tracks at super fast speeds. Readers will learn about these amazing cars, and return to this fun book again and again.",
+      "image": "http://books.google.com/books/content?id=6chgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781448802128"
+      }
+    },
+    {
+      "id": "4276",
+      "title": "Smokin' Sports Cars",
+      "authors": [
+        "Bob Woods"
+      ],
+      "numPages": 50,
+      "description": "Readers who love fast cars will love this book, featuring many of the fastest, most powerful cars on the planet. They will meet the international \"superstars\" adored by car lovers the world over, sports cars from Ferrari, Lamborghini, BMW, Porsche, Jaguar, and more.",
+      "image": "http://books.google.com/books/content?id=Vv5eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781622851096"
+      }
+    },
+    {
+      "id": "5440",
+      "title": "How Do Race Cars Work? Car Book for Kids | Children's Transportation Books",
+      "authors": [
+        "Baby Professor"
+      ],
+      "numPages": 64,
+      "description": "If you have a child who likes race cars, then this book should go in his collection. Aside from beautiful pictures, the book also contains information explaining how cars work. By combining design with facts, we create a book that will feed the brain with facts and pictures. So what are you waiting for? Secure a copy of this car book for kids!",
+      "image": "http://books.google.com/books/content?id=ZBBCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Transportation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781541922693"
+      }
+    },
+    {
+      "id": "d0b1",
+      "title": "Bike!",
+      "authors": [
+        "Richard Moore",
+        "Daniel Benson"
+      ],
+      "numPages": 124,
+      "description": "To many, the racing bicycle is a cult object, a vehicle of dreams, a marvel of engineering and aesthetics. With such enthusiasts in mind, Bike! Is the first book to be produced on the history of the world's most famous racing-bike and component manufacturers. Within its pages you will discover the beautifully illustrated story of the artisans and visionary sportspeople who joined forces to create two-wheeled legends. From the cradle of road biking on the plains of northern Italy to the birthplace of mountain biking, Marin County, California, Bike! unmasks the soul behind names like Colnago, Shimano and Campagnolo. Distributed throughout the book are special double-page photographic features on ten landmark bikes that were the first to introduce groundbreaking technology, from Maurice Garin's Ondiana cycle in the first Tour de France of 1903 to the Team Sky Pinarello Dogma of 2010. Completed by sublime photography and graphic timelines, this book is the most striking tribute ever created to the craftsmanship, precision and speed of the racing bicycle. Edited by seasoned cycling veteran and bestselling author Richard Moore, Bike! is the perfect book for cycling fanatics and design aficionados alike.",
+      "image": "http://books.google.com/books/content?id=3Iy0nKSCC-8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780522861839"
+      }
+    },
+    {
+      "id": "6857",
+      "title": "In Bikes We Trust",
+      "authors": [
+        "Raquel Harris",
+        "Leeky Da Bike Star"
+      ],
+      "numPages": 84,
+      "description": "The first segment of this three-part book, In Bikes We Trust, reveals a glimpse into one of the most notorious figures in the Bike Life movement. Learn how Leeky, aka Leeky Da Bikestar, went from a slow learner to acclaimed by VICE as “the most infamous rider in New York City.” Included are recollections from his Mother depicting what it’s like supporting her son in a risky endeavor and perspectives from his mentor Chico, who has seen the beauty and ugly of this emerging sport. The second segment of In Bikes We Trust reveals the undocumented history, essence, and structure behind the culture of Bike Life. From Influences starting with early Hip Hop leading to educational programs in K-12 schools. In addition, examining legal issues or how criticism from large police organizations shapes the community perspective of street dirt-biking. In the third segment of the book, Leeky offers a how-to guide for inspiring riders. The guide shares everything you need to know before you start riding; such as terminology, bike parts, and lessons from his wheelie school system. Whether it’s choosing the perfect dirt bike or improving your skills, we've got you covered.",
+      "image": "http://books.google.com/books/content?id=6mRuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ]
+    },
+    {
+      "id": "eeeb",
+      "title": "Frostbike",
+      "authors": [
+        "Tom Babin"
+      ],
+      "numPages": 296,
+      "description": "The bicycle is fast becoming a ubiquitous form of transportation in cities all over the world, making our urban spaces more efficient, more livable and healthier. But many of those bicycles disappear into basements and garages when the warm months end, parked there by owners fearful of the cold, snow and ice that winter brings. But does it have to be that way? Canadian writer and journalist Tom Babin started questioning this dogma after being stuck in winter commuter traffic one dreary and cold December morning and dreaming about the happiness that bicycle commuting had brought him all summer long. So he did something about it. He pulled on some thermal underwear, dragged his bike down from the rafters of his garage and set out on a mission to answer a simple but beguiling question: is it possible to happily ride a bike in winter? That question took him places he never expected. Over years of trial and error, research and more than his share of snow and ice, he discovered an unknown history of biking for snow and ice, and a new generation designed to make riding in winter safe and fun. He unearthed the world’s most bike-friendly winter city and some new approaches to winter cycling from places all over the world. He also looked inward, to discover how the modern world shapes our attitudes toward winter. And perhaps most importantly, he discovered the unique kind of bliss that can only come by pedalling through softly falling snow on a quiet winter night.",
+      "image": "http://books.google.com/books/content?id=hi0EBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781771600491"
+      }
+    },
+    {
+      "id": "cf56",
+      "title": "Extreme Mountain Biking",
+      "authors": [
+        "Kelley MacAulay",
+        "Bobbie Kalman"
+      ],
+      "numPages": 36,
+      "description": "Extreme mountain bikers take to the mountains to satisfy their need for speed and extreme heights. From racing downhill on the steepest mountain slopes to performing tricks on obstacles such as fallen logs, these athletes have found creative ways to involve nature in their sport like no other extreme athletes. Extreme Mountain Biking provides kids with all they need to know about - extreme mountain bikes and their maintenance - the history of this young sport - the styles of riding and their main competitions - the stars who defy gravity",
+      "image": "http://books.google.com/books/content?id=ocdp_SgERr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0778716783"
+      }
+    },
+    {
+      "id": "024d",
+      "title": "Fixed",
+      "authors": [
+        "Andrew Edwards",
+        "Max Leonard"
+      ],
+      "numPages": 148,
+      "description": "Fixed-gear cycling has today become the coolest form of urban transport, giving rise to a global fixed-gear culture. Fixed is the first book to document fixed-gear cycling. The authors have traveled to cities around the world to examine at first hand the intersections between the fixed-gear bike's design and its racing heritage, and the street style and customization that are at the heart of its current popularity. Interviews with sports-people, frame-builders, and those at the nexus of design, art, and fixed-gear culture give an insight into fixed-wheel design, philosophy, and riding experience. The book will appeal to cyclistsfixed-gear riders, urban riders, racers, and those interested in cycling heritageas well as to a wider design audience.",
+      "image": "http://books.google.com/books/content?id=fOgaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "NWU:35556039555271"
+      }
+    },
+    {
+      "id": "1911",
+      "title": "Cruisers",
+      "authors": [
+        "Michael Ames"
+      ],
+      "numPages": 161,
+      "description": "CRUISERS offers and insider's look at the latest and greatest cruiser bicycle styles and designs, and provides tips on how people can trick out their own bikes to proclaim their individuality. It also tells the unique history and development of cruiser bikes, from their pre-World War II origins to the popular California beach bikes of the 1970s to today's retro-chic bikes. Without style, a bike is just a bike, a means of getting from here to there. With style, the bikes people ride become a defining stamp of who they are. The modern cruiser-with its oversized balloon tires, solid steel framing, shock-absorbing suspension, and custom colors and modifications-is a testament to individual style. So saddle up in the seat of a classic bike and rediscover the smooth rolling freedom.",
+      "image": "http://books.google.com/books/content?id=4BebP0juwdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781423608080"
+      }
+    },
+    {
+      "id": "f4f5",
+      "title": "On Bicycles",
+      "authors": [
+        "Amy Walker"
+      ],
+      "numPages": 386,
+      "description": "Once the quaint province of European cities such as Amsterdam, daily cycling is currently exploding in North American cities. People ride folding bikes to the train, slip through traf?c on tricked-out ?xed-gears, and carry children and groceries on their utility bikes. Commuters are giving up their cars Monday through Friday, bike lanes and bike parking are sprouting up all over, and Talking Head David Byrne has designed arty bike racks for various New York City neighborhoods. It’s healthy for riders and clean for the environment, but is it fun? Amy Walker, who has been at the forefront of the urban cycling trend, knows that the answer is yes. She presents stories by a diverse group of cycling enthusiasts and activists that, accompanied by the illustrations of bike culture artist Matt Fleming, show readers why. They say you never forget how to ride a bike; this collection helps us remember why we ride.",
+      "image": "http://books.google.com/books/content?id=7OHlBI4xCLMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781608680238"
+      }
+    },
+    {
+      "id": "93ee",
+      "title": "Safe Cycling",
+      "authors": [
+        "Nicole Sipe"
+      ],
+      "numPages": 35,
+      "description": "Bike riding is a lot of fun, but it can also be dangerous. Read about how people have made cycling safe over the years. Learn how bicycles have changed over time and how bike parts, equipment, and trails make cycling safer. Created in collaboration with the Smithsonian Institution, this STEAM book will ignite a curiosity about STEAM topics through real-world examples. It features a hands-on STEAM challenge that is perfect for makerspaces and that guides students step-by-step through the engineering design process. Make STEAM career connections with career advice from Smithsonian employees working in STEAM fields. Ideal for school reports and projects, this informational text will appeal to reluctant readers and ages 6-8.",
+      "image": "http://books.google.com/books/content?id=R4uTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781493866694"
+      }
+    },
+    {
+      "id": "a730",
+      "title": "Custom Bikes",
+      "authors": [
+        "Lori K. Pupeza"
+      ],
+      "numPages": 36,
+      "description": "Discusses the history, riding, and racing of custom bikes, including such aspects as the engine, other parts, gear, and safety tips.",
+      "image": "http://books.google.com/books/content?id=D_7K8zxYmjUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "157765000X"
+      }
+    },
+    {
+      "id": "5136",
+      "title": "Choosing, Using & Maintaining Your Electric Bicycle",
+      "authors": [
+        "Peter Henshaw"
+      ],
+      "numPages": 66,
+      "description": "A complete buyer's guide to electric bicycles, including the types of bike available, what to look for and why you should buy one. Packed with useful contacts, including importers, websites and magazines, advice on where you can ride, and the law. Also includes battery charging and maintenance info, as well as basic cycle maintenance.",
+      "image": "http://books.google.com/books/content?id=QMR3DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781845849399"
+      }
+    },
+    {
+      "id": "e44b",
+      "title": "The History of Cycling in Fifty Bikes",
+      "authors": [
+        "Tom Ambrose"
+      ],
+      "numPages": 0,
+      "description": "The invention of the bicycle changed history by democratizing travel for the first time. The common man—and importantly the common woman—could now afford to travel at reasonable speed without the need of a horse. Instead of walking just 10 miles a day on foot, a healthy individual could now ride up to 80 miles on a cycle at a relatively modest cost. Today, despite the prevalence of the car, the bicycle is as important as ever. More cycles appear on city streets each year, offering healthy, pollution-free transport. Commuters cycle to work through congested traffic, urban hire-bike schemes are increasingly common, and the sports of road and track racing continue to gain in popularity. For an invention with a history of just 200 years, the simple bicycle has changed the world in many ways. From the Velocipede to the Pinarello, The History of Cycling in Fifty Bikes by Tom Ambrose relates this history by telling the stories of 50 iconic machines that have shaped the world.",
+      "image": "http://books.google.com/books/content?id=MJqTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781623361310"
+      }
+    },
+    {
+      "id": "b4d1",
+      "title": "Fifty Bicycles That Changed the World",
+      "authors": [
+        "Alex Newson"
+      ],
+      "numPages": 112,
+      "description": "The Design Museum brings you fifty bicycles that changed the world we live in! The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, Alex Newson explores the 50 most important, pivotal bicycles from around the world. The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, here are the 50 most important, pivotal bicycles from around the world. Contents Includes... Laufmaschine c.1817 Velocipede c.1863 Safety Bicycle c.1880 The tandem 1898 The cargo bike 1900s BSA 3-Speed Hub 1930-40 Flying Pigeon PA-02 c.1950 PARIS Galibier c.1947 Raleigh Chopper 1969 Dawes Galaxy 1971 Avatar 2000 1980 AM series Moulton Bicycle 1983 STRiDA 1985 Kestrel 4000 1986 'Old Faithful' 1993 Airnimal Chameleon c.2000 Bianchi Pista Chrome 2007 EADS Airebike 2011 Faraday Porteur 2013 ...And Much More!",
+      "image": "http://books.google.com/books/content?id=FsI4AgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781840916508"
+      }
+    },
+    {
+      "id": "540a",
+      "title": "Sport Bikes",
+      "authors": [
+        "Hans Hetrick"
+      ],
+      "numPages": 18,
+      "description": "\"Describes sport bikes, including their history, design, and the road course races they participate in, such as MotoGP and the Superbike World Championship\"--Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=95f1-fanCVIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781429647519"
+      }
+    },
+    {
+      "id": "d7d4",
+      "title": "Bikes",
+      "authors": [
+        "Janet Cook",
+        "Jessica Kent"
+      ],
+      "numPages": 36,
+      "description": "Fascinating facts, quizzes and things to make and do",
+      "image": "http://books.google.com/books/content?id=1Utux3LWzGwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0746025505"
+      }
+    },
+    {
+      "id": "d72d",
+      "title": "The Competition Bicycle",
+      "authors": [
+        "Jan Heine"
+      ],
+      "numPages": 178,
+      "description": "The Competition Bicycle will inspire cyclists and design lovers alike. The evocative, detail-rich photographs display the history of the bicycle, from racing high-wheelers to modern racing bikes with carbon-fiber disc wheels. Exceptional handcrafted machines ridden by great champions illustrate milestones in the mechanics and craftsmanship of bicycle design. This volume also features iconic bicycles that played an important role in the history of the sport, from the bicycle that sent Eddy Merckx over the finish line in his last world championship win, to those of tandem teams who tackled the hour record, motor-paced track racers that exceeded 80 mph on the wooden boards, to California’s mountain-bike pioneers. Historic images complement the stunning new photography that illustrates each machine in exquisite detail while celebrating the evolution of the sport, object, and machine. The Competition Bicycle is sure to be treasured by all who appreciate magnificent masterpieces of vintage and contemporary design.",
+      "image": "http://books.google.com/books/content?id=EQxwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780847838417"
+      }
+    },
+    {
+      "id": "5cee",
+      "title": "Racing Bikes",
+      "authors": [
+        "Judy Tatchell",
+        "J. Kent"
+      ],
+      "numPages": 50,
+      "description": "Racing Bikes explains the different skills needed to become a successful racing cyclist. Throughout the book, there are plenty of colorful illustrations and step by step photographs which show in detail how to practice in order to improve your racing performance.",
+      "image": "http://books.google.com/books/content?id=nZQQzEh7XKwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0881104272"
+      }
+    },
+    {
+      "id": "4035",
+      "title": "Dirt Bikes",
+      "authors": [
+        "Jesse Young"
+      ],
+      "numPages": 52,
+      "description": "An introduction to dirt bikes including their history, basic skills, and safety.",
+      "image": "http://books.google.com/books/content?id=Ob8cC5qknjkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Motorcycling"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0516352261"
+      }
+    }
+  ],
+  "history": []
+}
