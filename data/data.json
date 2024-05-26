@@ -2773,6 +2773,336 @@
         "type": "ISBN_10",
         "identifier": "0516352261"
       }
+    },
+    {
+      "id": "672b",
+      "title": "Bike!",
+      "authors": [
+        "Richard Moore",
+        "Daniel Benson"
+      ],
+      "numPages": 124,
+      "description": "To many, the racing bicycle is a cult object, a vehicle of dreams, a marvel of engineering and aesthetics. With such enthusiasts in mind, Bike! Is the first book to be produced on the history of the world's most famous racing-bike and component manufacturers. Within its pages you will discover the beautifully illustrated story of the artisans and visionary sportspeople who joined forces to create two-wheeled legends. From the cradle of road biking on the plains of northern Italy to the birthplace of mountain biking, Marin County, California, Bike! unmasks the soul behind names like Colnago, Shimano and Campagnolo. Distributed throughout the book are special double-page photographic features on ten landmark bikes that were the first to introduce groundbreaking technology, from Maurice Garin's Ondiana cycle in the first Tour de France of 1903 to the Team Sky Pinarello Dogma of 2010. Completed by sublime photography and graphic timelines, this book is the most striking tribute ever created to the craftsmanship, precision and speed of the racing bicycle. Edited by seasoned cycling veteran and bestselling author Richard Moore, Bike! is the perfect book for cycling fanatics and design aficionados alike.",
+      "image": "http://books.google.com/books/content?id=3Iy0nKSCC-8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780522861839"
+      }
+    },
+    {
+      "id": "1d37",
+      "title": "Frostbike",
+      "authors": [
+        "Tom Babin"
+      ],
+      "numPages": 296,
+      "description": "The bicycle is fast becoming a ubiquitous form of transportation in cities all over the world, making our urban spaces more efficient, more livable and healthier. But many of those bicycles disappear into basements and garages when the warm months end, parked there by owners fearful of the cold, snow and ice that winter brings. But does it have to be that way? Canadian writer and journalist Tom Babin started questioning this dogma after being stuck in winter commuter traffic one dreary and cold December morning and dreaming about the happiness that bicycle commuting had brought him all summer long. So he did something about it. He pulled on some thermal underwear, dragged his bike down from the rafters of his garage and set out on a mission to answer a simple but beguiling question: is it possible to happily ride a bike in winter? That question took him places he never expected. Over years of trial and error, research and more than his share of snow and ice, he discovered an unknown history of biking for snow and ice, and a new generation designed to make riding in winter safe and fun. He unearthed the world’s most bike-friendly winter city and some new approaches to winter cycling from places all over the world. He also looked inward, to discover how the modern world shapes our attitudes toward winter. And perhaps most importantly, he discovered the unique kind of bliss that can only come by pedalling through softly falling snow on a quiet winter night.",
+      "image": "http://books.google.com/books/content?id=hi0EBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781771600491"
+      }
+    },
+    {
+      "id": "7add",
+      "title": "Cruisers",
+      "authors": [
+        "Michael Ames"
+      ],
+      "numPages": 161,
+      "description": "CRUISERS offers and insider's look at the latest and greatest cruiser bicycle styles and designs, and provides tips on how people can trick out their own bikes to proclaim their individuality. It also tells the unique history and development of cruiser bikes, from their pre-World War II origins to the popular California beach bikes of the 1970s to today's retro-chic bikes. Without style, a bike is just a bike, a means of getting from here to there. With style, the bikes people ride become a defining stamp of who they are. The modern cruiser-with its oversized balloon tires, solid steel framing, shock-absorbing suspension, and custom colors and modifications-is a testament to individual style. So saddle up in the seat of a classic bike and rediscover the smooth rolling freedom.",
+      "image": "http://books.google.com/books/content?id=4BebP0juwdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781423608080"
+      }
+    },
+    {
+      "id": "8f8d",
+      "title": "On Bicycles",
+      "authors": [
+        "Amy Walker"
+      ],
+      "numPages": 386,
+      "description": "Once the quaint province of European cities such as Amsterdam, daily cycling is currently exploding in North American cities. People ride folding bikes to the train, slip through traf?c on tricked-out ?xed-gears, and carry children and groceries on their utility bikes. Commuters are giving up their cars Monday through Friday, bike lanes and bike parking are sprouting up all over, and Talking Head David Byrne has designed arty bike racks for various New York City neighborhoods. It’s healthy for riders and clean for the environment, but is it fun? Amy Walker, who has been at the forefront of the urban cycling trend, knows that the answer is yes. She presents stories by a diverse group of cycling enthusiasts and activists that, accompanied by the illustrations of bike culture artist Matt Fleming, show readers why. They say you never forget how to ride a bike; this collection helps us remember why we ride.",
+      "image": "http://books.google.com/books/content?id=7OHlBI4xCLMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781608680238"
+      }
+    },
+    {
+      "id": "42de",
+      "title": "Custom Bikes",
+      "authors": [
+        "Lori K. Pupeza"
+      ],
+      "numPages": 36,
+      "description": "Discusses the history, riding, and racing of custom bikes, including such aspects as the engine, other parts, gear, and safety tips.",
+      "image": "http://books.google.com/books/content?id=D_7K8zxYmjUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "157765000X"
+      }
+    },
+    {
+      "id": "2028",
+      "title": "The History of Cycling in Fifty Bikes",
+      "authors": [
+        "Tom Ambrose"
+      ],
+      "numPages": 0,
+      "description": "The invention of the bicycle changed history by democratizing travel for the first time. The common man—and importantly the common woman—could now afford to travel at reasonable speed without the need of a horse. Instead of walking just 10 miles a day on foot, a healthy individual could now ride up to 80 miles on a cycle at a relatively modest cost. Today, despite the prevalence of the car, the bicycle is as important as ever. More cycles appear on city streets each year, offering healthy, pollution-free transport. Commuters cycle to work through congested traffic, urban hire-bike schemes are increasingly common, and the sports of road and track racing continue to gain in popularity. For an invention with a history of just 200 years, the simple bicycle has changed the world in many ways. From the Velocipede to the Pinarello, The History of Cycling in Fifty Bikes by Tom Ambrose relates this history by telling the stories of 50 iconic machines that have shaped the world.",
+      "image": "http://books.google.com/books/content?id=MJqTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781623361310"
+      }
+    },
+    {
+      "id": "1818",
+      "title": "In Bikes We Trust",
+      "authors": [
+        "Raquel Harris",
+        "Leeky Da Bike Star"
+      ],
+      "numPages": 84,
+      "description": "The first segment of this three-part book, In Bikes We Trust, reveals a glimpse into one of the most notorious figures in the Bike Life movement. Learn how Leeky, aka Leeky Da Bikestar, went from a slow learner to acclaimed by VICE as “the most infamous rider in New York City.” Included are recollections from his Mother depicting what it’s like supporting her son in a risky endeavor and perspectives from his mentor Chico, who has seen the beauty and ugly of this emerging sport. The second segment of In Bikes We Trust reveals the undocumented history, essence, and structure behind the culture of Bike Life. From Influences starting with early Hip Hop leading to educational programs in K-12 schools. In addition, examining legal issues or how criticism from large police organizations shapes the community perspective of street dirt-biking. In the third segment of the book, Leeky offers a how-to guide for inspiring riders. The guide shares everything you need to know before you start riding; such as terminology, bike parts, and lessons from his wheelie school system. Whether it’s choosing the perfect dirt bike or improving your skills, we've got you covered.",
+      "image": "http://books.google.com/books/content?id=6mRuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ]
+    },
+    {
+      "id": "593c",
+      "title": "Extreme Mountain Biking",
+      "authors": [
+        "Kelley MacAulay",
+        "Bobbie Kalman"
+      ],
+      "numPages": 36,
+      "description": "Extreme mountain bikers take to the mountains to satisfy their need for speed and extreme heights. From racing downhill on the steepest mountain slopes to performing tricks on obstacles such as fallen logs, these athletes have found creative ways to involve nature in their sport like no other extreme athletes. Extreme Mountain Biking provides kids with all they need to know about - extreme mountain bikes and their maintenance - the history of this young sport - the styles of riding and their main competitions - the stars who defy gravity",
+      "image": "http://books.google.com/books/content?id=ocdp_SgERr4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0778716783"
+      }
+    },
+    {
+      "id": "da06",
+      "title": "Fixed",
+      "authors": [
+        "Andrew Edwards",
+        "Max Leonard"
+      ],
+      "numPages": 148,
+      "description": "Fixed-gear cycling has today become the coolest form of urban transport, giving rise to a global fixed-gear culture. Fixed is the first book to document fixed-gear cycling. The authors have traveled to cities around the world to examine at first hand the intersections between the fixed-gear bike's design and its racing heritage, and the street style and customization that are at the heart of its current popularity. Interviews with sports-people, frame-builders, and those at the nexus of design, art, and fixed-gear culture give an insight into fixed-wheel design, philosophy, and riding experience. The book will appeal to cyclistsfixed-gear riders, urban riders, racers, and those interested in cycling heritageas well as to a wider design audience.",
+      "image": "http://books.google.com/books/content?id=fOgaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "NWU:35556039555271"
+      }
+    },
+    {
+      "id": "026d",
+      "title": "Safe Cycling",
+      "authors": [
+        "Nicole Sipe"
+      ],
+      "numPages": 35,
+      "description": "Bike riding is a lot of fun, but it can also be dangerous. Read about how people have made cycling safe over the years. Learn how bicycles have changed over time and how bike parts, equipment, and trails make cycling safer. Created in collaboration with the Smithsonian Institution, this STEAM book will ignite a curiosity about STEAM topics through real-world examples. It features a hands-on STEAM challenge that is perfect for makerspaces and that guides students step-by-step through the engineering design process. Make STEAM career connections with career advice from Smithsonian employees working in STEAM fields. Ideal for school reports and projects, this informational text will appeal to reluctant readers and ages 6-8.",
+      "image": "http://books.google.com/books/content?id=R4uTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781493866694"
+      }
+    },
+    {
+      "id": "8fe2",
+      "title": "Choosing, Using & Maintaining Your Electric Bicycle",
+      "authors": [
+        "Peter Henshaw"
+      ],
+      "numPages": 66,
+      "description": "A complete buyer's guide to electric bicycles, including the types of bike available, what to look for and why you should buy one. Packed with useful contacts, including importers, websites and magazines, advice on where you can ride, and the law. Also includes battery charging and maintenance info, as well as basic cycle maintenance.",
+      "image": "http://books.google.com/books/content?id=QMR3DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781845849399"
+      }
+    },
+    {
+      "id": "99b5",
+      "title": "Fifty Bicycles That Changed the World",
+      "authors": [
+        "Alex Newson"
+      ],
+      "numPages": 112,
+      "description": "The Design Museum brings you fifty bicycles that changed the world we live in! The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, Alex Newson explores the 50 most important, pivotal bicycles from around the world. The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, here are the 50 most important, pivotal bicycles from around the world. Contents Includes... Laufmaschine c.1817 Velocipede c.1863 Safety Bicycle c.1880 The tandem 1898 The cargo bike 1900s BSA 3-Speed Hub 1930-40 Flying Pigeon PA-02 c.1950 PARIS Galibier c.1947 Raleigh Chopper 1969 Dawes Galaxy 1971 Avatar 2000 1980 AM series Moulton Bicycle 1983 STRiDA 1985 Kestrel 4000 1986 'Old Faithful' 1993 Airnimal Chameleon c.2000 Bianchi Pista Chrome 2007 EADS Airebike 2011 Faraday Porteur 2013 ...And Much More!",
+      "image": "http://books.google.com/books/content?id=FsI4AgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781840916508"
+      }
+    },
+    {
+      "id": "2609",
+      "title": "Sport Bikes",
+      "authors": [
+        "Hans Hetrick"
+      ],
+      "numPages": 18,
+      "description": "\"Describes sport bikes, including their history, design, and the road course races they participate in, such as MotoGP and the Superbike World Championship\"--Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=95f1-fanCVIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781429647519"
+      }
+    },
+    {
+      "id": "8505",
+      "title": "Bikes",
+      "authors": [
+        "Janet Cook",
+        "Jessica Kent"
+      ],
+      "numPages": 36,
+      "description": "Fascinating facts, quizzes and things to make and do",
+      "image": "http://books.google.com/books/content?id=1Utux3LWzGwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0746025505"
+      }
+    },
+    {
+      "id": "031d",
+      "title": "The Competition Bicycle",
+      "authors": [
+        "Jan Heine"
+      ],
+      "numPages": 178,
+      "description": "The Competition Bicycle will inspire cyclists and design lovers alike. The evocative, detail-rich photographs display the history of the bicycle, from racing high-wheelers to modern racing bikes with carbon-fiber disc wheels. Exceptional handcrafted machines ridden by great champions illustrate milestones in the mechanics and craftsmanship of bicycle design. This volume also features iconic bicycles that played an important role in the history of the sport, from the bicycle that sent Eddy Merckx over the finish line in his last world championship win, to those of tandem teams who tackled the hour record, motor-paced track racers that exceeded 80 mph on the wooden boards, to California’s mountain-bike pioneers. Historic images complement the stunning new photography that illustrates each machine in exquisite detail while celebrating the evolution of the sport, object, and machine. The Competition Bicycle is sure to be treasured by all who appreciate magnificent masterpieces of vintage and contemporary design.",
+      "image": "http://books.google.com/books/content?id=EQxwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Sports & Recreation"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780847838417"
+      }
+    },
+    {
+      "id": "bda2",
+      "title": "Racing Bikes",
+      "authors": [
+        "Judy Tatchell",
+        "J. Kent"
+      ],
+      "numPages": 50,
+      "description": "Racing Bikes explains the different skills needed to become a successful racing cyclist. Throughout the book, there are plenty of colorful illustrations and step by step photographs which show in detail how to practice in order to improve your racing performance.",
+      "image": "http://books.google.com/books/content?id=nZQQzEh7XKwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Nonfiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0881104272"
+      }
+    },
+    {
+      "id": "0b4f",
+      "title": "Dirt Bikes",
+      "authors": [
+        "Jesse Young"
+      ],
+      "numPages": 52,
+      "description": "An introduction to dirt bikes including their history, basic skills, and safety.",
+      "image": "http://books.google.com/books/content?id=Ob8cC5qknjkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Motorcycling"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0516352261"
+      }
+    },
+    {
+      "id": "78d4",
+      "title": "dede",
+      "authors": "ascx",
+      "numPages": "501",
+      "description": "cwesx",
+      "image": "",
+      "copies": "5",
+      "categories": "dfsc",
+      "ISBN": ""
+    },
+    {
+      "id": "ef21",
+      "title": "tbevr",
+      "authors": "ascx",
+      "numPages": "501",
+      "description": "cwesx",
+      "image": "fewfw",
+      "copies": "5354",
+      "categories": "dfsc",
+      "ISBN": "cwqsxz"
     }
   ],
   "history": []

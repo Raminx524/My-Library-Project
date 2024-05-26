@@ -1,15 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-</head>
-<body>
+  </head>
+  <body>
     <div id="page">
-        
+      <section class="booksDisplayContainer">
+        <button id="getAllBooks">Show All Books</button>
+        <table></table>
+        <div id="pagination">
+          <button id="previousHanler">PREVIOUS</button>
+          <button id="nextHanler">NEXT</button>
+        </div>
+      </section>
+      <section class="createBookContainer">
+        <form id="createBookForm">
+          <h3>Add new book</h3>
+          <label>Title:</label>
+          <input type="text" name="title" placeholder="Enetr title" required />
+          <label>Author(s)</label>
+          <input
+            type="text"
+            name="authors"
+            placeholder="E.G: Author 1, Author 2"
+            required
+          />
+          <label>Pages:</label>
+          <input
+            type="number"
+            name="numPages"
+            placeholder="Enetr page number"
+            required
+          />
+          <label>Description:</label>
+          <input
+            id="bookDescriptionInput"
+            type="text"
+            name="description"
+            placeholder="Enetr discription"
+            required
+          />
+          <label>Image (optional):</label>
+          <input type="text" name="image" placeholder="Enetr image-Url" />
+          <label>Copies:</label>
+          <input
+            type="number"
+            name="copies"
+            placeholder="Enetr number of copies"
+            required
+          />
+          <label>category:</label>
+          <input
+            type="text"
+            name="categories"
+            placeholder="E.G: category 1,category 2"
+            required
+          />
+          <label>ISBN (optional):</label>
+          <input type="text" name="ISBN" placeholder="Enter ISBN" />
+          <button>Add book</button>
+          <p id="addFormMsgBox"></p>
+        </form>
+      </section>
     </div>
+    <script src="secret.js"></script>
+    <script src="init-JSON-Server.js"></script>
     <script src="main.js"></script>
-</body>
+  </body>
 </html>
