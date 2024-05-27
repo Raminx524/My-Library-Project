@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.page {
+    background: radial-gradient(circle, rgba(36,31,111,1) 0%, rgba(0,0,255,1) 50%, rgba(0,0,0,1) 100%);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    gap: 5em;
+    align-items: center;
+    padding: 2em;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 30vw;
+    text-align: center;
+    min-height: 33em;
+    color: #fff;
+}
+
+td, tr, th {
+    border: 1px solid #fff;
+}
+
+section.booksDisplayContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+    min-height: 602px;
+}
+
+
+div#pagination {
+    display: none;
+    gap: 1em;
+}
+
+section.createBookContainer {
+    width: 50%;
+    align-self: center;
+    border: 1px solid;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 5px 5px #000;
+}
+
+form#createBookForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    gap: 0.5em;
+}
+
+tr:hover{
+    cursor: pointer;
+}

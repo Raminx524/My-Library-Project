@@ -1,0 +1,60 @@
+img{
+    width: 20vw;
+}
+
+.infoKey{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: large;
+    margin: 2px;
+}
+
+div#bookDetailsDisplay {
+    background-color: #fff;
+    min-width: 300px;
+    width: 40vw;
+    justify-content: space-between;
+    border: 1px solid;
+    padding: 1em;
+    border-radius: 8px;
+}
+
+.bookInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    max-width: 370px;
+}
+
+dialog{
+    position: absolute;
+    top: 30vh;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#confirmBtn{
+    background-color: rgb(0, 189, 0);
+    font-weight: bolder;
+}
+
+#cancelBtn{
+    background-color: #f00;
+    font-weight: bolder;
+}
+
+#popUpBtns{
+width: 100%;
+display: flex;
+justify-content: center;
+gap: 1em;
+}
+
+button#goBackBtn {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    height: 2em;
+    font-size: xx-large;
+    width: 5em;
+}

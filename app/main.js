@@ -3,12 +3,12 @@ let numPage = 1;
 const prevBtn = document.querySelector("#previousHanler");
 const nextBtn = document.querySelector("#nextHanler");
 const prevNextDIvElem = document.querySelector("#pagination");
-let activeBookId;
-const getAllBtn = document.querySelector("#getAllBooks");
-getAllBtn.onclick = async () => {
+const createFormElem = document.querySelector("#createBookForm");
+const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
+// let activeBookId;
+async function renderBooks() {
   try {
     const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
-    console.log(res.data);
     const books = res.data.data;
     const tableElem = document.querySelector("table");
     tableElem.innerHTML = `<thead>
@@ -18,7 +18,7 @@ getAllBtn.onclick = async () => {
     const tbodyElem = tableElem.querySelector("tbody");
     for (let i = 0; i < books.length; i++) {
       tbodyElem.innerHTML += `
-      <tr onclick="showDetails(this)">
+      <tr onclick="goToBook(this)">
         <td>${books[i].id}</td>
         <td>${books[i].title}</td>
         </tr>`;
@@ -28,16 +28,16 @@ getAllBtn.onclick = async () => {
   } catch (error) {
     console.log(error);
   }
-};
+}
 
 prevBtn.onclick = () => {
   numPage--;
-  getAllBtn.click();
+  renderBooks();
 };
 
 nextBtn.onclick = () => {
   numPage++;
-  getAllBtn.click();
+  renderBooks();
 };
 
 function paginationHandler(pagesInfo) {
@@ -53,20 +53,18 @@ function paginationHandler(pagesInfo) {
   }
 }
 
-const createFormElem = document.querySelector("#createBookForm");
 createFormElem.addEventListener("submit", async (e) => {
   const msgBox = createFormElem.querySelector("#addFormMsgBox");
   e.preventDefault();
   msgBox.innerText = "";
   const bodyFromData = new FormData(createFormElem);
   try {
-    const res = await axios.post(booksUrl, bodyFromData, {
+    await axios.post(booksUrl, bodyFromData, {
       headers: { "Content-Type": "application/json" },
     });
-    console.log(res);
-
     msgBox.innerText = "Book added successfully!";
     msgBox.style.color = "green";
+    renderBooks();
   } catch (error) {
     console.log(error);
     msgBox.innerText = "Failure!";
@@ -74,36 +72,30 @@ createFormElem.addEventListener("submit", async (e) => {
   }
 });
 
-const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
-function showDetails(elem) {
-  bookDetailsContainer.style.display = "flex";
-  activeBookId = elem.childNodes[1].innerText;
-  axios.get(`${booksUrl}/${activeBookId}`).then((res) => {
-    const bookData = res.data;
-    const valuesElems = document.querySelectorAll(".infoValue");
-    let elemIndex = 0;
-    for (let key in bookData) {
-      if (key == "image") {
-        continue;
-      }
-      if (key == "ISBN") {
-        valuesElems[elemIndex].innerText = bookData[key]["identifier"];
-      } else {
-        valuesElems[elemIndex].innerText = bookData[key];
-      }
-      elemIndex++;
-    }
-  });
+// function showDetails(elem) {
+//   bookDetailsContainer.style.display = "flex";
+//   activeBookId = elem.childNodes[1].innerText;
+//   axios.get(`${booksUrl}/${activeBookId}`).then((res) => {
+//     const bookData = res.data;
+//     const valuesElems = document.querySelectorAll(".infoValue");
+//     let elemIndex = 0;
+//     for (let key in bookData) {
+//       if (key == "image") {
+//         continue;
+//       }
+//       if (key == "ISBN") {
+//         valuesElems[elemIndex].innerText = bookData[key]["identifier"];
+//       } else {
+//         valuesElems[elemIndex].innerText = bookData[key];
+//       }
+//       elemIndex++;
+//     }
+//   });
+// }
+
+function goToBook(elem) {
+  const bookID = elem.childNodes[1].innerText;
+  window.location.assign(`./bookdetails.html?id=${bookID}`);
 }
 
-const delBtnElem = document.querySelector("#delBtn");
-delBtnElem.addEventListener("click", async () => {
-  console.log(activeBookId);
-  try {
-    const res = await axios.delete(`${booksUrl}/${activeBookId}`);
-    getAllBtn.click();
-    bookDetailsContainer.style.display = "none";
-  } catch (error) {
-    console.log(error);
-  }
-});
+renderBooks();
