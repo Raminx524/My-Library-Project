@@ -76,14 +76,12 @@ function goBack() {
 function increment() {
   let copiesNum = document.querySelector(`#copies`).innerText;
   copiesNum++;
-  updateCopies(copiesNum);
-  init();
+  updateCopies(copiesNum).then(() => init());
 }
 function decrement() {
   let copiesNum = document.querySelector(`#copies`).innerText;
   copiesNum--;
-  updateCopies(copiesNum);
-  init();
+  updateCopies(copiesNum).then(() => init());
 }
 
 async function updateCopies(numCopies) {
