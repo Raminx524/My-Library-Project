@@ -5,8 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bookDetails.css">
   </head>
   <body>
+    <div class="page">
+      <h1></h1>
+      <div id="bookDetailsDisplay" style="display: flex;">
+        <div class="bookInfo">
+          <div class="dataLine">
+            <p class="infoKey">ID:</p><span class="infoValue" id="id">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Title:</p><span class="infoValue" id="title">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Authors:</p><span class="infoValue" id="authors">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Pages:</p><span class="infoValue" id="numPages">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Description:</p><span class="infoValue" id="description">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Copies:</p><span class="infoValue" id="copies">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">Category:</p><span class="infoValue" id="categories">N/A</span>
+          </div>
+          <div class="dataLine">
+            <p class="infoKey">ISBN:</p><span class="infoValue" id="ISBN">N/A</span>
+          </div>
+          <div id="delUpdbuttons">
+            <button id="editBtn">Edit</button>
+            <button id="delBtn" onclick="showPopUp()">Delete</button>
+            
+          </div>
+        </div>
+        <img src="" alt="Failed to load image" />
+      </div>
+      <button id="goBackBtn" onclick="goBack()">Go Back</button>
+      <dialog>
+        <p>Are you sure you want to delete this book?</p>
+        <div id="popUpBtns">
+          <button id="confirmBtn" onclick="deleteBook()">Confirm</button>
+          <button id="cancelBtn" onclick="cancelDelete()">Cancel</button>
+        </div>
+      </dialog>
+    </div>
     <script src="bookDetails.js"></script>
   </body>
 </html>

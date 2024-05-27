@@ -1,42 +1,23 @@
 body {
     margin: 0;
     overflow-x: hidden;
-    height: 100vh;
 }
 
-div#page {
+.page {
     background: radial-gradient(circle, rgba(36,31,111,1) 0%, rgba(0,0,255,1) 50%, rgba(0,0,0,1) 100%);
-    min-height: 100vh;
     display: flex;
+    min-height: 100vh;
     flex-direction: column;
     gap: 5em;
-    padding-block: 5em;
+    align-items: center;
+    padding: 2em;
 }
 
-div#bookDetailsDisplay {
-    display: none;
-    position: absolute;
-    background-color: #fff;
-    left: 30vw;
-    top: 2em;
-    min-width: 350px;
-    width: 40vw;
-    justify-content: space-between;
-    border: 1px solid;
-    padding: 1em;
-    border-radius: 8px;
+h1{
+    color: #fff;
+    text-align: center;
 }
 
-.bookInfo {
-    display: flex;
-    flex-direction: column;
-    gap: 1em;
-    max-width: 370px;
-}
-
-.booksDisplayContainer img {
-    width: 15vw;
-}
 
 table {
     border-collapse: collapse;
@@ -79,4 +60,8 @@ form#createBookForm {
     align-items: center;
     background-color: #fff;
     gap: 0.5em;
+}
+
+tr:hover{
+    cursor: pointer;
 }
