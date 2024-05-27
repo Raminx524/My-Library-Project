@@ -1,61 +1,6 @@
 {
   "books": [
     {
-      "id": "a624",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "authors": [
-        "J.K. Rowling"
-      ],
-      "numPages": 311,
-      "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
-      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": {
-        "type": "ISBN_13",
-        "identifier": "9781781100486"
-      }
-    },
-    {
-      "id": "930e",
-      "title": "Harry Potter and International Relations",
-      "authors": [
-        "Daniel H. Nexon",
-        "Iver B. Neumann"
-      ],
-      "numPages": 262,
-      "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
-      "image": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": {
-        "type": "ISBN_10",
-        "identifier": "0742539598"
-      }
-    },
-    {
-      "id": "f46a",
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "authors": [
-        "J. K. Rowling"
-      ],
-      "numPages": 734,
-      "description": "Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths.",
-      "image": "http://books.google.com/books/content?id=4mtauAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Escaped prisoners"
-      ],
-      "ISBN": {
-        "type": "ISBN_10",
-        "identifier": "1536443743"
-      }
-    },
-    {
       "id": "a1a8",
       "title": "Harry Potter and the Deathly Hallows",
       "authors": [
@@ -181,24 +126,6 @@
       "ISBN": {
         "type": "ISBN_13",
         "identifier": "9781935251378"
-      }
-    },
-    {
-      "id": "16a2",
-      "title": "The Amazing Secrets of Nature",
-      "authors": [
-        "Reader's Digest Association"
-      ],
-      "numPages": 358,
-      "description": "With 900 full-color photographs and illustrations, this book takes the reader on a tour of the natural world, from appreciating the mechanics of a bird's flight to mass migrations of land mammals to explanations of tsunamis and volcanoes.",
-      "image": "http://books.google.com/books/content?id=ykUQUu1mvhYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Natural history"
-      ],
-      "ISBN": {
-        "type": "ISBN_10",
-        "identifier": "9622583067"
       }
     },
     {
@@ -401,20 +328,6 @@
       "ISBN": {
         "type": "OTHER",
         "identifier": "UOM:39015067302060"
-      }
-    },
-    {
-      "id": "5fe0",
-      "title": "Memoirs of the Verney Family ... by Frances Parthenope Verney [ab Bd. 3] Margaret M. Verney",
-      "authors": [
-        "Frances Parthenope Verney"
-      ],
-      "numPages": 580,
-      "image": "http://books.google.com/books/content?id=Dg6Ec5IBr7EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "ISBN": {
-        "type": "OTHER",
-        "identifier": "BSB:BSB11573806"
       }
     },
     {
@@ -3103,6 +3016,333 @@
       "copies": "5354",
       "categories": "dfsc",
       "ISBN": "cwqsxz"
+    },
+    {
+      "id": "d0fb",
+      "title": "Flowers and Their Meanings",
+      "authors": [
+        "Karen Azoulay"
+      ],
+      "numPages": 249,
+      "description": "Uncover the secret meanings behind your bouquets and floral arrangements with this stunningly illustrated exploration of the Victorian language of flowers, including the multicultural history, rituals, and mythology behind over 600 flowers, herbs, and trees. In the Victorian language of flowers, hundreds of blooms were ascribed specific meanings based on folklore, science, and ancient history. Page through this botanical encyclopedia to learn each flower's Victorian meaning (ranunculus, for example, boldly states, \"I am dazzled by your charms,\" while marigold represents despair), common names, and cultural history. There is also an index of the flowers grouped by theme, should you want to challenge your local florist to create a coded message for a loved one. The study of floriography can be used by readers to decode hidden messages in beloved novels like The Age of Innocence or speculate as to why two canary-yellow roses—which signify jealousy and infidelity—were featured in Diana Spencer's wedding bouquet. You might share some honeysuckle (meaning \"bonds of love\") with a friend or partner as a gesture of commitment. Or perhaps you'll choose a celebratory bouquet of angelica (\"inspiration\") and purple columbine (\"resolved to win\") for a friend who has triumphed over something difficult. Karen Azoulay pairs nineteenth century botanical drawings with electric photography, creating a one-of-a-kind flower dictionary with a contemporary, artful feel. With a foreword by Kate Bolick and a helpful sentiment-based index, Flowers and Their Meanings is both a beautiful volume and a practical guide to incorporating the language of flowers into your own life.",
+      "image": "http://books.google.com/books/content?id=_muTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780593234679"
+      }
+    },
+    {
+      "id": "19c5",
+      "title": "The Language of Flowers",
+      "authors": [
+        "Henrietta Dumont"
+      ],
+      "numPages": 324,
+      "image": "http://books.google.com/books/content?id=4mNGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "NYPL:33433010840795"
+      }
+    },
+    {
+      "id": "75bc",
+      "title": "The Language and Poetry of Flowers",
+      "numPages": 268,
+      "image": "http://books.google.com/books/content?id=Jm5AAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UCD:31175035216707"
+      }
+    },
+    {
+      "id": "aaaf",
+      "title": "The Illustrated Language of Flowers",
+      "authors": [
+        "Anna Christian Burke"
+      ],
+      "numPages": 114,
+      "image": "http://books.google.com/books/content?id=Ke9hAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "BL:A0019925006"
+      }
+    },
+    {
+      "id": "c789",
+      "title": "The Language of Flowers. [Translated from the French of C. de la Tour, Pseud. I.e. L. Cortambert.]",
+      "numPages": 352,
+      "image": "http://books.google.com/books/content?id=x6NgAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "BL:A0019657757"
+      }
+    },
+    {
+      "id": "1d00",
+      "title": "How to Know the Wild Flowers",
+      "authors": [
+        "Frances Theodora Parsons"
+      ],
+      "numPages": 408,
+      "description": "Considered the first field guide to American wild flowers when first published in 1893, this revised and enlarged edition contains 156 plates and provides botanical details and lore for nearly five hundred flowering plants personally observed by the author in parts of New England, New York, New Jersey, Pennsylvania, and in the vicinity of Washington, D.C., along with a few found outside this range and east of Chicago. The listings are grouped by color of flower.",
+      "image": "http://books.google.com/books/content?id=ayQqAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Botany"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "HARVARD:HW2GUL"
+      }
+    },
+    {
+      "id": "d9a4",
+      "title": "Flowers and Flower Lore",
+      "authors": [
+        "Hilderic Friend"
+      ],
+      "numPages": 382,
+      "image": "http://books.google.com/books/content?id=2L9rY4w2n-AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flowers"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "STANFORD:36105004077330"
+      }
+    },
+    {
+      "id": "0014",
+      "title": "Language and Poetry of Flowers",
+      "authors": [
+        "Henry Gardiner Adams"
+      ],
+      "numPages": 342,
+      "image": "http://books.google.com/books/content?id=zlFAAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "OSU:32435030223598"
+      }
+    },
+    {
+      "id": "09ab",
+      "title": "Understanding Flowers and Flowering Second Edition",
+      "authors": [
+        "Beverley Glover"
+      ],
+      "numPages": 315,
+      "description": "Beverley Glover provides an overview of the biology of flowers and considers how plants decide when to make flowers and how floral organs develop. She looks at why different shapes and colours exist, relating floral development to pollination biology.",
+      "image": "http://books.google.com/books/content?id=uXMVDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780199661596"
+      }
+    },
+    {
+      "id": "73a6",
+      "title": "Postharvest Biotechnology of Flowers and Ornamental Plants",
+      "authors": [
+        "Dattajirao K. Salunkhe",
+        "Narayana R. Bhat",
+        "Babasaheb B. Desai"
+      ],
+      "numPages": 203,
+      "description": "The floricultural industry has been undergoing an unprecedented revolu tion in terms of the type of commodity produced and the production and marketing technology in both developed and developing countries. As a result of this revolution, as we know today, there is a flower for every purpose and for every person in the world, as is evident from the slogan of the Society for American Florists: \"say it with flowers\". In re cent years, the Latin American and European countries have become sizeable competitors for the North American fresh flower markets and the trend continues growing. Like any other crop production, floricultural production can be divided into three basic factors: (1) production costs (2) quality (3) transportation costs. All these must be optimum for this area or industry to be safe from competition. With increasing consumer awareness and the current recession, the pressure from the artificial floral products in dustry and also of neighbouring countries on the American fresh flower industry, and continued competition even amongst the growers, whole salers and retailers, quality in floricultural industry is becoming increas ingly important to all those concerned with handling these products. The visual quality aspects of the product are the sole determiner of consumer acceptability in this industry and, unlike fruits and vegetables, flowers cannot be marketed by just discarding the damaged portion.",
+      "image": "http://books.google.com/books/content?id=E-jrCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Science"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9783642738036"
+      }
+    },
+    {
+      "id": "6d45",
+      "title": "Flowers: Art & Bouquets",
+      "authors": [
+        "Sixtine Dubly",
+        "Carlos Mota"
+      ],
+      "numPages": 5,
+      "description": "Be it a single delicate bud in a simple clear vase or an explosion of colorful blossoms, a brilliant bouquet accents an atmosphere and brightens the mood like nothing else. The beauty of flowers has inspired artists, designers, poets, and myriad other creators for centuries: the Dutch masters of the 1600s and impressionist painters from Manet to Van Gogh, photographer Robert Mapplethorpe, botanical illustrator Georg Dionysius Ehret, even the inimitable Andy Warhol. Flowers: Art & Bouquets showcases a glorious profusion of floral images and interpretations across a spectrum of artistic media and time periods. Design writer Sixtine Dubly chronicles the evolution of floral design in this remarkable compendium, which also features stunning work by more than forty contemporary floral artists in London, Paris, and New York, from minimalist to elaborate. This treasury of gorgeous imagery blooms in resplendent color before the reader’s eyes.",
+      "image": "http://books.google.com/books/content?id=8PPDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Travel"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9781614285144"
+      }
+    },
+    {
+      "id": "ef12",
+      "title": "Flowers for the Parlor and Garden",
+      "authors": [
+        "Edward Sprague Rand"
+      ],
+      "numPages": 438,
+      "image": "http://books.google.com/books/content?id=z7BCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Floriculture"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "UCBK:C034848950"
+      }
+    },
+    {
+      "id": "d206",
+      "title": "The Language of Flowers, Poetically Expressed",
+      "authors": [
+        "John Stowell Adams"
+      ],
+      "numPages": 150,
+      "image": "http://books.google.com/books/content?id=rfRDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Flower language"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "OSU:32435069210581"
+      }
+    },
+    {
+      "id": "7823",
+      "title": "British Wild Flowers",
+      "authors": [
+        "Thomas Moore"
+      ],
+      "numPages": 566,
+      "image": "http://books.google.com/books/content?id=C-IYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Botany"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "HARVARD:32044106356827"
+      }
+    },
+    {
+      "id": "2319",
+      "title": "Familiar Flowers of Field and Garden",
+      "authors": [
+        "F. Schuyler Mathews"
+      ],
+      "numPages": 323,
+      "description": "Organized by season and illustrated by handsome engravings, this delightful guide to wild and cultivated flowers reveals the proper names of familiar blossoms, their color varieties, and bloom cycles.",
+      "image": "http://books.google.com/books/content?id=WkC9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Nature"
+      ],
+      "ISBN": {
+        "type": "ISBN_13",
+        "identifier": "9780486838014"
+      }
+    },
+    {
+      "id": "288f",
+      "title": "On Flowers Book of Days",
+      "authors": [
+        "Sara Kleinman",
+        "Kathryn Kleinman",
+        "Sara Slavin",
+        "Chronicle Books"
+      ],
+      "numPages": 136,
+      "image": "http://books.google.com/books/content?id=w7krIFDdO0MC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fiction"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0877016569"
+      }
+    },
+    {
+      "id": "8304",
+      "title": "Flowers of the Churchyard. A Translation",
+      "authors": [
+        "Flowers"
+      ],
+      "numPages": 78,
+      "image": "http://books.google.com/books/content?id=vRCD_oRBHSgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "NLS:V000577655"
+      }
+    },
+    {
+      "id": "d2ea",
+      "title": "The Fertilisation of Flowers",
+      "authors": [
+        "Hermann Müller"
+      ],
+      "numPages": 694,
+      "image": "http://books.google.com/books/content?id=KD8AAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fertilization of plants"
+      ],
+      "ISBN": {
+        "type": "OTHER",
+        "identifier": "OXFORD:600025367"
+      }
+    },
+    {
+      "id": "1255",
+      "title": "Flowers A to Z",
+      "authors": [
+        "Cecelia Heffernan"
+      ],
+      "numPages": 0,
+      "description": "A guide to buying, cultivating, caring for, cutting, and arranging flowers with information on flower varieties, vase life, color, and scent.",
+      "image": "http://books.google.com/books/content?id=vdUQOQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Gardening"
+      ],
+      "ISBN": {
+        "type": "ISBN_10",
+        "identifier": "0810992337"
+      }
     }
   ],
   "history": []
