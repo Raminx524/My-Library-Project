@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="bookDetails.css" />
   </head>
@@ -55,15 +56,18 @@
       <button id="goBackBtn" onclick="goBack()">Go Back</button>
       <dialog class="delDialog">
         <p>Are you sure you want to delete this book?</p>
-        <div id="popUpBtns">
+        <div class="popUpBtns">
           <button id="confirmBtn" onclick="deleteBook()">Confirm</button>
           <button id="cancelBtn" onclick="cancelDelete()">Cancel</button>
         </div>
       </dialog>
       <dialog>
-        <p>Chnge number of copies</p>
-        <button onclick="decrement()">-1</button>
-        <button onclick="increment()">+1</button>
+        <i class="fa-regular fa-square-xmark" onclick="cancelPopUp()"></i>
+        <p>Update Copies</p>
+        <div class="popUpBtns">
+          <button onclick="decrement()">-1</button>
+          <button onclick="increment()">+1</button>
+        </div>
       </dialog>
     </div>
     <script src="bookDetails.js"></script>
