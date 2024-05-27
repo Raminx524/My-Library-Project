@@ -69,6 +69,12 @@ createFormElem.addEventListener("submit", async (e) => {
     });
     msgBox.innerText = "Book added successfully!";
     msgBox.style.color = "green";
+    addToHistory({
+      operation: "CREATE",
+      time: new Date(),
+      ISBN: createFormElem.ISBN.value,
+    });
+    renderBooks();
     renderAll();
   } catch (error) {
     console.log(error);
@@ -82,6 +88,11 @@ function goToBook(elem) {
   window.location.assign(`./bookdetails.html?id=${bookID}`);
 }
 
+renderBooks();
+
+async function addToHistory(obj) {
+  await axios.post(historyUrl, obj);
+}
 async function searchBook() {
   const bookToSearch = document.querySelector("#bookSearchValue").value;
   try {
