@@ -1,14 +1,17 @@
 const baseUrl = "http://localhost:8001/books";
+const historyUrl = "http://localhost:8001/history";
 const urlObj = new URL(window.location.href);
 const params = new URLSearchParams(urlObj.searchParams);
 const bookID = params.get("id");
 let popUpElem;
+let bookISBN;
 init();
 
 async function init() {
   try {
     const response = await axios.get(`${baseUrl}/${bookID}`);
     const bookDetails = response.data;
+    bookISBN = bookDetails.ISBN["identifier"];
     document.querySelector("h1").innerText = bookDetails.title;
     renderBookDetails(bookDetails);
   } catch (error) {
@@ -41,6 +44,11 @@ function renderBookDetails(book) {
 async function deleteBook() {
   try {
     await axios.delete(`${baseUrl}/${bookID}`);
+    addToHistory({
+      operation: "DELETE",
+      time: new Date(),
+      ISBN: bookISBN,
+    });
     popUpElem.innerHTML += "<span>Success! Redirecting..</span>";
     setTimeout(goBack, 3000);
   } catch (err) {
@@ -81,7 +89,20 @@ function decrement() {
 async function updateCopies(numCopies) {
   try {
     await axios.patch(`${baseUrl}/${bookID}`, { copies: numCopies });
+    addToHistory({
+      operation: "UPDATE",
+      time: new Date(),
+      ISBN: bookISBN,
+    });
   } catch (err) {
     console.log(err);
+  }
+}
+
+async function addToHistory(obj) {
+  try {
+    await axios.post(historyUrl, obj);
+  } catch (error) {
+    console.log(error);
   }
 }

@@ -1,4 +1,5 @@
 const booksUrl = "http://localhost:8001/books";
+const historyUrl = "http://localhost:8001/history";
 let numPage = 1;
 const prevBtn = document.querySelector("#previousHanler");
 const nextBtn = document.querySelector("#nextHanler");
@@ -64,6 +65,11 @@ createFormElem.addEventListener("submit", async (e) => {
     });
     msgBox.innerText = "Book added successfully!";
     msgBox.style.color = "green";
+    addToHistory({
+      operation: "CREATE",
+      time: new Date(),
+      ISBN: createFormElem.ISBN.value,
+    });
     renderBooks();
   } catch (error) {
     console.log(error);
@@ -99,3 +105,7 @@ function goToBook(elem) {
 }
 
 renderBooks();
+
+async function addToHistory(obj) {
+  await axios.post(historyUrl, obj);
+}
