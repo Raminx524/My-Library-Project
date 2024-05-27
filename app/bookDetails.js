@@ -66,18 +66,22 @@ function goBack() {
 }
 
 function increment() {
-  let numnberOfCopies = document.querySelector(`#copies`).innerText;
-  numnberOfCopies++;
-  updateCopies(numnberOfCopies);
+  let copiesNum = document.querySelector(`#copies`).innerText;
+  copiesNum++;
+  updateCopies(copiesNum);
   init();
 }
 function decrement() {
-  let numnberOfCopies = document.querySelector(`#copies`).innerText;
-  numnberOfCopies--;
-  updateCopies(numnberOfCopies);
+  let copiesNum = document.querySelector(`#copies`).innerText;
+  copiesNum--;
+  updateCopies(copiesNum);
   init();
 }
 
 async function updateCopies(numCopies) {
-  const res = axios.patch(`${baseUrl}/${bookID}`, { copies: numCopies });
+  try {
+    await axios.patch(`${baseUrl}/${bookID}`, { copies: numCopies });
+  } catch (err) {
+    console.log(err);
+  }
 }
