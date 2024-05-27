@@ -8,6 +8,7 @@ const createFormElem = document.querySelector("#createBookForm");
 const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
 const loaderElem = document.querySelector(".loader");
 renderAll();
+
 async function renderAll() {
   try {
     loaderElem.style.display = "grid";
@@ -69,19 +70,46 @@ createFormElem.addEventListener("submit", async (e) => {
   msgBox.innerText = "";
   const bookObj = createBookObj(createFormElem);
   try {
-    await axios.post(booksUrl, bookObj);
-    msgBox.innerText = "Book added successfully!";
-    msgBox.style.color = "green";
-    addToHistory({
-      operation: "CREATE",
-      time: new Date(),
-      ISBN: createFormElem.ISBN.value,
-    });
-    renderAll();
-  } catch (error) {
-    console.log(error);
-    msgBox.innerText = "Failure!";
-    msgBox.style.color = "red";
+    // Check if book title Exists
+    const response = await axios.get(`${booksUrl}?title=${bookObj.title}`);
+    if (response.data.length > 0) {
+      msgBox.innerText = "Failure! Book Title already exist!";
+      msgBox.style.color = "red";
+      return;
+    } else {
+      //Book title doesnt exist
+      if (bookObj.ISBN != "") {
+        try {
+          // Check if book ISBN Exists
+          const response = await axios.get(`${booksUrl}?ISBN=${bookObj.ISBN}`);
+          if (response.data.length > 0) {
+            msgBox.innerText = "Failure! Book ISBN already exist!";
+            msgBox.style.color = "red";
+            return;
+          }
+        } catch (err) {
+          console.log(err);
+        }
+      } else {
+        try {
+          await axios.post(booksUrl, bookObj);
+          msgBox.innerText = "Book added successfully!";
+          msgBox.style.color = "green";
+          await addToHistory({
+            operation: "CREATE",
+            time: new Date(),
+            ISBN: createFormElem.ISBN.value,
+          });
+          renderAll();
+        } catch (error) {
+          console.log(error);
+          msgBox.innerText = "Failure!";
+          msgBox.style.color = "red";
+        }
+      }
+    }
+  } catch (err) {
+    console.log(err);
   }
 });
 
