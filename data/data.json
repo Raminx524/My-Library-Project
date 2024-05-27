@@ -1,25 +1,6 @@
 {
   "books": [
     {
-      "id": "930e",
-      "title": "Harry Potter and International Relations",
-      "authors": [
-        "Daniel H. Nexon",
-        "Iver B. Neumann"
-      ],
-      "numPages": 262,
-      "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
-      "image": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 15,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": {
-        "type": "ISBN_10",
-        "identifier": "0742539598"
-      }
-    },
-    {
       "id": "f46a",
       "title": "Harry Potter and the Prisoner of Azkaban",
       "authors": [
@@ -3311,7 +3292,972 @@
         "type": "ISBN_10",
         "identifier": "0810992337"
       }
+    },
+    {
+      "id": "edef",
+      "title": "srdfhbhkm;l",
+      "authors": "asdfsg,sadadsfa",
+      "numPages": "56789",
+      "description": "sadsghdgfkgjh",
+      "image": "",
+      "copies": "89",
+      "categories": "fun",
+      "ISBN": ""
+    },
+    {
+      "id": "4db9",
+      "title": "Test book",
+      "authors": [
+        "Ramin",
+        " Omer"
+      ],
+      "numPages": "450",
+      "description": "MyLibraryTest",
+      "image": "",
+      "copies": "90",
+      "categories": [
+        "study",
+        " educational"
+      ],
+      "ISBN": ""
     }
   ],
-  "history": []
+  "history": [
+    {
+      "id": "7b83",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:05.525Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "21a5",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:07.947Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "db5d",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:13.206Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "b1cc",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:15.572Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "e150",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:17.018Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "02a5",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:18.071Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7c15",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:18.788Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "24d2",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:19.527Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "78cb",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:20.107Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "901a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:20.538Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1dc4",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:20.762Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4fef",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:20.969Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f110",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:21.142Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4b08",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:21.307Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c795",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:21.455Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "d02d",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:21.702Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4f1f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:21.867Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3b2f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:22.046Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "31d8",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:22.699Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1c8c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:23.269Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8ccf",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:23.776Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4d0f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:24.747Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2380",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:25.034Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6def",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:25.249Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ec1d",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:28.845Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "47db",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:28.847Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1a6e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:28.956Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1348",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.076Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "d655",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.194Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "31c7",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.415Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4651",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.518Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4825",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.621Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "a1a3",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.726Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6e3c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.836Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3a49",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:29.959Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3e34",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:30.070Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "0a2c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:30.184Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7cb9",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:40.059Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "260b",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:41.740Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2e21",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:43.085Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "a725",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:43.696Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6afd",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:44.262Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f2b7",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:44.959Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8cf1",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:45.591Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1572",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:03:46.311Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "88ee",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:43.285Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9f7e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:46.715Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "eab6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:46.821Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "877c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:47.261Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f529",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:49.172Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "55db",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:50.339Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "431f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:51.888Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9c49",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:52.450Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "46b4",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:53.090Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "af83",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:53.605Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9f2e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:54.123Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7dd6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:54.615Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "74fc",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:55.152Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "a605",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:55.521Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "57dc",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:55.860Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "a876",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:56.198Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "0af6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:56.582Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6ab0",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:56.932Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ff04",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:57.306Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ec45",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:57.706Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8a03",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:58.057Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1ff6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:58.437Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9cf9",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:58.793Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ef9a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:59.139Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6004",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:06:59.506Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ec3c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:00.503Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1f48",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:00.909Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "36e7",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:01.249Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "b79e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:01.566Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9a61",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:01.919Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "777c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:02.207Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "46ca",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:02.510Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8762",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:02.795Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "099a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:03.113Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "43c2",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:03.463Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "93c4",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:03.730Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "78b6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:04.082Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c743",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:04.473Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "009a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:04.757Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c2f0",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:05.110Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "638e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:05.429Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "b484",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:05.793Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6026",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:06.101Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "b948",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:06.414Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "89ea",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:06.701Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "fd12",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:06.928Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "1a6a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:07.225Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2556",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:07.462Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "5fed",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:07.726Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7e07",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.122Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c20e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.348Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "abb8",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.622Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "cb04",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.623Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8536",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.732Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "20e7",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.840Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7178",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.841Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "92d6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:11.951Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8c7a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:12.549Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "9ff0",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:13.097Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "e635",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:14.401Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "d2ab",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:14.781Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "85a0",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:15.212Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "e3c0",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:15.797Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "474e",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:16.486Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "33a2",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:16.761Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3367",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:16.992Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f20b",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:17.253Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c4f9",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:17.425Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "44c7",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:17.613Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "daf8",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.039Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f35b",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.149Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "fb31",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.265Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8b28",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.266Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "0262",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.382Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4524",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.501Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "cdcc",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.617Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "fe7b",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.617Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "e2b4",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.738Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ee4d",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:21.855Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4132",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:22.086Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "c96f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:22.255Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "e21d",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:22.587Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "16f3",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:23.875Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "5ff8",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:24.444Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2da6",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:24.868Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "eec2",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:25.340Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "0a7f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:25.760Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8468",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:26.190Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "83bb",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:26.591Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "741c",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:27.007Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "4d9f",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:27.372Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "43b8",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:27.824Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "7716",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:28.245Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3b43",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:29.489Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "a007",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:30.523Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "ec7a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:31.873Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "474a",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:33.351Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "f079",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:34.355Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8aaf",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:35.147Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "0498",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:35.914Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "8166",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:36.751Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "6965",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:37.570Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2ebc",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:38.422Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "bd4b",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:39.297Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "2daa",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:40.116Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "cddf",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:40.882Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3504",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:41.748Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "3118",
+      "operation": "UPDATE",
+      "time": "2024-05-27T11:07:42.837Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "352e",
+      "operation": "DELETE",
+      "time": "2024-05-27T11:08:26.409Z",
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "43b7",
+      "operation": "CREATE",
+      "time": "2024-05-27T11:09:00.739Z",
+      "ISBN": ""
+    },
+    {
+      "id": "5abc",
+      "operation": "CREATE",
+      "time": "2024-05-27T11:20:56.167Z",
+      "ISBN": ""
+    }
+  ]
 }

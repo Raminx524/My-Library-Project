@@ -6,7 +6,7 @@ const nextBtn = document.querySelector("#nextHanler");
 const prevNextDIvElem = document.querySelector("#pagination");
 const createFormElem = document.querySelector("#createBookForm");
 const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
-
+renderAll();
 async function renderAll() {
   try {
     const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
@@ -18,20 +18,20 @@ async function renderAll() {
   }
 }
 
-function renderBooks(books) {
+function renderBooks(booksArr) {
   const tableElem = document.querySelector("table");
   tableElem.innerHTML = `<thead>
     <th>ID</th>
     <th>TITLE</th>
     </thead><tbody></tbody>`;
   const tbodyElem = tableElem.querySelector("tbody");
-  for (let i = 0; i < books.length; i++) {
+  booksArr.forEach((book) => {
     tbodyElem.innerHTML += `
       <tr onclick="goToBook(this)">
-        <td>${books[i].id}</td>
-        <td>${books[i].title}</td>
+        <td>${book.id}</td>
+        <td>${book.title}</td>
         </tr>`;
-  }
+  });
   prevNextDIvElem.style.display = "flex";
 }
 
@@ -62,11 +62,9 @@ createFormElem.addEventListener("submit", async (e) => {
   const msgBox = createFormElem.querySelector("#addFormMsgBox");
   e.preventDefault();
   msgBox.innerText = "";
-  const bodyFromData = new FormData(createFormElem);
+  const bookObj = createBookObj(createFormElem);
   try {
-    await axios.post(booksUrl, bodyFromData, {
-      headers: { "Content-Type": "application/json" },
-    });
+    await axios.post(booksUrl, bookObj);
     msgBox.innerText = "Book added successfully!";
     msgBox.style.color = "green";
     addToHistory({
@@ -74,7 +72,6 @@ createFormElem.addEventListener("submit", async (e) => {
       time: new Date(),
       ISBN: createFormElem.ISBN.value,
     });
-    renderBooks();
     renderAll();
   } catch (error) {
     console.log(error);
@@ -87,8 +84,6 @@ function goToBook(elem) {
   const bookID = elem.childNodes[1].innerText;
   window.location.assign(`./bookdetails.html?id=${bookID}`);
 }
-
-renderBooks();
 
 async function addToHistory(obj) {
   await axios.post(historyUrl, obj);
@@ -108,4 +103,19 @@ async function searchBook() {
   }
 }
 
-renderAll();
+function createBookObj(formElem) {
+  return {
+    title: formElem.title.value,
+    authors: formElem.authors.value.includes(",")
+      ? formElem.authors.value.split(",")
+      : [formElem.authors.value],
+    numPages: formElem.numPages.value,
+    description: formElem.description.value,
+    image: formElem.image.value,
+    copies: formElem.copies.value,
+    categories: formElem.categories.value.includes(",")
+      ? formElem.categories.value.split(",")
+      : [formElem.categories.value],
+    ISBN: formElem.ISBN.value,
+  };
+}
