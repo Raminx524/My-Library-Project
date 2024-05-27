@@ -5,14 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="page">
       <h1>My Library</h1>
       <section class="booksDisplayContainer">
-        <div id="searchBar"><input type="text" id="bookSearchValue" placeholder="Book Name"><button onclick="searchBook()">Search</button></div>
+        <div id="searchBar">
+          <input
+            type="text"
+            id="bookSearchValue"
+            placeholder="Book Name"
+          /><button onclick="searchBook()">Search</button>
+        </div>
+        <div class="loader"></div>
         <table></table>
         <div id="pagination">
           <button id="previousHanler">PREVIOUS</button>
