@@ -3,7 +3,7 @@
 async function orderBook(searchParam) {
   try {
     const res = await axios.get(
-      `https://www.googleapis.com/books/v1/volumes?q=${searchParam}&key=AIzaSyAP7XtWvApoZN9XefzBfMtuHo9Qb9dOPWo&maxResults=40`
+      `https://www.googleapis.com/books/v1/volumes?q=${searchParam}&key=${apiKey}`
     );
     const booksArr = res.data.items;
     booksArr.forEach((bookInfo) => {

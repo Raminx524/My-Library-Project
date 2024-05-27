@@ -1,24 +1,6 @@
 {
   "books": [
     {
-      "id": "a624",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "authors": [
-        "J.K. Rowling"
-      ],
-      "numPages": 311,
-      "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
-      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": {
-        "type": "ISBN_13",
-        "identifier": "9781781100486"
-      }
-    },
-    {
       "id": "930e",
       "title": "Harry Potter and International Relations",
       "authors": [
@@ -53,24 +35,6 @@
       "ISBN": {
         "type": "ISBN_10",
         "identifier": "1536443743"
-      }
-    },
-    {
-      "id": "a1a8",
-      "title": "Harry Potter and the Deathly Hallows",
-      "authors": [
-        "J. K. Rowling"
-      ],
-      "numPages": 870,
-      "description": "\"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series\"--Provided by publisher.",
-      "image": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Bildungsromans"
-      ],
-      "ISBN": {
-        "type": "OTHER",
-        "identifier": "UOM:39076002651854"
       }
     },
     {
@@ -129,25 +93,6 @@
       }
     },
     {
-      "id": "9547",
-      "title": "‏هيرى پوٹر اور رازوں کا کمره :‏",
-      "authors": [
-        "J. K. Rowling",
-        "Darakhshanda Asghar Khokhar"
-      ],
-      "numPages": 314,
-      "description": "An Urdu language edition of the second Harry Potter tale.",
-      "image": "http://books.google.com/books/content?id=gal9MtXKC68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": {
-        "type": "ISBN_10",
-        "identifier": "0195798767"
-      }
-    },
-    {
       "id": "d0ab",
       "title": "The Subversive Harry Potter",
       "authors": [
@@ -199,23 +144,6 @@
       "ISBN": {
         "type": "ISBN_10",
         "identifier": "9622583067"
-      }
-    },
-    {
-      "id": "f3f4",
-      "title": "Nature",
-      "authors": [
-        "Sir Norman Lockyer"
-      ],
-      "numPages": 682,
-      "image": "http://books.google.com/books/content?id=vz_V5qQXAGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Electronic journals"
-      ],
-      "ISBN": {
-        "type": "OTHER",
-        "identifier": "WISC:89009520057"
       }
     },
     {
@@ -376,17 +304,6 @@
       }
     },
     {
-      "id": "1efa",
-      "title": "Liber psalmorum hebraicus atque latinus ab Hieronymo ex hebraeo conversus. Consociata opera ediderunt Constantinus de Tischendorf, S. Baer, Fr. Delitzsch",
-      "numPages": 352,
-      "image": "http://books.google.com/books/content?id=uWdHAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "ISBN": {
-        "type": "OTHER",
-        "identifier": "UCAL:$B286969"
-      }
-    },
-    {
       "id": "e617",
       "title": "De mensuris et ponderibus liber syr",
       "authors": [
@@ -415,24 +332,6 @@
       "ISBN": {
         "type": "OTHER",
         "identifier": "BSB:BSB11573806"
-      }
-    },
-    {
-      "id": "9140",
-      "title": "Ab-sa-ra-ka, Land of Massacre: Being the Experience of an Officer's Wife on the Plains",
-      "authors": [
-        "Margaret Irvin Carrington",
-        "Henry B. Carrington"
-      ],
-      "numPages": 420,
-      "image": "http://books.google.com/books/content?id=_8w0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Crow Indians"
-      ],
-      "ISBN": {
-        "type": "OTHER",
-        "identifier": "PSU:000007948657"
       }
     },
     {
@@ -2970,24 +2869,6 @@
       "ISBN": {
         "type": "ISBN_13",
         "identifier": "9781845849399"
-      }
-    },
-    {
-      "id": "99b5",
-      "title": "Fifty Bicycles That Changed the World",
-      "authors": [
-        "Alex Newson"
-      ],
-      "numPages": 112,
-      "description": "The Design Museum brings you fifty bicycles that changed the world we live in! The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, Alex Newson explores the 50 most important, pivotal bicycles from around the world. The bicycle is the world's most popular form of transport. From the penny-farthing, the Dandy-horse and the Velocipede the design of the bicycle has evolved over the decades both in terms of style and technology. From high-performance cycles to practical run-arounds, conceptual bikes to commercial models, here are the 50 most important, pivotal bicycles from around the world. Contents Includes... Laufmaschine c.1817 Velocipede c.1863 Safety Bicycle c.1880 The tandem 1898 The cargo bike 1900s BSA 3-Speed Hub 1930-40 Flying Pigeon PA-02 c.1950 PARIS Galibier c.1947 Raleigh Chopper 1969 Dawes Galaxy 1971 Avatar 2000 1980 AM series Moulton Bicycle 1983 STRiDA 1985 Kestrel 4000 1986 'Old Faithful' 1993 Airnimal Chameleon c.2000 Bianchi Pista Chrome 2007 EADS Airebike 2011 Faraday Porteur 2013 ...And Much More!",
-      "image": "http://books.google.com/books/content?id=FsI4AgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Sports & Recreation"
-      ],
-      "ISBN": {
-        "type": "ISBN_13",
-        "identifier": "9781840916508"
       }
     },
     {
