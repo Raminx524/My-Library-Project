@@ -6,12 +6,16 @@ const nextBtn = document.querySelector("#nextHanler");
 const prevNextDIvElem = document.querySelector("#pagination");
 const createFormElem = document.querySelector("#createBookForm");
 const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
+const loaderElem = document.querySelector(".loader");
 renderAll();
 async function renderAll() {
   try {
+    loaderElem.style.display = "grid";
     const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
     const books = res.data.data;
-    renderBooks(books);
+    setTimeout(() => {
+      renderBooks(books);
+    }, 3000);
     paginationHandler(res.data);
   } catch (error) {
     console.log(error);
@@ -19,6 +23,7 @@ async function renderAll() {
 }
 
 function renderBooks(booksArr) {
+  loaderElem.style.display = "none";
   const tableElem = document.querySelector("table");
   tableElem.innerHTML = `<thead>
     <th>ID</th>
