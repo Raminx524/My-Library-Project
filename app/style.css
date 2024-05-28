@@ -12,7 +12,25 @@ body {
     align-items: center;
     padding: 2em;
 }
-
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0;
+    background-color: #000;
+    height: 3em;
+    align-items: center;
+}
+nav a{
+    font-weight: 900;
+    font-size: large;
+    text-decoration: none;
+    color: #000000;
+    padding: 0.5em;
+    background-color: #949494;
+    box-shadow: 2px 2px #666;
+}
 h1{
     color: #fff;
     text-align: center;
@@ -66,7 +84,6 @@ tr:hover{
     cursor: pointer;
 }
 
-/* HTML: <div class="loader"></div> */
 .loader {
     --s: 20px;
     

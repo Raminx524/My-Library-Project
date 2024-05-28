@@ -10,13 +10,15 @@ const loaderElem = document.querySelector(".loader");
 renderAll();
 
 async function renderAll() {
+  document.querySelector("table").innerHTML = "";
   try {
     loaderElem.style.display = "grid";
     const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
     const books = res.data.data;
-    setTimeout(() => {
-      renderBooks(books);
-    }, 3000);
+    // setTimeout(() => {
+    //   renderBooks(books);
+    // }, 3000);
+    renderBooks(books);
     paginationHandler(res.data);
   } catch (error) {
     console.log(error);
@@ -69,48 +71,7 @@ createFormElem.addEventListener("submit", async (e) => {
   e.preventDefault();
   msgBox.innerText = "";
   const bookObj = createBookObj(createFormElem);
-  try {
-    // Check if book title Exists
-    const response = await axios.get(`${booksUrl}?title=${bookObj.title}`);
-    if (response.data.length > 0) {
-      msgBox.innerText = "Failure! Book Title already exist!";
-      msgBox.style.color = "red";
-      return;
-    } else {
-      //Book title doesnt exist
-      if (bookObj.ISBN != "") {
-        try {
-          // Check if book ISBN Exists
-          const response = await axios.get(`${booksUrl}?ISBN=${bookObj.ISBN}`);
-          if (response.data.length > 0) {
-            msgBox.innerText = "Failure! Book ISBN already exist!";
-            msgBox.style.color = "red";
-            return;
-          }
-        } catch (err) {
-          console.log(err);
-        }
-      } else {
-        try {
-          await axios.post(booksUrl, bookObj);
-          msgBox.innerText = "Book added successfully!";
-          msgBox.style.color = "green";
-          await addToHistory({
-            operation: "CREATE",
-            time: new Date(),
-            ISBN: createFormElem.ISBN.value,
-          });
-          renderAll();
-        } catch (error) {
-          console.log(error);
-          msgBox.innerText = "Failure!";
-          msgBox.style.color = "red";
-        }
-      }
-    }
-  } catch (err) {
-    console.log(err);
-  }
+  validateBook(bookObj);
 });
 
 function goToBook(elem) {
@@ -122,17 +83,28 @@ async function addToHistory(obj) {
   await axios.post(historyUrl, obj);
 }
 async function searchBook() {
+  let searchPage = 1;
   const bookToSearch = document.querySelector("#bookSearchValue").value;
-  try {
-    const response = await axios.get(`${booksUrl}?_page=1&_per_page=50`);
-    console.log(response.data);
-    const currentBooks = response.data.data;
-    const filteredBooks = currentBooks.filter((book) =>
-      book.title.includes(bookToSearch)
-    );
-    renderBooks(filteredBooks);
-  } catch (err) {
-    console.log(err);
+  let booksToDisplay = [];
+  while (booksToDisplay.length < 10) {
+    try {
+      const response = await axios.get(
+        `${booksUrl}?_page=${searchPage}&_per_page=50`
+      );
+      const pagesInfo = response.data;
+      const currentBooks = pagesInfo.data;
+      const filteredBooks = currentBooks.filter((book) =>
+        book.title.includes(bookToSearch)
+      );
+      booksToDisplay = booksToDisplay.concat(filteredBooks);
+      if (searchPage == pagesInfo.pages) {
+        break;
+      }
+      searchPage++;
+      renderBooks(booksToDisplay);
+    } catch (err) {
+      console.log(err);
+    }
   }
 }
 
@@ -144,11 +116,82 @@ function createBookObj(formElem) {
       : [formElem.authors.value],
     numPages: formElem.numPages.value,
     description: formElem.description.value,
-    image: formElem.image.value,
+    image: formElem.image.value != "" ? formElem.image.value : "undefined",
     copies: formElem.copies.value,
     categories: formElem.categories.value.includes(",")
       ? formElem.categories.value.split(",")
       : [formElem.categories.value],
-    ISBN: formElem.ISBN.value,
+    ISBN: formElem.ISBN.value != "" ? formElem.ISBN.value : "undefined",
   };
+}
+
+async function validateBook(book) {
+  const msgBox = createFormElem.querySelector("#addFormMsgBox");
+  //check if ISBN is given
+  if (book.ISBN != "") {
+    //ISBN is given - no need to check Title, only ISBN
+    try {
+      // Check if book ISBN Exists in json-server
+      const response = await axios.get(`${booksUrl}?ISBN=${book.ISBN}`);
+      if (response.data.length > 0) {
+        //ISBN found in json-server
+        console.log(response.data);
+        msgBox.innerText = "Failure! Book ISBN already exist!";
+        msgBox.style.color = "red";
+        return;
+      } else {
+        //response is empty/not found - post book to json-server
+        try {
+          await axios.post(booksUrl, book);
+          msgBox.innerText = "Book added successfully!";
+          msgBox.style.color = "green";
+          await addToHistory({
+            operation: "CREATE",
+            time: new Date(),
+            ISBN: createFormElem.ISBN.value,
+          });
+          renderAll();
+          return;
+        } catch (error) {
+          console.log(error);
+          msgBox.innerText = "Failure!";
+          msgBox.style.color = "red";
+        }
+      }
+    } catch (err) {
+      console.log(err);
+    }
+  } else {
+    //ISBN not given, look for unique title instead
+    try {
+      // Check if book title Exists
+      const response = await axios.get(`${booksUrl}?title=${book.title}`);
+      if (response.data.length > 0) {
+        //book title exists - abort
+        msgBox.innerText = "Failure! Book Title already exist!";
+        msgBox.style.color = "red";
+        return;
+      } else {
+        //book title is unique - post book to json-server
+        try {
+          await axios.post(booksUrl, book);
+          msgBox.innerText = "Book added successfully!";
+          msgBox.style.color = "green";
+          await addToHistory({
+            operation: "CREATE",
+            time: new Date(),
+            ISBN: createFormElem.ISBN.value,
+          });
+          renderAll();
+          return;
+        } catch (error) {
+          console.log(error);
+          msgBox.innerText = "Failure!";
+          msgBox.style.color = "red";
+        }
+      }
+    } catch (err) {
+      console.log(err);
+    }
+  }
 }
