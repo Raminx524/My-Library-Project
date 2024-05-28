@@ -7,6 +7,7 @@ const prevNextDIvElem = document.querySelector("#pagination");
 const createFormElem = document.querySelector("#createBookForm");
 const bookDetailsContainer = document.querySelector("#bookDetailsDisplay");
 const loaderElem = document.querySelector(".loader");
+let isGetAll = true;
 renderAll();
 
 async function renderAll() {
@@ -45,12 +46,20 @@ function renderBooks(booksArr) {
 
 prevBtn.onclick = () => {
   numPage--;
-  renderAll();
+  if (isGetAll) {
+    renderAll();
+  } else {
+    renderSearch();
+  }
 };
 
 nextBtn.onclick = () => {
   numPage++;
-  renderAll();
+  if (isGetAll) {
+    renderAll();
+  } else {
+    renderSearch();
+  }
 };
 
 function paginationHandler(pagesInfo) {
@@ -194,4 +203,22 @@ async function validateBook(book) {
       console.log(err);
     }
   }
+}
+
+const sortBtnElem = document.querySelector("#sortBtn");
+sortBtnElem.addEventListener("click", () => {
+  numPage = 1;
+  renderSearch();
+});
+
+async function renderSearch() {
+  isGetAll = false;
+  try {
+    const res = await axios.get(
+      `${booksUrl}?_sort=title&_page=${numPage}&_per_page=20`
+    );
+    console.log(res.data);
+    renderBooks(res.data.data);
+    paginationHandler(res.data);
+  } catch (error) {}
 }

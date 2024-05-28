@@ -1,19 +1,25 @@
 const baseUrl = "http://localhost:8001/books";
 const historyUrl = "http://localhost:8001/history";
+const favoritesUrl = "http://localhost:8001/favorites";
 const urlObj = new URL(window.location.href);
 const params = new URLSearchParams(urlObj.searchParams);
 const bookID = params.get("id");
 let popUpElem;
 let bookISBN;
 init();
+let bookObj;
 
 async function init() {
   try {
-    const response = await axios.get(`${baseUrl}/${bookID}`);
-    const bookDetails = response.data;
+    const bookResponse = await axios.get(`${baseUrl}/${bookID}`);
+    const bookDetails = bookResponse.data;
+    bookObj = bookDetails;
+
     bookISBN = bookDetails.ISBN;
     document.querySelector("h1").innerText = bookDetails.title;
     renderBookDetails(bookDetails);
+    const favResponse = await axios.get(`${favoritesUrl}/${bookID}`);
+    favBtn.classList.add("activeFav");
   } catch (error) {
     console.log(error);
   }
@@ -104,3 +110,23 @@ async function addToHistory(obj) {
     console.log(error);
   }
 }
+async function addToFav() {
+  favBtn.classList.toggle("activeFav");
+  if (favBtn.classList.contains("activeFav")) {
+    try {
+      const res = await axios.post(favoritesUrl, bookObj);
+      console.log(res);
+    } catch (error) {
+      console.log(error);
+    }
+  } else {
+    try {
+      const res = await axios.delete(`${favoritesUrl}/${bookObj.id}`);
+      console.log(res);
+    } catch (err) {
+      console.log(err);
+    }
+  }
+}
+const favBtn = document.querySelector("#favBtn");
+favBtn.onclick = addToFav;
