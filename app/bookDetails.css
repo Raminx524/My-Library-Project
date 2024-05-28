@@ -17,6 +17,7 @@ div#bookDetailsDisplay {
     border: 1px solid;
     padding: 1em;
     border-radius: 8px;
+    max-height: 550px;
 }
 
 .bookInfo {
@@ -52,8 +53,8 @@ gap: 1em;
 
 button#goBackBtn {
     position: absolute;
-    top: 1em;
-    left: 1em;
+    top: 0.5em;
+    left: 0.5em;
     height: 2em;
     font-size: xx-large;
     width: 5em;
