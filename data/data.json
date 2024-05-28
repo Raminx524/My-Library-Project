@@ -26,21 +26,6 @@
       "ISBN": "LOC:00100767399"
     },
     {
-      "id": "a411",
-      "title": "F-102 Delta Dagger Units",
-      "authors": [
-        "Peter E. Davies"
-      ],
-      "numPages": 97,
-      "description": "World War II saw the development of the heavy bomber as a decisive weapon which, in sufficient numbers, could overcome defensive fighters and guns and lay waste to strategic targets. The addition of nuclear weapons to the bomber's armament made it even more formidable, and by the late 1940s, US planners saw the growth of a Soviet nuclear-armed bomber fleet as a terrifying threat to North American security. Conventional subsonic fighters with guns and free-flight air-to-air rockets would be incapable of reaching these incoming bombers in time to prevent even one from delivering a devastating nuclear attack. As a result, supersonic speed, long-range guided missiles and precise radar-based control of an interception became prerequisites for a new breed of fighters, beginning with the F-102. A massive research and development effort produced the F-102A '1954 Fighter', the J57 afterburning turbojet, its Hughes MX-1554 fire control system and, in due course, the Semi-Active Ground Environment (SAGE) radar and communications network that covered North America to guide its airborne defences. In service, F-102As also provided air defence in Europe with USAFE, in the Far East and in Southeast Asia, where they protected US airbases in South Vietnam and Thailand from air attack by North Vietnamese fighters and bombers and escorted B-52s and fighter-bombers on their attack sorties. This illustrated study from leading expert Peter E. Davis details the design, development, and deployment of the futuristic F-102, including its complex research program and role in Vietnam.",
-      "image": "http://books.google.com/books/content?id=MfWvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "History"
-      ],
-      "ISBN": "9781472840684"
-    },
-    {
       "id": "2e0c",
       "title": "מחברת שלום לעם",
       "authors": [
@@ -413,17 +398,6 @@
       "image": "http://books.google.com/books/content?id=QIQ9AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
       "copies": 1,
       "ISBN": "BSB:BSB10240766"
-    },
-    {
-      "id": "b4ce",
-      "title": "S^eph^er hazz^ohar haqq^adówsch 'al hatt^owrah",
-      "authors": [
-        "Ṡimʿon (ben Jochai)"
-      ],
-      "numPages": 578,
-      "image": "http://books.google.com/books/content?id=wUVNAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "ISBN": "KBNL:KBNL03000249031"
     },
     {
       "id": "90ce",
@@ -1078,21 +1052,6 @@
       "image": "http://books.google.com/books/content?id=B1XsVY9PHjkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
       "copies": 1,
       "ISBN": "BSB:BSB11682918"
-    },
-    {
-      "id": "88a3",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "authors": [
-        "J.K. Rowling"
-      ],
-      "numPages": 311,
-      "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
-      "image": "http://books.google.com/books/content?id=wrOQLV6xB-wC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "ISBN": "9781781100486"
     },
     {
       "id": "cabf",
@@ -2889,21 +2848,6 @@
       "ISBN": "SRLF:AA0013971007"
     },
     {
-      "id": "222e",
-      "title": "מדריך לציפורים של מזרח אפריקה",
-      "authors": [
-        "ניקולאס דרייסון",
-        "אורטל אריכה"
-      ],
-      "numPages": 251,
-      "image": "undefined",
-      "copies": 1,
-      "categories": [
-        "Bird watching"
-      ],
-      "ISBN": "9655520188"
-    },
-    {
       "id": "6df3",
       "title": "Mr. June",
       "authors": [
@@ -4460,98 +4404,6 @@
       "ISBN": ""
     }
   ],
-  "history": [
-    {
-      "id": "04cf",
-      "operation": "CREATE",
-      "time": "2024-05-27T17:31:26.606Z",
-      "ISBN": "1933804920FAB"
-    },
-    {
-      "id": "366f",
-      "operation": "CREATE",
-      "time": "2024-05-27T17:32:27.312Z",
-      "ISBN": ""
-    },
-    {
-      "id": "2ea1",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:12:02.234Z"
-    },
-    {
-      "id": "54c0",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:12:27.792Z"
-    },
-    {
-      "id": "9002",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:12:58.403Z"
-    },
-    {
-      "id": "f6c6",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:13:31.054Z"
-    },
-    {
-      "id": "c9f4",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:13:44.617Z"
-    },
-    {
-      "id": "a33c",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:56:43.080Z"
-    },
-    {
-      "id": "7891",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:56:53.981Z"
-    },
-    {
-      "id": "9317",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:57:57.136Z"
-    },
-    {
-      "id": "835e",
-      "operation": "UPDATE",
-      "time": "2024-05-27T18:58:32.644Z"
-    },
-    {
-      "id": "5de1",
-      "operation": "UPDATE",
-      "time": "2024-05-27T18:58:34.357Z"
-    },
-    {
-      "id": "66d5",
-      "operation": "UPDATE",
-      "time": "2024-05-27T18:58:36.321Z"
-    },
-    {
-      "id": "290e",
-      "operation": "DELETE",
-      "time": "2024-05-27T18:59:26.106Z"
-    },
-    {
-      "id": "8365",
-      "operation": "DELETE",
-      "time": "2024-05-28T11:09:53.354Z"
-    },
-    {
-      "id": "f2f3",
-      "operation": "UPDATE",
-      "time": "2024-05-28T11:10:10.793Z"
-    },
-    {
-      "id": "e351",
-      "operation": "UPDATE",
-      "time": "2024-05-28T11:10:13.259Z"
-    },
-    {
-      "id": "7b2e",
-      "operation": "DELETE",
-      "time": "2024-05-28T11:10:22.702Z"
-    }
-  ]
+  "history": [],
+  "favorites":[]
 }
