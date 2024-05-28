@@ -11,7 +11,7 @@ async function init() {
   try {
     const response = await axios.get(`${baseUrl}/${bookID}`);
     const bookDetails = response.data;
-    bookISBN = bookDetails.ISBN["identifier"];
+    bookISBN = bookDetails.ISBN;
     document.querySelector("h1").innerText = bookDetails.title;
     renderBookDetails(bookDetails);
   } catch (error) {
@@ -32,7 +32,7 @@ function renderBookDetails(book) {
         document.querySelector(`#${key}`).innerText = book[key].join(", ");
         break;
       case "ISBN":
-        document.querySelector(`#${key}`).innerText = book[key]["identifier"];
+        document.querySelector(`#${key}`).innerText = book[key];
         break;
       default:
         document.querySelector(`#${key}`).innerText = book[key];

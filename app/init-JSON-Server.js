@@ -23,7 +23,6 @@ async function orderBook(searchParam) {
           ? book.industryIdentifiers[0].identifier
           : "undefined",
       };
-      book.hasOwnProperty();
       postNewBook(newBook);
       console.log(newBook);
     });
