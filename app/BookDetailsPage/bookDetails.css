@@ -26,7 +26,7 @@ div#bookDetailsDisplay {
     animation: fadeIn 3s;
 }
 
-.bookInfo {
+.bookDetailsInfo {
     display: flex;
     flex-direction: column;
     gap: 1em;
