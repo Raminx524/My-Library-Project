@@ -4388,6 +4388,23 @@
         " educational"
       ],
       "ISBN": ""
+    },
+    {
+      "id": "5a10",
+      "title": "aesads",
+      "authors": [
+        "Ramin",
+        " Omer"
+      ],
+      "numPages": "123",
+      "description": "MyLibraryTest",
+      "image": "undefined",
+      "copies": "123",
+      "categories": [
+        "study",
+        " educational"
+      ],
+      "ISBN": "undefined"
     }
   ],
   "history": [
@@ -4456,6 +4473,12 @@
       "operation": "DELETE",
       "time": "2024-05-28T18:31:36.508Z",
       "ISBN": "OSU:32435059941252"
+    },
+    {
+      "id": "b8e7",
+      "operation": "CREATE",
+      "time": "2024-05-29T12:51:09.515Z",
+      "ISBN": ""
     }
   ],
   "favorites": [
@@ -4598,6 +4621,17 @@
         "Literary Criticism"
       ],
       "ISBN": "9780786470198"
+    },
+    {
+      "id": "bf00",
+      "title": "Mass in F (in vocal score) with a separate accompaniment for Pianoforte or Organ",
+      "authors": [
+        "William Crowther Alwyn"
+      ],
+      "numPages": 122,
+      "image": "http://books.google.com/books/content?id=Eiuk8zceK_gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": "BL:A0023000805"
     }
   ]
 }
