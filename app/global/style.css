@@ -189,6 +189,53 @@ div#navBarLinks {
   display: flex;
   gap: 1em;
 }
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 1em;
+    background-color: #cc7421;
+    color: #fff;
+}
+
+.footerContacts {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div#footerProjectSummary {
+    width: 40%;
+}
+
+.footerContactInfoContainer {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    align-self: center;
+}
+.footerContactInfo > div {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
+}
+.gmail p {
+    margin: 0;
+}
+.footerContactInfo h3 {
+    margin: 0;
+}
+
+.footerContactInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3em;
+}
+.footerContactInfo a {
+    color: #fff;
+    text-decoration: none;
+}
 
 #searchBar{
   font-size: 1em;
