@@ -23,7 +23,6 @@ div#bookDetailsDisplay {
     border: 1px solid;
     padding: 1em;
     border-radius: 8px;
-    max-height: 550px;
     animation: fadeIn 3s;
 }
 
@@ -36,7 +35,7 @@ div#bookDetailsDisplay {
 }
 
 dialog{
-    position: absolute;
+    position: fixed;
     top: 30vh;
     border-radius: 5px;
     font-weight: bold;

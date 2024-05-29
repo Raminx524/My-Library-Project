@@ -4615,6 +4615,20 @@
       "image": "http://books.google.com/books/content?id=Eiuk8zceK_gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
       "copies": 1,
       "ISBN": "BL:A0023000805"
+    },
+    {
+      "id": "69fe",
+      "title": "F-18 Program",
+      "authors": [
+        "United States. Congress. Senate. Committee on Armed Services. Subcommittee on Tactical Air Power"
+      ],
+      "numPages": 272,
+      "image": "http://books.google.com/books/content?id=ddIPAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fighter planes"
+      ],
+      "ISBN": "LOC:00100767399"
     }
   ]
 }
