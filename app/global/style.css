@@ -7,12 +7,11 @@ body {
 }
 
 .page {
-  /* background: linear-gradient(146deg, rgba(0,0,0,1) 0%, rgba(110,86,29,1) 100%); */
   background-color: #000;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  /* gap: 5em; */
+  gap: 2em;
   align-items: center;
   padding: 2em;
 }
@@ -85,7 +84,7 @@ section.booksDisplayContainer {
 div#pagination {
   display: none;
   gap: 1em;
-  margin-top: 1em;
+  margin-block: 1em;
 }
 
 section.createBookContainer {
@@ -95,6 +94,15 @@ section.createBookContainer {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 5px 5px #000;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2em;
+}
+.createBookContainer h2{
+  color: #fff;
+  margin: 0;
 }
 
 form#createBookForm {
@@ -104,7 +112,7 @@ form#createBookForm {
   gap: 0.5em;
   background-color: #6e3703;
   color: #fff;
-  margin-top: 4em;
+  width: 100%;
 }
 
 form#createBookForm button{
@@ -289,12 +297,23 @@ button{
   width: 10vw;
   min-width: 200px;
 }
+#searchActionContainer{
+  display: flex;
+}
 
-@media screen and (max-width:900px) {
+@media (max-width:900px) {
   .footerContacts{
       flex-direction: column;
   }
 }
-#searchActionContainer{
-  display: flex;
+@media (max-width:500px){
+  nav, nav a, footer {
+    font-size: small;
+}
+#searchBar{
+  gap: 0.5em;
+}
+table>*{
+  font-size: small;
+}
 }

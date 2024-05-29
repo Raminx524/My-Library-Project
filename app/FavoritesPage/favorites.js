@@ -30,7 +30,11 @@ function renderBooks(booksArr) {
   <p>${book.id}</p>
   <div class="bookInfo">
     <h3>${book.title}</h3>
-    <img src="${book.image}" alt="Photo not found" />
+    <img src="${
+      book.image != "undefined"
+        ? book.image
+        : "https://i.imgflip.com/8s4nsr.jpg"
+    }" alt="Photo not found" />
     <span>${book.ISBN}</span>
   </div>
 </div>`

@@ -32,7 +32,10 @@ function renderBookDetails(book) {
         document.querySelector(`#${key}`).innerText = book[key].join(", ");
         break;
       case "image":
-        document.querySelector("img").src = book[key];
+        document.querySelector("img").src =
+          book[key] != "undefined"
+            ? book[key]
+            : "https://i.imgflip.com/8s4nsr.jpg";
         break;
       case "categories":
         document.querySelector(`#${key}`).innerText = book[key].join(", ");

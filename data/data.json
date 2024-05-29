@@ -4388,6 +4388,23 @@
         " educational"
       ],
       "ISBN": "undefined"
+    },
+    {
+      "id": "f7f7",
+      "title": "Infinite Nature",
+      "authors": [
+        "Ramin Aliev",
+        " Omer Kugel"
+      ],
+      "numPages": "4",
+      "description": "Final Book Test Before Submission",
+      "image": "undefined",
+      "copies": "2",
+      "categories": [
+        "Study",
+        " Educational"
+      ],
+      "ISBN": "undefined"
     }
   ],
   "history": [
@@ -4462,6 +4479,12 @@
       "operation": "CREATE",
       "time": "2024-05-29T12:46:47.877Z",
       "ISBN": "21312321332`1"
+    },
+    {
+      "id": "4322",
+      "operation": "CREATE",
+      "time": "2024-05-29T16:55:33.089Z",
+      "ISBN": ""
     }
   ],
   "favorites": [
@@ -4629,6 +4652,17 @@
         "Fighter planes"
       ],
       "ISBN": "LOC:00100767399"
+    },
+    {
+      "id": "20b8",
+      "title": "Sefer Kad ha-kemaḥ",
+      "authors": [
+        "Baḥya ben Asher ben Ḥlava"
+      ],
+      "numPages": 476,
+      "image": "undefined",
+      "copies": 20,
+      "ISBN": "SRLF:A0000577767"
     }
   ]
 }
