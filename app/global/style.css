@@ -27,6 +27,7 @@ nav {
   align-items: center;
   justify-content: space-around;
   gap: 29em;
+  z-index: 99;
 }
 nav a {
   font-weight: 900;
