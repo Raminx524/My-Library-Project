@@ -8,7 +8,7 @@ body {
 
 .page {
   /* background: linear-gradient(146deg, rgba(0,0,0,1) 0%, rgba(110,86,29,1) 100%); */
-  background-color: #c59f24;
+  background-color: #000;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -94,8 +94,13 @@ form#createBookForm {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
   gap: 0.5em;
+  background-color: #6e3703;
+  color: #fff;
+}
+
+form#createBookForm button{
+  background-color: #cc7421;
 }
 
 tr:hover {
@@ -164,13 +169,16 @@ div#booksSection {
   width: 20%;
   display: flex;
   flex-direction: column;
-  background-color: #fff;
   height: 22em;
   border-radius: 8px;
-  /* background: radial-gradient(circle, rgba(228,206,32,1) 0%, rgb(29, 110, 72) 100%); */
+  background-color: #6e3703;
+  color: #fff;
+  
 }
 .bookContainer:hover{
   cursor: pointer;
+  transition: 0.3s;
+  transform: scale(1.2);
 }
 
 .bookInfo {

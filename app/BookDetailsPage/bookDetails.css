@@ -15,7 +15,7 @@ img{
   }
 
 div#bookDetailsDisplay {
-    background-color: #fff;
+    background-color: #6e3703;
     box-shadow: 10px 10px #868686;
     min-width: 300px;
     width: 40vw;
@@ -32,6 +32,7 @@ div#bookDetailsDisplay {
     flex-direction: column;
     gap: 1em;
     max-width: 370px;
+    
 }
 
 dialog{

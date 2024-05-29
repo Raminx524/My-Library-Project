@@ -4373,23 +4373,6 @@
       "ISBN": "1933804920FAB"
     },
     {
-      "id": "70a3",
-      "title": "Ramin's Test book",
-      "authors": [
-        "Ramin",
-        " Omer"
-      ],
-      "numPages": "123",
-      "description": "MyLibraryTest",
-      "image": "",
-      "copies": "213",
-      "categories": [
-        "study",
-        " educational"
-      ],
-      "ISBN": ""
-    },
-    {
       "id": "5a10",
       "title": "aesads",
       "authors": [
@@ -4475,10 +4458,10 @@
       "ISBN": "OSU:32435059941252"
     },
     {
-      "id": "b8e7",
+      "id": "7fda",
       "operation": "CREATE",
-      "time": "2024-05-29T12:51:09.515Z",
-      "ISBN": ""
+      "time": "2024-05-29T12:46:47.877Z",
+      "ISBN": "21312321332`1"
     }
   ],
   "favorites": [
