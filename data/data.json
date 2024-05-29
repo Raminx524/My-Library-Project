@@ -4373,36 +4373,21 @@
       "ISBN": "1933804920FAB"
     },
     {
-      "id": "70a3",
-      "title": "Ramin's Test book",
+      "id": "5a10",
+      "title": "aesads",
       "authors": [
         "Ramin",
         " Omer"
       ],
       "numPages": "123",
       "description": "MyLibraryTest",
-      "image": "",
-      "copies": "213",
+      "image": "undefined",
+      "copies": "123",
       "categories": [
         "study",
         " educational"
       ],
-      "ISBN": ""
-    },
-    {
-      "id": "ac98",
-      "title": "wecec",
-      "authors": [
-        "csd"
-      ],
-      "numPages": "501",
-      "description": " cdsacd",
-      "image": "undefined",
-      "copies": "2",
-      "categories": [
-        "ecfwxwex"
-      ],
-      "ISBN": "21312321332`1"
+      "ISBN": "undefined"
     }
   ],
   "history": [
@@ -4619,6 +4604,17 @@
         "Literary Criticism"
       ],
       "ISBN": "9780786470198"
+    },
+    {
+      "id": "bf00",
+      "title": "Mass in F (in vocal score) with a separate accompaniment for Pianoforte or Organ",
+      "authors": [
+        "William Crowther Alwyn"
+      ],
+      "numPages": 122,
+      "image": "http://books.google.com/books/content?id=Eiuk8zceK_gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": "BL:A0023000805"
     }
   ]
 }

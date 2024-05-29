@@ -16,6 +16,7 @@ img{
 
 div#bookDetailsDisplay {
     background-color: #6e3703;
+    box-shadow: 10px 10px #868686;
     min-width: 300px;
     width: 40vw;
     justify-content: space-between;
@@ -51,7 +52,7 @@ dialog{
     font-weight: bolder;
 }
 
-#popUpBtns{
+.popUpBtns{
 width: 100%;
 display: flex;
 justify-content: center;
@@ -70,4 +71,25 @@ span#description {
     display: flex;
     max-height: 4.7em;
     overflow-y: auto;
+}
+.activeFav{
+    color: #ff0;
+}
+#favBtn{
+    background-color: #cc7421;
+  border-radius: 10%;
+  height: 1.1em;
+  width: 1.5em;
+  text-align: center;
+}
+div#delUpdbuttons {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+}
+i.fa-solid.fa-x {
+    background-color: #f00;
+    outline: 1px auto #000;
+    width: 1em;
+    text-align: center;
 }

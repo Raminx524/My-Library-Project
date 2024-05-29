@@ -135,7 +135,7 @@ function createBookObj(formElem) {
 async function validateBook(book) {
   const msgBox = createFormElem.querySelector("#addFormMsgBox");
   //check if ISBN is given
-  if (book.ISBN != "") {
+  if (book.ISBN != "undefined") {
     //ISBN is given - no need to check Title, only ISBN
     try {
       // Check if book ISBN Exists in json-server
