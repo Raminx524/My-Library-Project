@@ -4388,6 +4388,21 @@
         " educational"
       ],
       "ISBN": ""
+    },
+    {
+      "id": "ac98",
+      "title": "wecec",
+      "authors": [
+        "csd"
+      ],
+      "numPages": "501",
+      "description": " cdsacd",
+      "image": "undefined",
+      "copies": "2",
+      "categories": [
+        "ecfwxwex"
+      ],
+      "ISBN": "21312321332`1"
     }
   ],
   "history": [
@@ -4456,6 +4471,12 @@
       "operation": "DELETE",
       "time": "2024-05-28T18:31:36.508Z",
       "ISBN": "OSU:32435059941252"
+    },
+    {
+      "id": "7fda",
+      "operation": "CREATE",
+      "time": "2024-05-29T12:46:47.877Z",
+      "ISBN": "21312321332`1"
     }
   ],
   "favorites": [
