@@ -154,7 +154,7 @@
       ],
       "numPages": 476,
       "image": "undefined",
-      "copies": 1,
+      "copies": 20,
       "ISBN": "SRLF:A0000577767"
     },
     {
@@ -652,20 +652,6 @@
         "Law reports, digests, etc"
       ],
       "ISBN": "OSU:32437121285494"
-    },
-    {
-      "id": "a6b2",
-      "title": "מערכי לשוןעבר",
-      "authors": [
-        "Joshua Steinberg"
-      ],
-      "numPages": 192,
-      "image": "http://books.google.com/books/content?id=T18_AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-      "copies": 1,
-      "categories": [
-        "Hebrew language"
-      ],
-      "ISBN": "OSU:32435059941252"
     },
     {
       "id": "cb91",
@@ -4404,6 +4390,214 @@
       "ISBN": ""
     }
   ],
-  "history": [],
-  "favorites":[]
+  "history": [
+    {
+      "id": "2d25",
+      "operation": "UPDATE",
+      "time": "2024-05-28T16:59:57.956Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "739c",
+      "operation": "UPDATE",
+      "time": "2024-05-28T16:59:58.334Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "d183",
+      "operation": "UPDATE",
+      "time": "2024-05-28T16:59:58.867Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "b4c4",
+      "operation": "UPDATE",
+      "time": "2024-05-28T16:59:59.435Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "e42c",
+      "operation": "UPDATE",
+      "time": "2024-05-28T16:59:59.688Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "2c0a",
+      "operation": "UPDATE",
+      "time": "2024-05-28T17:00:01.298Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "e265",
+      "operation": "UPDATE",
+      "time": "2024-05-28T17:00:01.936Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "8297",
+      "operation": "UPDATE",
+      "time": "2024-05-28T17:00:02.158Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "e96a",
+      "operation": "UPDATE",
+      "time": "2024-05-28T17:00:02.381Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "1e9c",
+      "operation": "UPDATE",
+      "time": "2024-05-28T17:00:03.104Z",
+      "ISBN": "SRLF:A0000577767"
+    },
+    {
+      "id": "25a0",
+      "operation": "DELETE",
+      "time": "2024-05-28T18:31:36.508Z",
+      "ISBN": "OSU:32435059941252"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "3960",
+      "title": "Harry Potter and the Goblet of Fire",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "numPages": 750,
+      "description": "'There will be three tasks, spaced throughout the school year, and they will test the champions in many different ways ... their magical prowess - their daring - their powers of deduction - and, of course, their ability to cope with danger.' The Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition. Then at Hallowe'en, when the Goblet of Fire makes its selection, Harry is amazed to find his name is one of those that the magical cup picks out. He will face death-defying tasks, dragons and Dark wizards, but with the help of his best friends, Ron and Hermione, he might just make it through - alive! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "image": "http://books.google.com/books/content?id=etukl7GfrxQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Fiction"
+      ],
+      "ISBN": "9781781100523"
+    },
+    {
+      "id": "e6d3",
+      "title": "מסכת יבמות",
+      "numPages": 296,
+      "image": "http://books.google.com/books/content?id=-6pQPCeQpjsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "ISBN": "KBNL:UBU000041020"
+    },
+    {
+      "id": "ff82",
+      "title": "Harry Potter and International Relations",
+      "authors": [
+        "Daniel H. Nexon",
+        "Iver B. Neumann"
+      ],
+      "numPages": 262,
+      "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+      "image": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Juvenile Fiction"
+      ],
+      "ISBN": "0742539598"
+    },
+    {
+      "id": "98d7",
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 870,
+      "description": "\"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series\"--Provided by publisher.",
+      "image": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Bildungsromans"
+      ],
+      "ISBN": "UOM:39076002651854"
+    },
+    {
+      "id": "cabf",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 734,
+      "description": "Harry Potter must confront the devious and dangerous wizard responsible for his parents' deaths.",
+      "image": "http://books.google.com/books/content?id=4mtauAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Escaped prisoners"
+      ],
+      "ISBN": "1536443743"
+    },
+    {
+      "id": "6ee4",
+      "title": "JK Rowling's Harry Potter Novels",
+      "authors": [
+        "Philip Nel"
+      ],
+      "numPages": 100,
+      "description": "Explores the themes found in the novels, provides information about reviews of the novels, and includes information about the life of J.K. Rowling.",
+      "image": "http://books.google.com/books/content?id=qQYfoV62d30C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": "0826452329"
+    },
+    {
+      "id": "d63a",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "numPages": 280,
+      "description": "Prepare to be spellbound by Jim Kay's dazzling full-colour illustrations in this stunning new edition of J.K. Rowling's Harry Potter and the Chamber of Secrets. Breathtaking scenes, dark themes and unforgettable characters - including Dobby and Gilderoy Lockhart - await inside this fully illustrated edition. With paint, pencil and pixels, award-winning illustrator Jim Kay conjures the wizarding world as we have never seen it before. Fizzing with magic and brimming with humour, this inspired reimagining will captivate fans and new readers alike, as Harry and his friends, now in their second year at Hogwarts School of Witchcraft and Wizardry, seek out a legendary chamber and the deadly secret that lies at its heart ...",
+      "image": "http://books.google.com/books/content?id=cwNbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Boarding schools"
+      ],
+      "ISBN": "9781408845653"
+    },
+    {
+      "id": "9d1f",
+      "title": "Aldous Huxley's Brave New World",
+      "authors": [
+        "David Rogers"
+      ],
+      "numPages": 120,
+      "description": "The astonishing novel Brave New World, originally published in 1932, presents Aldous Huxley's vision of the future -- of a world utterly transformed. Through the most efficient scientific and psychological engineering, people are genetically designed to be passive and therefore consistently useful to the ruling class. This powerful work of speculative fiction sheds a blazing critical light on the present and is considered to be Huxley's most enduring masterpiece. Following Brave New World is the nonfiction work Brave New World Revisited, first published in 1958. It is a fascinating work in which Huxley uses his tremendous knowledge of human relations to compare the modern-day world with the prophetic fantasy envisioned in Brave New World, including threats to humanity, such as overpopulation, propaganda, and chemical persuasion.",
+      "image": "http://books.google.com/books/content?id=86pBAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "ISBN": "STANFORD:36105002404213"
+    },
+    {
+      "id": "2bf3",
+      "title": "The Hobbit",
+      "authors": [
+        "J. R. R. Tolkien"
+      ],
+      "numPages": 0,
+      "description": "For the first time ever, a beautiful slipcased edition of the enchanting prelude to The Lord of the Rings, illustrated throughout with over 50 sketches, drawings, paintings and maps by J.R.R. Tolkien himself, with the complete text printed in two colours and with many bonus features unique to this edition. Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day to whisk him away on an unexpected journey 'there and back again'. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon... Written for J.R.R. Tolkien's own children, The Hobbit was published on 21 September 1937. With a beautiful cover design, a handful of black & white drawings and two maps by the author himself, the book became an instant success and was reprinted shortly afterwards with five colour plates. Tolkien's own selection of finished paintings and drawings have become inseparable from his text, adorning editions of The Hobbit for more than 85 years. But the published art has afforded only a glimpse of Tolkien's creative process, and many additional sketches, coloured drawings and maps - although exhibited and published elsewhere - have never appeared within the pages of The Hobbit. In this unique enhanced edition of Tolkien's enchanting classic tale, the full panoply of his art is reproduced for the first time, presenting more than 50 illustrations to accompany Bilbo Baggins on his adventure 'there and back again'. Unique to this edition are two poster-size, fold-out maps revealing all the detail of Thror's Map and Wilderland, an illustrated 88-page booklet, and a printed art card reproducing Tolkien's original dustjacket painting. It is additionally quarterbound in green leather, with raised ribs on the spine, stamped in three foils on black cloth boards, and housed in a custom-built clothbound slipcase. The pages are edged in gold and include a ribbon marker.",
+      "image": "http://books.google.com/books/content?id=zgQC0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "copies": 1,
+      "ISBN": "0008627835"
+    },
+    {
+      "id": "bb32",
+      "title": "Of Bread, Blood and The Hunger Games",
+      "authors": [
+        "Mary F. Pharr",
+        "Leisa A. Clark",
+        "Donald E. Palumbo"
+      ],
+      "numPages": 255,
+      "description": "This collection of fresh essays on Suzanne Collins's epic trilogy spans multiple disciplines. The contributors probe the trilogy's meaning using theories grounded in historicism, feminism, humanism, queer theory, as well as cultural, political, and media studies. The essayists demonstrate diverse perspectives regarding Collins's novels but their works have three elements in common: an appreciation of the trilogy as literature, a belief in its permanent value, and a need to share both appreciation and belief with fellow readers. The 21 essays that follow the context-setting introduction are grouped into four parts: Part I \"History, Politics, Economics, and Culture,\" Part II \"Ethics, Aesthetics, and Identity,\" Part III \"Resistance, Surveillance, and Simulacra,\" and Part IV \"Thematic Parallels and Literary Traditions.\" A core bibliography of dystopian and postapocalyptic works is included, with emphasis on the young adult category--itself an increasingly crucial part of postmodern culture. Instructors considering this book for use in a course may request an examination copy here.",
+      "image": "http://books.google.com/books/content?id=mjL8WHxkTcoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "copies": 1,
+      "categories": [
+        "Literary Criticism"
+      ],
+      "ISBN": "9780786470198"
+    }
+  ]
 }
