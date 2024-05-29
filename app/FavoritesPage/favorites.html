@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
     <link rel="stylesheet" href="../global/style.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poetsen+One&display=swap"
@@ -13,13 +17,20 @@
   </head>
   <body>
     <nav>
-      <p>ROMER</p>
+      <p><i class="fa-solid fa-book-open-reader"></i>ROMER-BOOKS</p>
       <div id="navBarLinks">
-        <a href="../HomePage/index.html">Home</a
-        ><a href="../HistoryPage/history.html">History</a
-        ><a href="../FavoritesPage/favorites.html" class="currentPageLink"
-          >Favorites</a
-        >
+        <div class="navLinkContainer">
+          <i class="fa-solid fa-house"></i>
+          <a href="../HomePage/index.html">Home</a>
+        </div>
+        <div class="navLinkContainer">
+          <i class="fa-solid fa-clock-rotate-left"></i>
+          <a href="../HistoryPage/history.html">History</a>
+        </div>
+        <div class="navLinkContainer currentPageLink">
+          <i class="fa-solid fa-star"></i>
+          <a href="../FavoritesPage/favorites.html">Favorites</a>
+        </div>
       </div>
     </nav>
     <div class="page">

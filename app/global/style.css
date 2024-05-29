@@ -25,7 +25,6 @@ nav {
   background-color: #cc7421;
   height: 3em;
   align-items: center;
-  color: #fff;
   justify-content: space-around;
   gap: 29em;
 }
@@ -36,7 +35,11 @@ nav a {
   color: #000000;
   padding: 0.5em;
 }
-a.currentPageLink {
+.navLinkContainer {
+  display: flex;
+  align-items: baseline;
+}
+.currentPageLink> * {
   color: aliceblue;
 }
 h1 {
@@ -187,5 +190,27 @@ div#navBarLinks {
   gap: 1em;
 }
 
+#searchBar{
+  font-size: 1em;
+  display: flex;
+    width: 100%;
+    gap: 8em;
+    justify-content: space-around;
+    align-items: center;
+}
 
+
+button{
+  background-color: #cc7421;
+  font-family:"Poetsen One", sans-serif; 
+  border: none;
+  border-radius: 10%;
+}
+
+
+
+.navLinkContainer:hover,button:hover{
+  transition: 0.3s;
+  transform: scale(1.1);
+}
 
