@@ -9,6 +9,11 @@ img{
     margin: 2px;
 }
 
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
 div#bookDetailsDisplay {
     background-color: #fff;
     min-width: 300px;
@@ -18,6 +23,7 @@ div#bookDetailsDisplay {
     padding: 1em;
     border-radius: 8px;
     max-height: 550px;
+    animation: fadeIn 3s;
 }
 
 .bookInfo {
@@ -58,4 +64,9 @@ button#goBackBtn {
     height: 2em;
     font-size: xx-large;
     width: 5em;
+}
+span#description {
+    display: flex;
+    max-height: 4.7em;
+    overflow-y: auto;
 }
