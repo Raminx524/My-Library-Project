@@ -13,18 +13,18 @@ async function showAllHistory() {
     <th>OPERTAION</th>
     <th>TIME OF OPERATION</th>
     <th>ISNB</th>
-    </thead>`;
+    </thead><tbody></tbody>`;
   try {
     const res = await axios.get(`${historyUrl}?_page=${numPage}&_per_page=30`);
     console.log(res.data);
     const historyItemArrs = res.data.data;
     historyItemArrs.forEach((histItem) => {
-      tableElem.innerHTML += `<tbody>
+      tableElem.querySelector("tbody").innerHTML += `
         <td>${histItem.id}</td>
         <td>${histItem.operation}</td>
         <td>${histItem.time}</td>
         <td>${histItem.ISBN}</td>
-        </tbody>`;
+        `;
     });
     paginationHanlders(res.data);
   } catch (error) {
