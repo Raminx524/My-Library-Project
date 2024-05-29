@@ -27,7 +27,7 @@ function renderBooks(booksArr) {
   const getAllContainer = document.querySelector("#booksSection");
   const booksElems = booksArr.map(
     (book) => `<div class="bookContainer" onclick="goToBook(this)">
-  <span>${book.id}</span>
+  <p>${book.id}</p>
   <div class="bookInfo">
     <h3>${book.title}</h3>
     <img src="${book.image}" alt="Photo not found" />

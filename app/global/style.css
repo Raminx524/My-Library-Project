@@ -1,41 +1,48 @@
 body {
-    margin: 0;
-    overflow-x: hidden;
+  margin: 0;
+  overflow-x: hidden;
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .page {
-    background: radial-gradient(circle, rgba(36,31,111,1) 0%, rgba(0,0,255,1) 50%, rgba(0,0,0,1) 100%);
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    gap: 5em;
-    align-items: center;
-    padding: 2em;
+  /* background: linear-gradient(146deg, rgba(0,0,0,1) 0%, rgba(110,86,29,1) 100%); */
+  background-color: #c59f24;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  gap: 5em;
+  align-items: center;
+  padding: 2em;
 }
 nav {
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    position: sticky;
-    top: 0;
-    background-color: #000;
-    height: 3em;
-    align-items: center;
+  width: 100%;
+  display: flex;
+  position: sticky;
+  top: 0;
+  /* background-color: #000; */
+  background-color: #cc7421;
+  height: 3em;
+  align-items: center;
+  color: #fff;
+  justify-content: space-around;
+  gap: 29em;
 }
-nav a{
-    font-weight: 900;
-    font-size: large;
-    text-decoration: none;
-    color: #000000;
-    padding: 0.5em;
-    background-color: #949494;
-    box-shadow: 2px 2px #666;
+nav a {
+  font-weight: 900;
+  font-size: large;
+  text-decoration: none;
+  color: #000000;
+  padding: 0.5em;
 }
-h1{
-    color: #fff;
-    text-align: center;
+a.currentPageLink {
+  color: aliceblue;
 }
-
+h1 {
+  color: #fff;
+  text-align: center;
+}
 
 table {
     border-collapse: collapse;
@@ -58,65 +65,127 @@ tbody {
 }
 
 section.booksDisplayContainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1em;
-    min-height: 602px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  min-height: 602px;
 }
 
-
 div#pagination {
-    display: none;
-    gap: 1em;
+  display: none;
+  gap: 1em;
 }
 
 section.createBookContainer {
-    width: 50%;
-    align-self: center;
-    border: 1px solid;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 5px 5px #000;
+  width: 50%;
+  align-self: center;
+  border: 1px solid;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 5px 5px #000;
 }
 
 form#createBookForm {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: #fff;
-    gap: 0.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  gap: 0.5em;
 }
 
-tr:hover{
-    cursor: pointer;
+tr:hover {
+  cursor: pointer;
 }
 
 .loader {
-    --s: 20px;
-    
-    --_d: calc(0.353*var(--s));
-    width: calc(var(--s) + var(--_d));
-    aspect-ratio: 1;
-    display: none;
+  --s: 20px;
+
+  --_d: calc(0.353 * var(--s));
+  width: calc(var(--s) + var(--_d));
+  aspect-ratio: 1;
+  display: none;
+}
+.loader:before,
+.loader:after {
+  content: "";
+  grid-area: 1/1;
+  clip-path: polygon(
+    var(--_d) 0,
+    100% 0,
+    100% calc(100% - var(--_d)),
+    calc(100% - var(--_d)) 100%,
+    0 100%,
+    0 var(--_d)
+  );
+  background: conic-gradient(
+    from -90deg at calc(100% - var(--_d)) var(--_d),
+    #fff 135deg,
+    #666 0 270deg,
+    #aaa 0
+  );
+  animation: l6 2s infinite;
+}
+.loader:after {
+  animation-delay: -1s;
+}
+@keyframes l6 {
+  0% {
+    transform: translate(0, 0);
   }
-  .loader:before,
-  .loader:after {
-    content: "";
-    grid-area: 1/1;
-    clip-path: polygon(var(--_d) 0,100% 0,100% calc(100% - var(--_d)),calc(100% - var(--_d)) 100%,0 100%,0 var(--_d));
-    background:
-      conic-gradient(from -90deg at calc(100% - var(--_d)) var(--_d),
-       #fff 135deg,#666 0 270deg,#aaa 0);
-    animation: l6 2s infinite;
+  25% {
+    transform: translate(30px, 0);
   }
-  .loader:after {
-    animation-delay:-1s;
+  50% {
+    transform: translate(30px, 30px);
   }
-  @keyframes l6{
-    0%  {transform:translate(0,0)}
-    25% {transform:translate(30px,0)}
-    50% {transform:translate(30px,30px)}
-    75% {transform:translate(0,30px)}
-    100%{transform:translate(0,0)}
+  75% {
+    transform: translate(0, 30px);
   }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+div#booksSection {
+  display: flex;
+  width: 80vw;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4em;
+}
+
+.bookContainer {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  height: 22em;
+  border-radius: 8px;
+  /* background: radial-gradient(circle, rgba(228,206,32,1) 0%, rgb(29, 110, 72) 100%); */
+}
+.bookContainer:hover{
+  cursor: pointer;
+}
+
+.bookInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+h3 {
+  height: 1.2em;
+  overflow-y: hidden;
+  text-align: center;
+}
+div#navBarLinks {
+  display: flex;
+  gap: 1em;
+}
+
+
+
