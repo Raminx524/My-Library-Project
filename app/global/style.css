@@ -45,17 +45,23 @@ h1 {
 }
 
 table {
-  border-collapse: collapse;
-  width: 30vw;
-  text-align: center;
-  min-height: 33em;
-  color: #fff;
+    border-collapse: collapse;
+    width: 70vw;
+    text-align: center;
+    min-height: 33em;
+    color: #fff;
 }
 
-td,
-tr,
-th {
-  border: 1px solid #fff;
+td, tr, th {
+    border: 1px solid #000;
+}
+thead {
+    background: #000;
+}
+
+tbody {
+    background: #fff;
+    color: #000;
 }
 
 section.booksDisplayContainer {
