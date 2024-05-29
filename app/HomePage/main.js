@@ -11,7 +11,6 @@ let isGetAll = true;
 renderAll();
 
 async function renderAll() {
-  document.querySelector("table").innerHTML = "";
   try {
     loaderElem.style.display = "grid";
     const res = await axios.get(`${booksUrl}?_page=${numPage}&_per_page=20`);
@@ -28,19 +27,18 @@ async function renderAll() {
 
 function renderBooks(booksArr) {
   loaderElem.style.display = "none";
-  const tableElem = document.querySelector("table");
-  tableElem.innerHTML = `<thead>
-    <th>ID</th>
-    <th>TITLE</th>
-    </thead><tbody></tbody>`;
-  const tbodyElem = tableElem.querySelector("tbody");
-  booksArr.forEach((book) => {
-    tbodyElem.innerHTML += `
-      <tr onclick="goToBook(this)">
-        <td>${book.id}</td>
-        <td>${book.title}</td>
-        </tr>`;
-  });
+  const getAllContainer = document.querySelector("#booksSection");
+  const booksElems = booksArr.map(
+    (book) => `<div class="bookContainer" onclick="goToBook(this)">
+  <span>${book.id}</span>
+  <div class="bookInfo">
+    <h3>${book.title}</h3>
+    <img src="${book.image}" alt="Photo not found" />
+    <span>${book.ISBN}</span>
+  </div>
+</div>`
+  );
+  getAllContainer.innerHTML = booksElems.join("");
   prevNextDIvElem.style.display = "flex";
 }
 

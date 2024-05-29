@@ -2,12 +2,10 @@ const favoritesUrl = "http://localhost:8001/favorites";
 const prevNextDivElem = document.querySelector("#pagination");
 const nextHandler = document.querySelector("#nextHanler");
 const prevHandler = document.querySelector("#previousHanler");
-const tableElem = document.querySelector("table");
 let numPage = 1;
 const loaderElem = document.querySelector(".loader");
 
 async function renderAll() {
-  tableElem.innerHTML = "";
   try {
     loaderElem.style.display = "grid";
     const res = await axios.get(
@@ -26,19 +24,19 @@ async function renderAll() {
 
 function renderBooks(booksArr) {
   loaderElem.style.display = "none";
-  tableElem.innerHTML = `<thead>
-      <th>ID</th>
-      <th>TITLE</th>
-      </thead><tbody></tbody>`;
-  const tbodyElem = tableElem.querySelector("tbody");
-  booksArr.forEach((book) => {
-    tbodyElem.innerHTML += `
-        <tr onclick="goToBook(this)">
-          <td>${book.id}</td>
-          <td>${book.title}</td>
-          </tr>`;
-  });
-  prevNextDivElem.style.display = "flex";
+  const getAllContainer = document.querySelector("#booksSection");
+  const booksElems = booksArr.map(
+    (book) => `<div class="bookContainer" onclick="goToBook(this)">
+  <span>${book.id}</span>
+  <div class="bookInfo">
+    <h3>${book.title}</h3>
+    <img src="${book.image}" alt="Photo not found" />
+    <span>${book.ISBN}</span>
+  </div>
+</div>`
+  );
+  getAllContainer.innerHTML = booksElems.join("");
+  prevNextDIvElem.style.display = "flex";
 }
 
 loaderElem.style.display = "grid";
