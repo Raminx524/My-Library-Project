@@ -1,7 +1,7 @@
 const historyUrl = "http://localhost:8001/history";
 const prevNextDivElem = document.querySelector("#pagination");
-const nextHandler = document.querySelector("#nextHanler");
-const prevHandler = document.querySelector("#previousHanler");
+const nextHandler = document.querySelector("#nextHandler");
+const prevHandler = document.querySelector("#previousHandler");
 let numPage = 1;
 const tableElem = document.querySelector("table");
 const loaderElem = document.querySelector(".loader");
@@ -10,12 +10,12 @@ async function showAllHistory() {
   loaderElem.style.display = "none";
   tableElem.innerHTML += `<thead>
     <th>ID</th>
-    <th>OPERTAION</th>
+    <th>OPERATION</th>
     <th>TIME OF OPERATION</th>
-    <th>ISNB</th>
+    <th>ISBN</th>
     </thead><tbody></tbody>`;
   try {
-    const res = await axios.get(`${historyUrl}?_page=${numPage}&_per_page=30`);
+    const res = await axios.get(`${historyUrl}?_page=${numPage}`);
     console.log(res.data);
     const historyItemArrs = res.data.data;
     historyItemArrs.forEach((histItem) => {
@@ -26,11 +26,10 @@ async function showAllHistory() {
         <td>${histItem.ISBN}</td>
         `;
     });
-    paginationHanlders(res.data);
+    paginationHandlers(res.data);
   } catch (error) {
     console.log(error);
   }
-  prevNextDivElem.style.display = "flex";
 }
 
 loaderElem.style.display = "grid";
@@ -50,7 +49,7 @@ prevHandler.onclick = () => {
   showAllHistory();
 };
 
-function paginationHanlders(pageInfo) {
+function paginationHandlers(pageInfo) {
   if (pageInfo.last == numPage) {
     nextHandler.disabled = true;
   } else {
@@ -60,5 +59,11 @@ function paginationHanlders(pageInfo) {
     prevHandler.disabled = true;
   } else {
     prevHandler.disabled = false;
+  }
+  if (prevHandler.disabled && nextHandler.disabled) {
+    console.log("true");
+    prevNextDivElem.style.display = "none !important";
+  } else {
+    prevNextDivElem.style.display = "flex";
   }
 }
