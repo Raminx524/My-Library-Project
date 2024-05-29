@@ -76,5 +76,5 @@ function paginationHandler(pageInfo) {
 
 function goToBook(elem) {
   const bookID = elem.childNodes[1].innerText;
-  window.location.assign(`./bookdetails.html?id=${bookID}`);
+  window.location.assign(`../BookDetailsPage/bookdetails.html?id=${bookID}`);
 }
