@@ -19,25 +19,34 @@
   </head>
   <body>
     <nav>
-      <p>ROMER-BOOKS</p>
+      <p><i class="fa-solid fa-book-open-reader"></i>ROMER-BOOKS</p>
       <div id="navBarLinks">
-        <a href="../HomePage/index.html" class="currentPageLink">Home</a
-        ><a href="../HistoryPage/history.html">History</a
-        ><a href="../FavoritesPage/favorites.html">Favorites</a>
+        <div class="navLinkContainer currentPageLink">
+          <i class="fa-solid fa-house"></i>
+          <a href="../HomePage/index.html">Home</a>
+        </div>
+        <div class="navLinkContainer">
+          <i class="fa-solid fa-clock-rotate-left"></i>
+          <a href="../HistoryPage/history.html">History</a>
+        </div>
+        <div class="navLinkContainer">
+          <i class="fa-solid fa-star"></i>
+          <a href="../FavoritesPage/favorites.html">Favorites</a>
+        </div>
       </div>
     </nav>
     <div class="page">
       <h1>My Library</h1>
-      <div>
-        <button id="sortBtn">Sort by name</button>
-      </div>
       <section class="booksDisplayContainer">
         <div id="searchBar">
-          <input
-            type="text"
-            id="bookSearchValue"
-            placeholder="Book Name"
-          /><button onclick="searchBook()">Search</button>
+          <button id="sortBtn">Sort by name</button>
+          <div>
+            <input type="text" id="bookSearchValue" placeholder="Book Name" />
+
+            <button onclick="searchBook()">
+              <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+          </div>
         </div>
         <div class="loader"></div>
         <div id="booksSection"></div>
